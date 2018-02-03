@@ -294,3 +294,7 @@ defaultContentLanguageInSubdir = false
 #   languageCode = "en-us"
 [Languages.es]
   languageCode = "es-es"
+
+# Permalinks' aliases.
+[permalinks]
+  post = "/blog/:year/:month/:day/:title/"
