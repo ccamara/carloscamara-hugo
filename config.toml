@@ -6,11 +6,11 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Carlos Cámara Menoyo"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; Some rights reserved 2018"
 
 theme = "academic"
 enableEmoji = true
@@ -26,7 +26,7 @@ disqusShortname = ""
 googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = false
 
 [outputs]
@@ -47,24 +47,24 @@ defaultContentLanguageInSubdir = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Carlos Cámara Menoyo"
+  role = "Professor e investigador"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Universidad San Jorge", url = "http://usj.es" }, { name = "Universitat Oberta de Catalunya", url = "http://uoc.edu"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  avatar = "carlos-camara.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "carlos@carloscamara.es"
+  address = ""
+  office_hours = ""
+  phone = ""
+  skype = ""
+  telegram = "ccamara"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -92,7 +92,7 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 3
   map_api_key = ""
   latitude = "37.4275"
   longitude = "-122.1697"
@@ -111,7 +111,7 @@ defaultContentLanguageInSubdir = false
   comment_count = true
 
   # Display next/previous section pager?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -170,7 +170,8 @@ defaultContentLanguageInSubdir = false
     'Manuscript',  # 3
     'Report',  # 4
     'Book',  # 5
-    'Book section'  # 6
+    'Book section',  # 6
+    'PhD. Theses'  # 7
   ]
 
   # Configuration of talk pages.
@@ -194,7 +195,7 @@ defaultContentLanguageInSubdir = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 2
 
   # Social/Academic Networking
   #
@@ -217,22 +218,27 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:carlos@carloscamara.es"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/carlescamara"
+
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "http://orcid.org/0000-0002-9378-0549"  
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.es/citations?user=zuCP2PAAAAAJ&hl"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/ccamara"
 
 
 # Navigation Links
@@ -283,5 +289,7 @@ defaultContentLanguageInSubdir = false
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
-[Languages.en]
-  languageCode = "en-us"
+# [Languages.en]
+#   languageCode = "en-us"
+[Languages.es]
+  languageCode = "es-es"
