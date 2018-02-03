@@ -14,7 +14,7 @@ categories = ["Docencia"]
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "/posts/jornadas-usj.jpg"
+image = "post/jornadas-usj.jpg"
 caption = "Amaya Gil, en la sesión inaugural de las V Jornadas de innovación docente"
 preview = true
 
