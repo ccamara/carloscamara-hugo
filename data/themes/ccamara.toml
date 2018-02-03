@@ -1,0 +1,20 @@
+# Theme metadata
+name = "ccamara"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "rgb(255, 128, 0)"
+primary_light = "#ffb86e"
+primary_dark = "#c15100"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#34495e"
+menu_text_active = "#F24E1E"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"

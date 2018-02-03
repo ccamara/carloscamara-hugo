@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://carloscamara.netlify.com/"
 
 # Title of your site
 title = "Carlos Cámara Menoyo"
@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "ccamara"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -153,7 +153,7 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["style.css"]
   custom_js  = []
 
   # Publication types.
