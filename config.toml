@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Carlos Cámara Menoyo"
-  role = "Professor e investigador"
+  role = "Professor, investigador, aprendiz"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -92,7 +92,7 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 3
+  map = 0
   map_api_key = ""
   latitude = "37.4275"
   longitude = "-122.1697"
@@ -228,7 +228,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "orcid"
     icon_pack = "ai"
-    link = "http://orcid.org/0000-0002-9378-0549"  
+    link = "http://orcid.org/0000-0002-9378-0549"
 
   [[params.social]]
     icon = "google-scholar"

@@ -10,31 +10,32 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Ciudades",
+    "Tecnología",
+    "Sociedad",
+    "Commons"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Doctorado en Sociedad de la Información y el Conocimiento"
+  institution = "Universitat Oberta de Catalunya"
+  year = 2018
+
+# [[education.courses]]
+#   course = "Master en Sociedad de la Información y el Conocimiento"
+#   institution = "Universitat Oberta de Catalunya"
+#   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Arquitectura"
+  institution = "Universitat Politècnica de Catalunya"
+  year = 2004
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Arquitecto por la ETSA Vallès de la Universitat Politècnica de Catalunya y Doctor en Sociedad de la Información y el Conocimiento por la Universitat Oberta de Catalunya. Trabaja como profesor e investigador en la Escuela de Arquitectura y Tecnología de la Universidad San Jorge.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Entre sus múltiples intereses de investigación se encuentran las comodificaciones entre ciudad, tecnología y sociedad dentro del marco del informacionalismo y la cultura libre.
