@@ -1,5 +1,5 @@
 +++
-title = "Sesión DrupalCamp Spain 2014: \"Scrum: una retrospectiva\""
+title = "Scrum: una retrospectiva"
 date = 2014-05-21T00:39:05+01:00  # Schedule page publish date.
 draft = false
 
