@@ -6,7 +6,7 @@ draft = false
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["participación ciudadana", "colectivos"]
-categories = ["Arquitectura", "Opinión y crítica"]
+categories = ["Arquitectura", "Pensamiento y crítica"]
 people = ["Luis Fernández-Galiano", "Josep Maria Montaner", "Domenico di Siena", "Santiago de Molina"]
 
 # Featured image
