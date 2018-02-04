@@ -5,8 +5,8 @@ widget = "posts"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Recent Posts"
-subtitle = ""
+title = "Blog"
+subtitle = "Listado de los posts más recientes del blog"
 
 # Order that this section will appear in.
 weight = 40
@@ -21,4 +21,3 @@ tags_exclude = []
 count = 5
 
 +++
-
