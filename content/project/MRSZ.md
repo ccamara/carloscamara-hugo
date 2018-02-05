@@ -16,6 +16,7 @@ image_preview: project/mrsz/MRSZ-unidades-de-barrio-de-zaragoza-y-desglose-en-un
 tags:
 - vulnerabilidad
 - finalizado
+- investigación
 
 
 # Optional external URL for project (replaces project detail page).

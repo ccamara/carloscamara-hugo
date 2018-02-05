@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["drupal", "arquitectura"]
+tags = ["drupal", "arquitectura", "desarrollo web"]
 
 # Project summary to display on homepage.
 summary = "Comunidad online de arquitectura"
@@ -14,7 +14,7 @@ summary = "Comunidad online de arquitectura"
 image_preview = "project/plusarquitectura.jpg"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://v3.plusarquitectura.info/"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
