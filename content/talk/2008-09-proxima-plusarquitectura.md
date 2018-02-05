@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2008-09-30T11:38:50+01:00
+time_start = 2008-09-30
 #time_end = 2018-02-05T11:38:50+01:00
 
 # Abstract and optional shortened version.
@@ -30,7 +30,7 @@ projects = ["plusarquitectura"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["web"]
+tags = ["web", "plusarquitectura"]
 
 # Links (optional).
 url_pdf = ""
