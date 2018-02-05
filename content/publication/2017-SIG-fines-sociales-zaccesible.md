@@ -69,3 +69,5 @@ image = ""
 caption = ""
 
 +++
+
+Comunicación en la que detallamos la práctica de innovación docente realizada en el marco de la asignatura Urbanismo VI de la Escuela de Arquitectura y Tecnología de la [USJ](http://usj.es) y el proyecto de investización [Zaragoza Accesible]({{< ref "project/zaccesible.md" >}}) como hilo argumental para el aprendizaje de la utilización de SIG y con una aplicacición concreta con fines sociales.
