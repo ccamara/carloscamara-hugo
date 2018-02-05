@@ -39,7 +39,7 @@ projects = ["zaccesible"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["SIG", "GIS", "Docencia", "Zaragoza Accesible", "OpenStreetMap"]
+tags = ["SIG", "GIS", "Docencia", "Zaragoza Accesible", "OpenStreetMap", "Innovación docente"]
 
 # Links (optional).
 url_pdf = "http://upcommons.upc.edu/handle/2117/109582"
