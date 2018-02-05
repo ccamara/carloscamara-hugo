@@ -1,11 +1,11 @@
 +++
 title = "ArchTLAS"
-date = 2018-02-04T12:42:02+01:00
+date = 2009-12-01T12:42:02+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["arquitectura", "desarrollo web", "drupal", "mapas"]
+tags = ["arquitectura", "desarrollo web", "drupal", "mapas", "finalizado"]
 
 # Project summary to display on homepage.
 summary = "Atlas de arquitectura on-line colaborativo"
