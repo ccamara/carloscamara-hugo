@@ -19,6 +19,7 @@ tags:
   - OpenStreetMap
   - activo
   - investigación
+  - mapas
 
 # Optional external URL for project (replaces project detail page).
 external_link: "http://zaccesible.usj.es"

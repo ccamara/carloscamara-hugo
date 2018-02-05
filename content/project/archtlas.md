@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["arquitectura", "desarrollo web", "drupal"]
+tags = ["arquitectura", "desarrollo web", "drupal", "mapas"]
 
 # Project summary to display on homepage.
 summary = "Atlas de arquitectura on-line colaborativo"

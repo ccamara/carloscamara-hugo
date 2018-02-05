@@ -41,6 +41,10 @@ filter_default = 0
   tag = ".web"
 
 [[filter]]
+  name = "Mapas"
+  tag = ".mapas"
+
+[[filter]]
   name = "Editorial"
   tag = ".editorial"
 

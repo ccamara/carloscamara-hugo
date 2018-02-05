@@ -17,6 +17,7 @@ tags:
 - vulnerabilidad
 - finalizado
 - investigación
+- mapas
 
 
 # Optional external URL for project (replaces project detail page).
