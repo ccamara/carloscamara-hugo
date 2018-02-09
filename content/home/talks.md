@@ -4,7 +4,7 @@ widget = "talks"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Recent & Upcoming Talks"
+title = "Conferencias y charlas"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -19,4 +19,3 @@ count = 10
 list_format = 0
 
 +++
-
