@@ -1,6 +1,6 @@
 +++
 title = "Web de la Bienal Española de Arquitectura y Urbanismo"
-date = 2018-02-08T19:27:52+01:00
+date = 2011-05-01T19:27:52+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
