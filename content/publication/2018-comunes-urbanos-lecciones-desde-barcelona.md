@@ -47,7 +47,7 @@ url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "https://speakerdeck.com/ccamara/comunes-urbanos-lecciones-desde-la-barcelona-de-principios-del-siglo-xxi"
 url_video = "https://www.youtube.com/watch?v=HoYcpvSlqzQ"
 url_poster = ""
 url_source = ""
@@ -69,3 +69,6 @@ image = ""
 caption = ""
 
 +++
+Próximamente colgaré la tesis al completo en licencia creative commons. Mientras tanto, comparto la presentación de la defensa:
+
+{{< speakerdeck b62594fe9afc44fba4aa8518440bfd31 >}}
