@@ -34,7 +34,7 @@ weight = 5
 
 +++
 
-# Biography
+# Bio
 
 Arquitecto por la ETSA Vallès de la Universitat Politècnica de Catalunya y Doctor en Sociedad de la Información y el Conocimiento por la Universitat Oberta de Catalunya. Trabaja como profesor e investigador en la Escuela de Arquitectura y Tecnología de la Universidad San Jorge.
 
