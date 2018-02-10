@@ -36,6 +36,6 @@ weight = 5
 
 # Bio
 
-Arquitecto por la ETSA Vallès de la Universitat Politècnica de Catalunya y Doctor en Sociedad de la Información y el Conocimiento por la Universitat Oberta de Catalunya. Trabaja como profesor e investigador en la Escuela de Arquitectura y Tecnología de la Universidad San Jorge.
+Arquitecto por la ETSA Vallès de la Universitat Politècnica de Catalunya y Doctor en Sociedad de la Información y el Conocimiento por la Universitat Oberta de Catalunya. Trabajo como profesor e investigador en la Escuela de Arquitectura y Tecnología de la Universidad San Jorge.
 
 Entre mis múltiples intereses de investigación se encuentran las comodificaciones entre ciudad, tecnología y sociedad dentro del marco del informacionalismo y la cultura libre.
