@@ -21,7 +21,7 @@ preview = true
 
 +++
 
-Aunque el anuncio oficial había sido hacía ya varios días, ayer tuvo lugar la ceremonia de entrega de premios [IND+I Science](http://indi.cat/indi-science/)[^INDI], donde recibí el premio de la categoria de **"Políticas de innovación metropolitana"** por mi [investigación doctoral sobre comunes urbanos]({{< ref "publication/2018-comunes-urbanos-lecciones-desde-barcelona.md" >}}).
+Aunque el anuncio oficial había sido hacía ya varios días, ayer tuvo lugar la ceremonia de entrega de premios [IND+I Science](http://indi.cat/indi-science/)[^INDI], donde recibí el premio de la categoria de **"Políticas de innovación metropolitana"** por mi [investigación doctoral sobre comunes urbanos]({{< ref "publication/2018-comunes-urbanos-lecciones-desde-barcelona.md" >}}). <!--more-->
 
 {{< tweet 960439120446320640 >}}
 

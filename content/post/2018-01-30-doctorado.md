@@ -80,7 +80,7 @@ Y aunque el día continuó con una comida con directores y miembros del tribunal
 
 {{< figure src="/img/post/doctorado/urban-commons-presentacio-agraïments.png" title="Diapositiva final de la defensa, con una versión reducida de los agradecimientos de la tesis a modo de tributo a quienes la han hecho posible." >}}
 
-**Addendum:**Y no podía terminar el post de otra forma, con un chiste propio para la ocasión ("El" chiste, como le llama Laura) y una nota mental o recordatorio en forma de tira cómica:
+**Addendum:**Y no podía terminar el post de otra forma, con un chiste propio para la ocasión ("El" chiste, como le llama Laura) y una nota mental o recordatorio a modo de cura de humildad en forma de tira cómica:
 
 {{< tweet 958754670553567232 >}}
 
