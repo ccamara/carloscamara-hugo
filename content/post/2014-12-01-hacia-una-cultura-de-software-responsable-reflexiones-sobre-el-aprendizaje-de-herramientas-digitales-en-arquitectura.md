@@ -18,6 +18,8 @@ image = "post/ab-strip2189-web-sp.png"
 caption = ""
 preview = true
 
+aliases = [/blog/2014/12/01/hacia-una-cultura-de-software-responsable-reflexiones-sobre-el-aprendizaje-de]
+
 +++
 
 A pesar de lo evocadora y prototípica que resulta la imagen del arquitecto trabajando en su mesa de dibujo, con su paralex, sus <em>rotrings</em> y su carboncillo, lo cierto es que hoy en día es imposible concebir nuestra profesión sin <strong>medios informáticos.</strong> Tanto es así que, actualmente, sería imposible realizar en tiempo y forma toda la documentación gráfica y escrita que requiere un proyecto arquitectónico y todos los trámites burocráticos asociados a él. Sin embargo, las herramientas informáticas no son imprescindibles únicamente por el hecho de reducir tiempos o minimizar errores entre toda la documentación generada, sino también porque proporcionan <strong>nuevas formas de expresión sin precedentes</strong>.</p>
