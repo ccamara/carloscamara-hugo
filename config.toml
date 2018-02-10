@@ -255,22 +255,22 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "Publicaciones"
   url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "Blog"
   url = "#posts"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
+  name = "Proyectos"
   url = "#projects"
   weight = 4
 
 [[menu.main]]
-  name = "Contact"
+  name = "Contacto"
   url = "#contact"
   weight = 6
 
