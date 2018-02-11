@@ -269,6 +269,11 @@ defaultContentLanguageInSubdir = false
   url = "#projects"
   weight = 4
 
+  [[menu.main]]
+    name = "Buscar"
+    url = "#search"
+    weight = 5
+
 [[menu.main]]
   name = "Contacto"
   url = "#contact"
