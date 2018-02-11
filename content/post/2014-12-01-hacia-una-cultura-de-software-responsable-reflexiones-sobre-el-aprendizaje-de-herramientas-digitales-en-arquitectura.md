@@ -18,7 +18,7 @@ image = "post/ab-strip2189-web-sp.png"
 caption = ""
 preview = true
 
-aliases = [/blog/2014/12/01/hacia-una-cultura-de-software-responsable-reflexiones-sobre-el-aprendizaje-de]
+aliases = ["/blog/2014/12/01/hacia-una-cultura-de-software-responsable-reflexiones-sobre-el-aprendizaje-de"]
 
 +++
 
