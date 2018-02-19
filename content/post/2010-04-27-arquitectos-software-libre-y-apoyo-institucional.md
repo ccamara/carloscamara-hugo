@@ -32,6 +32,7 @@ Más allá de la importancia que tiene para arquitectos el poder utilizar otras 
 ### ¿Por qué es importante que las instituciones ofrezcan alternativas?
 
 Las instituciones, a diferencia de las empresas, ofrecen servicios a un conjunto de personas a las que representan (y que en la mayoría de las veces, les han elegido democráticamente), por tanto no cuentan entre sus objetivos el de lucrarse económicamente. Partiendo de esta premisa, está claro que **las instituciones se deben a todas y cada una de las personas a las que sirven y le dan sentido de ser**, aunque estas sean (y son) un conjunto hetereogéneo debido a su gran tamaño, lo cual tiene las siguientes implicaciones:
+
 1. Todas las personas deben poder relacionarse en igualdad de condiciones con las instituciones cuando tengan que referirse a ellas, realizar trámites, etc. y eso incluye, entre otras cosas, la posibilidad de elegir libremente el software que utilicen para ese fin.
 2. Las instituciones no están y no deberían estar, vinculadas a ninguna empresa de <em>sofware</em>, pues el objetivo de estas (lucrarse legítimamente por la venta y uso de sus programas) es incompatible con el de las instituciones. El hecho de obligar a utilizar una determinada herramienta informática beneficia casi únicamente a la empresa que lo fabrica y distribuye, en ningún caso a las personas a las que representan.
 
@@ -41,7 +42,7 @@ Si el objetivo a conseguir es el de garantizar que todas aquellas personas vincu
 
  1. **Ser multiplataforma:** de tal forma que no haya dependencia para utilizar un sistema operativo determinado. Esto puede conseguirse porque posea instaladores para distintos sistemas operativos o porque sea ejecutable mediante navegadores web, estando o no instalado en un servidor local.
  2. **Ser gratuitas:** si el objetivo es el de favorecer la comunicación entre las personas y sus administraciones, y los trámites son necesarios, está claro que la institución no debería de lucrarse con la venta de programas que hagan efectiva dicha comunicación.
- 3. **Generar formatos estandar ISO**: con independencia del archivo "nativo" de trabajo que utilicen dichos programas, éstos deberían ser capaces de leer y escribir en alguno de los formatos ISO existentes.<
+ 3. **Generar formatos estandar ISO**: con independencia del archivo "nativo" de trabajo que utilicen dichos programas, éstos deberían ser capaces de leer y escribir en alguno de los formatos ISO existentes.
 
  En cuanto a las webs, que en la mayoría de casos no dejan de ser aplicaciones en la nube, deberían <strong>basarse en los <a href="http://es.wikipedia.org/wiki/Est%C3%A1ndares_web" target="_blank">estándares web</a></strong> (como los del <a href="http://es.wikipedia.org/wiki/World_Wide_Web_Consortium" target="_blank">W3C -World Wide Web Consortium</a>), aunque en realidad sean únicamente recomendaciones; y deberían <strong>ser accesibles</strong>, con lo cual se garantiza que no solo puedan verse con todos los navegadores web, sino que todas las personas puedan leerla, aunque tengan discapacidades. De esta manera no sería imprescindible verlas con Internet Explorer, un programa que se ha caracterizado por ignorar los estándares a menudo (parece ser que en su última versión se están enmendando) como ocurre todavía en demasiadas ocasiones.
 
