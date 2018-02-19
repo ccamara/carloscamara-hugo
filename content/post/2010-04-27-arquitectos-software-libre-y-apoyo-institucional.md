@@ -1,7 +1,7 @@
 +++
 title = "Arquitectos, software libre y apoyo institucional"
-slug = arquitectos-software-libre-y-apoyo-institucional
-date = 1272390358
+slug = "arquitectos-software-libre-y-apoyo-institucional"
+date = 2010-04-27
 draft = false
 
 # Tags and categories
