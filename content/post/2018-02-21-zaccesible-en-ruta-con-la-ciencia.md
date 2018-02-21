@@ -1,6 +1,6 @@
 +++
 title = "Zaragoza accesible en Ruta Con La Ciencia"
-date = 2018-02-21T23:19:22+01:00
+date = 2018-02-21T10:00:00+01:00
 draft = false
 
 # Tags and categories
