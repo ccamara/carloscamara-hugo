@@ -1,5 +1,5 @@
 +++
-title = "Zaragoza Accesible: Accesit Premio Garcia Merdacal"
+title = "Zaragoza Accesible: Accesit Premio Garcia Mercadal"
 date = 2017-10-02T10:00:18+01:00
 draft = false
 
