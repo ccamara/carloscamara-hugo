@@ -1,5 +1,6 @@
 +++
-title = "Colectivos ¿oportunidad real o ficción deseada? "
+title = "Colectivos ¿oportunidad real o ficción deseada?"
+slug = "colectivos-oportunidad-real-o-ficcion-deseada"
 date = 2013-02-15T11:07:12+01:00
 draft = false
 
