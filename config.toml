@@ -297,4 +297,4 @@ defaultContentLanguageInSubdir = false
 
 # Permalinks' aliases.
 [permalinks]
-  post = "/blog/:year/:month/:day/:title/"
+  post = "/blog/:year/:month/:day/:slug/"
