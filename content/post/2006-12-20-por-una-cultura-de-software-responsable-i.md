@@ -1,6 +1,7 @@
 +++
 title = "Por una cultura de software responsable (I)."
-date = 1166604646
+slug = "por-una-cultura-de-software-responsable-i"
+date = 2006-12-20
 draft = false
 
 # Tags and categories
