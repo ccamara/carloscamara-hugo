@@ -1,5 +1,6 @@
 +++
 title = "Fairphone, el teléfono (más) justo: el principio de un cambio"
+slug = "fairphone-el-telefono-mas-justo-el-principio-de-un-cambio"
 date = 2014-03-09T00:54:47+01:00
 draft = false
 
