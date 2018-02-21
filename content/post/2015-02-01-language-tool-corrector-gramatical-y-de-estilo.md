@@ -1,5 +1,6 @@
 +++
 title = "LanguageTool, corrector gramatical y de estilo"
+slug = "language-tool-corrector-gramatical-y-de-estilo"
 date = 2015-02-01T00:02:59+01:00
 draft = false
 
