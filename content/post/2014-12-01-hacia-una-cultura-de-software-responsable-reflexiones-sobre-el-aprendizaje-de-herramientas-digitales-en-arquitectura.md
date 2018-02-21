@@ -1,5 +1,6 @@
 +++
 title = "Hacia una cultura de software responsable: reflexiones sobre el aprendizaje de herramientas digitales en arquitectura"
+slug = "hacia-una-cultura-de-software-responsable-reflexiones-sobre-el-aprendizaje-de"
 date = 2014-12-01T00:16:41+01:00
 draft = false
 
