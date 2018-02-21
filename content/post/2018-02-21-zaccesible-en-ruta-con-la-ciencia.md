@@ -5,7 +5,7 @@ draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Universidad San Jorge", "Zaccesible", "OpenStreetMap", "Mapas"]
+tags = ["Universidad San Jorge", "zaccesible", "OpenStreetMap", "Mapas"]
 categories = ["General"]
 people = ["Carlos Cámara", "Mapeado Colaborativo","Ana Ruiz", "Aragón TV"]
 
