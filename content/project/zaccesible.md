@@ -20,6 +20,7 @@ tags:
   - activo
   - investigación
   - mapas
+  - zaccesible
 
 # Optional external URL for project (replaces project detail page).
 external_link: "http://zaccesible.usj.es"
