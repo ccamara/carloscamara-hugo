@@ -17,7 +17,7 @@ autolink = true
 Si quieres ponerte en contacto conmigo puedes rellenar el siguiente formulario o bien usar las redes sociales que aparecen más a bajo:
 
 
-<form name="contact" netlify-honeypot="bot-field" netlify>
+<form name="contact" netlify-honeypot="bot-field" action="thank-you" netlify>
   <p class="hidden">
     <label>Don’t fill this out if you're human: <input name="bot-field"></label>
   </p>
@@ -30,6 +30,7 @@ Si quieres ponerte en contacto conmigo puedes rellenar el siguiente formulario o
   <p>
     <label>Mensaje: <textarea name="message"></textarea></label>
   </p>
+  <div netlify-recaptcha></div>
   <p>
     <button type="submit">Enviar</button>
   </p>
