@@ -14,7 +14,7 @@ weight = 70
 autolink = true
 
 +++
-Si quieres ponerte en contacto conmigo puedes rellenar el siguiente formulario o bien usar las redes sociales que aparecen más a bajo:
+<!-- Si quieres ponerte en contacto conmigo puedes rellenar el siguiente formulario o bien usar las redes sociales que aparecen más a bajo:
 
 
 <form name="contact" netlify-honeypot="bot-field" action="thank-you" netlify>
@@ -34,4 +34,4 @@ Si quieres ponerte en contacto conmigo puedes rellenar el siguiente formulario o
   <p>
     <button type="submit">Enviar</button>
   </p>
-</form>
+</form> -->
