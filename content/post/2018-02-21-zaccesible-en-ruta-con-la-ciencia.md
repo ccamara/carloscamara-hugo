@@ -66,7 +66,8 @@ Estos últimos años en los que apenas he mostrado actividad en esta web han coi
 
 Hacía tiempo que quería compartirlo por aquí ya que se trata de un proyecto en el que estoy poniendo mucha ilusión y esfuerzo y que, por otra parte, me está dando muchas alegrías. Una de ellas fue el [accésit del premio García Mercadal]({{< ref "post/2017-10-02-premio-garcia-mercadal.md" >}}), pero la más reciente ha sido la de haber participado en el programa de divulgación científica de Aragón TV "[En ruta con la ciencia](http://alacarta.aragontelevision.es/programas/en-ruta-con-la-ciencia/)", que se emitió el sábado pasado, y en el que tuve la oportunidad de participar y explicar en qué consiste el proyecto[^alegrias].
 
-{{< youtube bYWu1qpCNF8 >}}
+<!-- {{< youtube bYWu1qpCNF8 >}} -->
+{{< youtube Fi5CsTFgZjM >}}
 
 Podéis ver el [programa 34 completo en este enlace](http://alacarta.aragontelevision.es/programas/en-ruta-con-la-ciencia/cap-84-nuestras-ciudades-17022018-1330), a partir del minuto 12:55 cuento al físico de partículas Carlos Pobes las particularidades de Zaragoza Accesible[^zaccesible]. Además, en el mismo programa también intervienen Javier Monclús, investigador en arquitectura y urbanismo de la Universidad de Zaragoza, que abre el capítulo explicando el papel que juegan nuestras ciudades en nuestra vida (lo cual introduce muy bien nuestro proyecto); y Antonio Tausiet, que presenta el proyecto [Gran Archivo Zaragoza Antigua](https://adioszaragoza.blogspot.com.es/), un repositorio de imágenes sorprendentes de la ciudad, actuales y antiguas. El resto de metraje está dedicado en la sección de encuestas, a algunos de los mitos sobre la menstruación y a conocer el invento de la carpeta silla.
 
