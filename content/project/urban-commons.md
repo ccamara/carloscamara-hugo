@@ -25,7 +25,9 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "project/01-solar.jpg"
+caption = "Solar donde se ubicará La Borda (Barcelona, Sants). Foto: La Borda"
 
 +++
+
+Investigación doctoral sobre los comunes urbanos como construcciones de alternativas a sociedades y ciudades más justas.
