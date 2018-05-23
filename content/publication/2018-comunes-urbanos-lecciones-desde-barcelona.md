@@ -42,7 +42,7 @@ projects = ["urban-commons.md"]
 tags = ["urban commons", "comunes urbanos", "ciudad", "comunes", "sociedad"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://hdl.handle.net/10803/565533"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -69,6 +69,8 @@ image = ""
 caption = ""
 
 +++
-Próximamente colgaré la tesis al completo en licencia creative commons. Mientras tanto, comparto la presentación de la defensa:
+
+El texto completo puede verse en los repositorios siguientes: [Tesis Doctorals en Xarxa](http://hdl.handle.net/10803/565533), [O2 de la Universitat Oberta de Catalunya](http://hdl.handle.net/10609/78706), [Zenodo](https://zenodo.org/record/1251627).
+A continuación comparto la presentación de la defensa:
 
 {{< speakerdeck b62594fe9afc44fba4aa8518440bfd31 >}}
