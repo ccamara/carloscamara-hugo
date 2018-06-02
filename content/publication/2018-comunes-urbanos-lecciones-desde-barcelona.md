@@ -48,7 +48,7 @@ url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = "https://speakerdeck.com/ccamara/comunes-urbanos-lecciones-desde-la-barcelona-de-principios-del-siglo-xxi"
-url_video = "https://www.youtube.com/watch?v=HoYcpvSlqzQ"
+url_video = "https://youtu.be/GxcbwVOOGoQ"
 url_poster = ""
 url_source = ""
 
