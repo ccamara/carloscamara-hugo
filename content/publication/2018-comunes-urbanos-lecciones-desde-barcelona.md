@@ -50,7 +50,7 @@ url_project = ""
 url_slides = "https://speakerdeck.com/ccamara/comunes-urbanos-lecciones-desde-la-barcelona-de-principios-del-siglo-xxi"
 url_video = "https://youtu.be/GxcbwVOOGoQ"
 url_poster = ""
-url_source = ""
+url_source = "https://phd.carloscamara.es"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
