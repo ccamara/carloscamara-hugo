@@ -54,7 +54,7 @@ Ideólogo, creador, editor, webmaster y community manager de +arquitectura. **+a
 
 Se trata, pues, de una **comunidad** que va más allá de la suma de acciones individuales, un lugar con el común denominador de la arquitectura donde se trabaja en equipo, cada uno haciendo lo que mejor sabe hacer y o lo que más le motiva, ya sea como miembro del equipo o como usuario. Para que eso sea posible +arquitectura pone los medios de que dispone (son muchos más de los que se ven actualmente, basta con tener una idea y pedir) y su *know-how*, adquirido durante todos los años de funcionamiento.
 
-{{< speakerdeck  0284adf9a24c475e855759863bbbac67 >}}
+<script async class="speakerdeck-embed" data-id="0284adf9a24c475e855759863bbbac67" data-ratio="1.33333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### Objetivos
 
