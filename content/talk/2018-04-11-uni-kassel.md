@@ -6,7 +6,7 @@ draft = false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2018-04-11T15:00:00+02:00
-#time_end = 
+#time_end =
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -55,4 +55,4 @@ caption = ""
 
 Ponencia de introducción al concepto de los comunes urbanos dentro del marco de la jornada de trabajo *Stadt-Teilen – Neue öffentliche Räume und nachbarschaftliche Gemeingüter*, liderada por la [Universität Kassel](http://www.uni-kassel.de/uni/)
 
-{{< speakerdeck f4f54775fcf14832bb20c14e2026ae07 >}}
+<script async class="speakerdeck-embed" data-id="f4f54775fcf14832bb20c14e2026ae07" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>

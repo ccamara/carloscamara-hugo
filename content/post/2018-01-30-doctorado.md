@@ -86,7 +86,7 @@ Y aunque el día continuó con una comida con directores y miembros del tribunal
 
 ![Dilbert](/img/post/doctorado/Dilbert-2013-05-24.png)
 
-{{< speakerdeck b62594fe9afc44fba4aa8518440bfd31 >}}
+<script async class="speakerdeck-embed" data-id="b62594fe9afc44fba4aa8518440bfd31" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 [^ausencias]: Agradezco también a quienes, a pesar de no poder asistir por motivos de agenda, distancia, laborales... me hicieron llegar su apoyo desde la distancia, y que estuvieron, por tanto, presentes en espíritu.
 [^turba]: Agradezco (ya advierto que van a salir muchos agradecimientos en este post) a mis tutores Pep y Ramon y a mis compañeros del grupo [TURBA](http://turbain3.wordpress.com) el ensayo de la defensa que pude hacer con ellos y los comentarios que me hicieron llegar, tanto en el ensayo, como después de modificarla. Gracias a sus comentarios la presentación final fue muchísimo mejor que la que escucharon ellos por primera vez y, más importante si cabe, no duró 1hora y 10 minutos (30 minutos más del tiempo de la defensa), lo cual hubiese sido inadmisible, además de soporífero.

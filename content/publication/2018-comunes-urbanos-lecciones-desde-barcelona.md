@@ -73,4 +73,4 @@ caption = ""
 El texto completo puede verse en los repositorios siguientes: [Tesis Doctorals en Xarxa](http://hdl.handle.net/10803/565533), [O2 de la Universitat Oberta de Catalunya](http://hdl.handle.net/10609/78706), [Zenodo](https://zenodo.org/record/1251627).
 A continuación comparto la presentación de la defensa:
 
-{{< speakerdeck b62594fe9afc44fba4aa8518440bfd31 >}}
+<script async class="speakerdeck-embed" data-id="b62594fe9afc44fba4aa8518440bfd31" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
