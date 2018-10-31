@@ -35,7 +35,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["zaccesible.md"]
+projects = ["zaccesible"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -70,4 +70,4 @@ caption = ""
 
 +++
 
-Comunicación en la que detallamos la práctica de innovación docente realizada en el marco de la asignatura Urbanismo VI de la Escuela de Arquitectura y Tecnología de la [USJ](http://usj.es) y el proyecto de investización [Zaragoza Accesible]({{< ref "../project/zaccesible.md" >}}) como hilo argumental para el aprendizaje de la utilización de SIG y con una aplicacición concreta con fines sociales.
+Comunicación en la que detallamos la práctica de innovación docente realizada en el marco de la asignatura Urbanismo VI de la Escuela de Arquitectura y Tecnología de la [USJ](http://usj.es) y el proyecto de investización [Zaragoza Accesible]({{< ref "../project/zaccesible" >}}) como hilo argumental para el aprendizaje de la utilización de SIG y con una aplicacición concreta con fines sociales.

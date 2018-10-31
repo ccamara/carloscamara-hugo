@@ -4,12 +4,10 @@ date: 2015-04-27
 title: Mapa de Riesgo Social de Zaragoza
 summary: Diseño de metodología de análisis social del espacio público que complemente el diseño de los actuales indicadores de vulnerabilidad urbana aplicables a procesos de regeneración urbana.
 
-# Optional featured image (relative to `static/img/` folder).
 header:
-  caption: 'MRSZ: unidades de barrio de zaragoza y desglose en unidades de toma de
+  image:
+    caption: 'MRSZ: unidades de barrio de zaragoza y desglose en unidades de toma de
     datos.'
-  image: project/mrsz/MRSZ-unidades-de-barrio-de-zaragoza-y-desglose-en-unidades-de-toma-de-datos.png
-image_preview: project/mrsz/MRSZ-unidades-de-barrio-de-zaragoza-y-desglose-en-unidades-de-toma-de-datos.png
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
