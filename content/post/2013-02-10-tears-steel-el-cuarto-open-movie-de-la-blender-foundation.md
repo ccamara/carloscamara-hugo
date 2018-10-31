@@ -21,7 +21,7 @@ preview = true
 
 +++
 {{< youtube R6MlUcmOul8 >}}
-Hace ya un año y medio hablé de [Sintel y del concepto de OpenMovie]({{< ref "post/2011-03-30-sintel-un-video-vale-mas-que-mil-palabras.md" >}}) promovido por la Blender Foundation como método de trabajo para conseguir dos objetivos: por un lado utilizar la excusa de la realización de una película para desarrollar nuevas prestaciones para mejorar [Blender](https://blender.org), su software de modelado, renderizado, animación y postproducción; y por otro darle difusión a partir de la repercusión mediática de estas películas.
+Hace ya un año y medio hablé de [Sintel y del concepto de OpenMovie]({{< ref "2011-03-30-sintel-un-video-vale-mas-que-mil-palabras.md" >}}) promovido por la Blender Foundation como método de trabajo para conseguir dos objetivos: por un lado utilizar la excusa de la realización de una película para desarrollar nuevas prestaciones para mejorar [Blender](https://blender.org), su software de modelado, renderizado, animación y postproducción; y por otro darle difusión a partir de la repercusión mediática de estas películas.
 
 Pues bien, ya hace meses que está disponible [Tears of Steel](http://www.tearsofsteel.org/), la cuarta <em>openmovie</em>, y en esta ocasión el requisito era el de hacer una película de ciencia-ficción que combinase por primera vez actores y escenarios reales con modelos y animaciones 3D. Esta premisa debía ser la excusa para mejorar los efectos especiales, los efectos de humo y explosiones, renderizado y animación fotorealista, mejorar el <em>compositing</em> o desarrollar funcionalidades nuevas como el *Camera Tracking*[^1], una técnica que combina gravaciones de vídeo real con cámaras de la escena 3D para obtener resultados como este:
 
