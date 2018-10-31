@@ -9,8 +9,6 @@ summary: Proyecto de mapeado colaborativo de aspectos relacionados con la discap
   #   datos.'
   # image: projects/mrsz/MRSZ-unidades-de-barrio-de-zaragoza-y-desglose-en-unidades-de-toma-de-datos.png
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview: project/zaccesible/zaccesible-cartel-aps.png
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +21,7 @@ tags:
   - zaccesible
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://zaccesible.usj.es"
+external_link: ""
 
 # Does the project detail page use math formatting?
 math: false

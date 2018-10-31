@@ -10,8 +10,6 @@ tags = ["investigación", "comunes urbanos", "comunes", "commons"]
 # Project summary to display on homepage.
 summary = "Investigación doctoral sobre los comunes urbanos como construcciones de alternativas a sociedades y ciudades más justas."
 
-# Optional image to display on homepage.
-image_preview = "project/comunes-urbanos.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -25,8 +23,13 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "project/01-solar.jpg"
+[image]
+# Caption (optional)
 caption = "Solar donde se ubicará La Borda (Barcelona, Sants). Foto: La Borda"
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = "Smart"
 
 +++
 

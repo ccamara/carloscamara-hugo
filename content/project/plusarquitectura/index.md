@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["drupal", "arquitectura", "desarrollo web"]
+tags = ["drupal", "arquitectura", "web"]
 
 # Project summary to display on homepage.
 summary = "Comunidad online de arquitectura"
@@ -25,7 +25,6 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "project/plusarquitectura.jpg"
 caption = "Tercera versión de +arquitectura"
 
 [[gallery_item]]
@@ -68,9 +67,13 @@ Se trata, pues, de una **comunidad** que va más allá de la suma de acciones in
 {{< gallery album="1" >}}
 
 ### Motivación
-<p>La idea de hacer un portal de arquitectura surgió cuando acabé la carrera y me sentí bastante desorientado a la hora de decidir cual tenía que ser mi siguiente paso en mi vida laboral: por una parte veía que había un hueco entre lo aprendido en la carrera y lo que se me venía delante, y por otra parte la información que tenía era más bien poca y confusa. Y fue esto lo que me hizo dar el paso hacia una idea que me venía rondando por la cabeza desde hacía ya bastante tiempo:<br>decidí crear un lugar donde poder aglutinar toda la información posible para poder guiar a otros (y aprender de la experiencia de otra gente más experimentada, por qué no decirlo) en el mundo de la arquitectura.</p>
-<p>Ése portal <strong>no debería ser un simple compendio de informaciones</strong>, normativa, consejos... que irremediablemente quedarían obsoletas en un plazo de tiempo, <strong>sino que debería ser un lugar vivo</strong> donde se mezclasen todo tipo de gente, de cualquier profesión y lugar, que aportasen su granito de arena con sus dudas y consejos, en definitiva un lugar en donde todos aprendiésemos de todos.</p>
-<p>Han pasado ya tres años y aquéllas ideas ya no son un sueño: los objetivos iniciales se van cumpliendo, la previsión de repercusión de +arquitectura se ha superado con creces y continúa creciendo, y se plantean nuevos objetivos más acordes con la realidad del momento de la web. La línea de trabajo presente está en proporcionar contenido único de calidad sobre varias facetas de la arquitectura y la construcción y potenciar una comunidad que participe y se sienta identificada con el portal. El tiempo dirá si los objetivos se consiguen o si todo eso se<br>queda en un simple sueño.</p>
+
+La idea de hacer un portal de arquitectura surgió cuando acabé la carrera y me sentí bastante desorientado a la hora de decidir cual tenía que ser mi siguiente paso en mi vida laboral: por una parte veía que había un hueco entre lo aprendido en la carrera y lo que se me venía delante, y por otra parte la información que tenía era más bien poca y confusa. Y fue esto lo que me hizo dar el paso hacia una idea que me venía rondando por la cabeza desde hacía ya bastante tiempo: decidí crear un lugar donde poder aglutinar toda la información posible para poder guiar a otros (y aprender de la experiencia de otra gente más experimentada, por qué no decirlo) en el mundo de la arquitectura.
+
+
+Ése portal **no debería ser un simple compendio de informaciones**, normativa, consejos... que irremediablemente quedarían obsoletas en un plazo de tiempo, **sino que debería ser un lugar vivo** donde se mezclasen todo tipo de gente, de cualquier profesión y lugar, que aportasen su granito de arena con sus dudas y consejos, en definitiva un lugar en donde todos aprendiésemos de todos.
+
+Han pasado ya tres años y aquéllas ideas ya no son un sueño: los objetivos iniciales se van cumpliendo, la previsión de repercusión de +arquitectura se ha superado con creces y continúa creciendo, y se plantean nuevos objetivos más acordes con la realidad del momento de la web. La línea de trabajo presente está en proporcionar contenido único de calidad sobre varias facetas de la arquitectura y la construcción y potenciar una comunidad que participe y se sienta identificada con el portal. El tiempo dirá si los objetivos se consiguen o si todo eso se queda en un simple sueño.
 
 ### Reconocimientos
 
