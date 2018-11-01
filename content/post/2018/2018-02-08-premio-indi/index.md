@@ -15,9 +15,12 @@ people = []
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "post/indi-science-destacada-DVgmFjgXkAEfsfi.jpg"
-caption = "Foto: IND+I"
-preview = true
+[image]
+caption = "Un momento de la sesión de entrega de premios. Foto: IND+I"
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = "Center"
 
 +++
 

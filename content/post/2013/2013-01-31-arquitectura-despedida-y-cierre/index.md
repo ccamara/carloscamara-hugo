@@ -23,6 +23,8 @@ caption = "+Arquitectura baja la persiana definitivamente."
 # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 focal_point = "Smart"
 
+preview = true
+
 +++
 
 Ayer tomé una decisión dolorosa: cerrar definitivamente la comunidad online que creé en 2004, [+arquitectura]({{< ref "/project/plusarquitectura" >}}). Desde ayer, si alguien intenta acceder encontrará una página diciendo que el sitio donde solíamos reunirnos unos cuantos amantes de la arquitectura ya no existe o no está disponible. Es cierto que desde mediados de 2009 la <a href="http://carloscamara.es/blog/2009/11/25/arquitectura-un-ano-despues">participación en comunidad había empezado a decrecer notablmente</a> y también es cierto que en los últimos dos años apenas ha habido participación alguna (incluso yo mismo dejé de hacerlo), pero no por ello ha sido menos doloroso tomarla. Y es que en el fondo soy consciente de que con el cierre de la web también se produce un cierre de tapa: al fin y al cabo <strong>+arquitectura siempre ha sido para mi algo más que un proyecto, ha sido una experiencia vital.</strong></p>

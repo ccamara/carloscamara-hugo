@@ -14,9 +14,15 @@ categories = ["Tecnología"]
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "post/Playing-Pokemon-Go-on-the-street.jpg"
+[image]
 caption = "Pokémon Go. Fuente: [Comworldseries](http://comworldseries.blogspot.com.es/2016/07/pokemon-go-sows-augmented-reality-seeds.html)"
-preview = true
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = "Smart"
+
+
+
 
 +++
 {{% alert note %}}
