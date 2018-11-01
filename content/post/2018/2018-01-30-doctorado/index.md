@@ -15,9 +15,14 @@ people = ["Carlos Cámara", "Ramon Ribera", "Pep Vivas", "Jorge León"]
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "post/doctorado/DUzQsdQWsAEbF9v.jpeg"
+[image]
+# Caption (optional)
 caption = "Tratando de relajarme un poco mientras el presidente da inicio a la defensa. Foto: Ramon Ribera"
-preview = true
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = "Smart"
+
 
 [[gallery_item]]
 album = "1"
