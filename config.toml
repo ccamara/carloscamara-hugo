@@ -248,7 +248,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "//twitter.com/carlescamara"
+    link = "https://twitter.com/carlescamara"
 
   [[params.social]]
     icon = "orcid"
@@ -263,7 +263,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "//github.com/ccamara"
+    link = "https://github.com/ccamara"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/carlescamara"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -346,22 +351,24 @@ defaultContentLanguageInSubdir = false
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
-# [Languages.en]
-#   languageCode = "en-us"
+
 [Languages.es]
   languageCode = "es-es"
+[Languages.ca]
+  languageCode = "ca"
+  role = "Arquitecte. Doctor. Professor. Estudiant."
 
 # Uncomment the lines below to configure your website in a second language.
-#[languages.zh]
-#  languageCode = "zh-Hans"
-#  title = "Chinese website title..."
-#  [languages.zh.params]
-#    name = "Your name in Chinese..."
-#    role = "Your role in Chinese..."
-#  [[languages.zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[Languages.en]
+  languageCode = "en-us"
+  role = "Architect. PhD. Teacher. Learner."
+ [languages.en.params]
+
+
+ [[languages.en.menu.main]]
+   name = "Wo"
+   url = "#about"
+   weight = 1
 
 # Permalinks' aliases.
 [permalinks]
