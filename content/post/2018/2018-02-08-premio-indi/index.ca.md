@@ -8,6 +8,7 @@ draft = false
 tags = ["premios", "reconocimientos", "innovación", "comunes urbanos"]
 categories = ["Autobombo"]
 people = []
+projects = ["urban-commons"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.

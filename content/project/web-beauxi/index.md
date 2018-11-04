@@ -8,7 +8,7 @@ draft = false
 tags = ["drupal", "web", "mapas"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Realización de web para la publicación, gestión y visualización de proyectos."
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

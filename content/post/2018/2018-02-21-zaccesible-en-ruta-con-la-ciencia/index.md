@@ -8,6 +8,7 @@ draft = false
 tags = ["Universidad San Jorge", "zaccesible", "OpenStreetMap", "Mapas"]
 categories = ["General"]
 people = ["Carlos Cámara", "Mapeado Colaborativo","Ana Ruiz", "Aragón TV"]
+projects = ["zaccesible"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.

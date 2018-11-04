@@ -361,6 +361,7 @@ defaultContentLanguageInSubdir = false
 # Uncomment the lines below to configure your website in a second language.
 [Languages.en]
   languageCode = "en-us"
+  title = "Carlos Cámara-Menoyo"
   role = "Architect. PhD. Teacher. Learner."
  [languages.en.params]
 

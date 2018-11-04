@@ -13,7 +13,8 @@ weight = 5
     "Ciutats",
     "Tecnologia (especialment, des de la component social)",
     "Societat",
-    "Commons"
+    "Commons",
+    "Mapes"
   ]
 
 # List your qualifications (such as academic degrees).
