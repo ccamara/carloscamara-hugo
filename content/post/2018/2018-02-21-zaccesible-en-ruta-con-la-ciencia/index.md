@@ -15,7 +15,7 @@ people = ["Carlos Cámara", "Mapeado Colaborativo","Ana Ruiz", "Aragón TV"]
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "post/ruta-ciencia/zaccesible-ruta-ciencia-Screenshot_20180217_233339.png"
+[image]
 caption = "Un fotograma del programa: Entrevista con Carlos Pobes en las Armas."
 preview = true
 
@@ -32,7 +32,7 @@ preview = true
 
 [[gallery_item]]
 album = "1"
-image = "post/ruta-ciencia/Screenshot_20180218_003319.png"
+image = "Screenshot_20180218_003319.png"
 caption = "En el taller de la USJ, con mis compañeros Santiago Elía y David Chinarro y el alumno Enrico Campagna."
 
 [[gallery_item]]
@@ -78,7 +78,7 @@ Podéis ver el [programa 34 completo en este enlace](http://alacarta.aragontelev
 
 Tengo que reconocer que es la primera vez que participo en un programa de TV como este y fue una experiencia muy enriquecedora grabarlo y prepararlo. Porque esa fue una de las sorpresas más agradables del programa: el equipo de [Sintregua](http://sintregua.com), productores de *"En ruta con la ciencia"*, hacen un trabajo muy cuidadoso que va más allá de lo que se acaba emitiendo en televisión. Tras el primer contacto, en el que me explicaron el funcionamiento del programa, tuve una entrevista telefónica de poco más de una hora con la documentalista Isabel (no recuerdo su apellido) en la que, tras haber leído toda la documentación que le había facilitado (se notaba que estaba preparada), me hacía preguntas muy específicas y aclaraba dudas. A su vez, ese trabajo sirvió para elaborar un guion que me facilitaron previamente, para orientar la accidentada entrevista que me hizo Carlos Pobes unos días más tarde. Y digo accidentada porque, como grabamos por una de las calles que hemos analizado en el estudio, se dio la casualidad que justo a nuestro lado se produjo algún tipo de altercado que requirió la presencia de la policía, cuyos agentes fueron llegando paulatinamente y tuvimos que cortar varias veces la grabación. Además de ello, el equipo se desplazó, otro día, a la Universidad San Jorge, donde grabamos más tomas.
 
-[{{< figure src="/img/post/photo_2018-02-06_10-20-29b.jpg" title="'Making off' de un fragmento del programa, en el taller de maquetas de la USJ. Foto: Ana Ruiz" >}}](http://alacarta.aragontelevision.es/programas/en-ruta-con-la-ciencia/cap-84-nuestras-ciudades-17022018-1330)
+[{{< figure library="1" src="post/ruta-ciencia/photo_2018-02-06_10-20-29b.jpg" title="'Making off' de un fragmento del programa, en el taller de maquetas de la USJ. Foto: Ana Ruiz" >}}](http://alacarta.aragontelevision.es/programas/en-ruta-con-la-ciencia/cap-84-nuestras-ciudades-17022018-1330)
 
 Lo cierto es que estoy muy contento tanto con la experiencia de grabar el programa como con el resultado final, y no puedo hacer otra cosa que reiterar lo que ya hiciera en twitter y agradecer a todo el equipo de [Sintregua](http://sintregua.com), primeramente, por darnos la oportunidad de dar a conocer nuestro proyecto y, en segundo lugar, por hacer un programa tan cuidado y con gran respeto hacia el trabajo que desarrollamos.
 
