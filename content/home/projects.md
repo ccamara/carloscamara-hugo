@@ -34,18 +34,18 @@ filter_default = 0
 
 [[filter]]
   name = "Investigación"
-  tag = ".investigación"
+  tag = ".js-id-investigación"
 
 [[filter]]
   name = "Desarrollo Web"
-  tag = ".web"
+  tag = ".js-id-web"
 
 [[filter]]
   name = "Mapas"
-  tag = ".mapas"
+  tag = ".js-id-mapas"
 
 [[filter]]
   name = "Editorial"
-  tag = ".editorial"
+  tag = ".js-id-editorial"
 
 +++
