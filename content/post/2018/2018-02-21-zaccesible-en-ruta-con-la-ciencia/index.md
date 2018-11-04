@@ -31,33 +31,33 @@ preview = true
 
 
 [[gallery_item]]
-album = "1"
+album = "gallery"
 image = "Screenshot_20180218_003319.png"
 caption = "En el taller de la USJ, con mis compañeros Santiago Elía y David Chinarro y el alumno Enrico Campagna."
 
 [[gallery_item]]
-album = "1"
-image = "post/ruta-ciencia/Screenshot_20180217_233133.png"
+album = "gallery"
+image = "Screenshot_20180217_233133.png"
 caption = "Entradilla del apartado dedicado a Zaragoza Accesible, en la USJ."
 
 [[gallery_item]]
-album = "1"
-image = "post/ruta-ciencia/Screenshot_20180218_002915.png"
+album = "gallery"
+image = "Screenshot_20180218_002915.png"
 caption = "Reunión de trabajo en Zaragoza Accesible con el grupo Mapeado Colaborativo para preparar una Mapping Party."
 
 [[gallery_item]]
-album = "1"
-image = "post/ruta-ciencia/Screenshot_20180218_002816.png"
+album = "gallery"
+image = "Screenshot_20180218_002816.png"
 caption = "Héctor Ochoa y Joan Cano, de Mapeado Colaborativo, tomando notas de campo de accesibilidad."
 
 [[gallery_item]]
-album = "1"
-image = "post/ruta-ciencia/Screenshot_20180218_003006.png"
+album = "gallery"
+image = "Screenshot_20180218_003006.png"
 caption = "Un momento de la entrevista con Carlos Pobes."
 
 [[gallery_item]]
-album = "1"
-image = "post/ruta-ciencia/zaccesible-ruta-ciencia-Screenshot_20180218_003957.png"
+album = "gallery"
+image = "zaccesible-ruta-ciencia-Screenshot_20180218_003957.png"
 caption = "Nerea de la Natividad, voluntaria de la Fundación DFA, compartiendo su experiencia con los desplazamientos cotidianos. Tarda una hora en hacer un recorrido que otras personas podrían hacer en minutos para ir a la universidad."
 
 +++
@@ -74,11 +74,11 @@ Podéis ver el [programa 34 completo en este enlace](http://alacarta.aragontelev
 <!--
 [{{< figure src="/img/post/ruta-ciencia/zaccesible-ruta-ciencia-Screenshot_20180217_233339.png" title="Un momento de la entrevista con Carlos Pobes." >}}](http://alacarta.aragontelevision.es/programas/en-ruta-con-la-ciencia/cap-84-nuestras-ciudades-17022018-1330) -->
 *Algunas imágenes del programa, cuyo contenido puede verse en su totalidad en [este enlace de Aragon TV a la carta](http://alacarta.aragontelevision.es/programas/en-ruta-con-la-ciencia/cap-84-nuestras-ciudades-17022018-1330)*
-{{< gallery album="1" >}}
+{{< gallery album="gallery" >}}
 
 Tengo que reconocer que es la primera vez que participo en un programa de TV como este y fue una experiencia muy enriquecedora grabarlo y prepararlo. Porque esa fue una de las sorpresas más agradables del programa: el equipo de [Sintregua](http://sintregua.com), productores de *"En ruta con la ciencia"*, hacen un trabajo muy cuidadoso que va más allá de lo que se acaba emitiendo en televisión. Tras el primer contacto, en el que me explicaron el funcionamiento del programa, tuve una entrevista telefónica de poco más de una hora con la documentalista Isabel (no recuerdo su apellido) en la que, tras haber leído toda la documentación que le había facilitado (se notaba que estaba preparada), me hacía preguntas muy específicas y aclaraba dudas. A su vez, ese trabajo sirvió para elaborar un guion que me facilitaron previamente, para orientar la accidentada entrevista que me hizo Carlos Pobes unos días más tarde. Y digo accidentada porque, como grabamos por una de las calles que hemos analizado en el estudio, se dio la casualidad que justo a nuestro lado se produjo algún tipo de altercado que requirió la presencia de la policía, cuyos agentes fueron llegando paulatinamente y tuvimos que cortar varias veces la grabación. Además de ello, el equipo se desplazó, otro día, a la Universidad San Jorge, donde grabamos más tomas.
 
-[{{< figure library="1" src="post/ruta-ciencia/photo_2018-02-06_10-20-29b.jpg" title="'Making off' de un fragmento del programa, en el taller de maquetas de la USJ. Foto: Ana Ruiz" >}}](http://alacarta.aragontelevision.es/programas/en-ruta-con-la-ciencia/cap-84-nuestras-ciudades-17022018-1330)
+[{{< figure src="photo_2018-02-06_10-20-29b.jpg" title="'Making off' de un fragmento del programa, en el taller de maquetas de la USJ. Foto: Ana Ruiz" >}}](http://alacarta.aragontelevision.es/programas/en-ruta-con-la-ciencia/cap-84-nuestras-ciudades-17022018-1330)
 
 Lo cierto es que estoy muy contento tanto con la experiencia de grabar el programa como con el resultado final, y no puedo hacer otra cosa que reiterar lo que ya hiciera en twitter y agradecer a todo el equipo de [Sintregua](http://sintregua.com), primeramente, por darnos la oportunidad de dar a conocer nuestro proyecto y, en segundo lugar, por hacer un programa tan cuidado y con gran respeto hacia el trabajo que desarrollamos.
 
