@@ -13,7 +13,8 @@ weight = 5
     "Ciudades",
     "Tecnología",
     "Sociedad",
-    "Commons"
+    "Commons",
+    "Mapas"
   ]
 
 # List your qualifications (such as academic degrees).

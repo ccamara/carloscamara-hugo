@@ -8,6 +8,7 @@ draft = false
 tags = ["UOC", "tesis", "doctorado"]
 categories = ["General"]
 people = ["Carlos Cámara", "Ramon Ribera", "Pep Vivas", "Jorge León"]
+projects = ["urban-commons"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.

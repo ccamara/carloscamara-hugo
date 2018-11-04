@@ -8,6 +8,7 @@ draft = false
 tags = ["accesibilidad", "zaccesible", "difusión"]
 categories = ["General", "Autobombo"]
 people = ["Miguel Sevilla-Callejo"]
+projects = ["zaccesible"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -15,9 +16,11 @@ people = ["Miguel Sevilla-Callejo"]
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "post/pint-of-science-2018.jpg"
+[image]
 caption = "Un momento de la charla: tenemos un problema cuando ningún mapa tiene en cuenta a las personas con diversidad funcional"
 preview = true
+
+
 
 +++
 

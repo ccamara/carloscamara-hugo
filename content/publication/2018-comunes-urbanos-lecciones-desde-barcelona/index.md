@@ -25,9 +25,6 @@ publication_short = ""
 abstract = "El concepto de los comunes es tan poderosamente sugerente como ambiguo. Prueba de ello está en el creciente interés que ha experimentado en los últimos años y en que abarca ámbitos y aspiraciones tan diversas que son, a veces, contrapuestas pero comparten una visión transformadora de la ciudad y la sociedad basada en la cooperación. La presente investigación doctoral se centra en uno de los subgrupos de dichos comunes, el de los comunes urbanos, y tiene como objeto problematizarlos y comprenderlos. Para ello, tras un exhaustivo marco teórico que nos llevará a conocer las raíces y contradicciones del concepto, proponemos una lectura situada y basada en la práctica. A partir del estudio etnográfico de 29 casos (8 de ellos  analizados con exhaustividad) de la Barcelona de principios de siglo XXI confeccionamos 5 hilos discursivos alrededor de sus reivindicaciones, autogestión e institucionalización, relacionalidad, materialidad y espacialidad y tecnología y cultura libres. Es a partir de su análisis donde obtenemos las claves para comprender sus vinculaciones con lo urbano y lo social y, en última instancia, caracterizar el concepto de  común urbano para determinar si, efectivamente, pueden ser auténticos motores de transformación urbana, social y económica que den lugar a proponer ciudades y sociedades alternativas más justas."
 abstract_short = ""
 
-# Featured image thumbnail (optional)
-image_preview = "publication/tesis-portada.png"
-
 # Is this a selected publication? (true/false)
 selected = true
 
@@ -63,10 +60,14 @@ math = false
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Top"
 
 +++
 
