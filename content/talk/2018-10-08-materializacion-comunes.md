@@ -1,11 +1,11 @@
 +++
 title = "La apropiación espacial de los comunes urbanos"
-date = 2018-10-08T16:00:06+02:00  # Schedule page publish date.
+date = 2018-11-08T16:00:06+02:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-10-08T16:00:06+02:00
+time_start = 2018-11-08T16:00:06+02:00
 #time_end = 2018-06-22T22:00:00+02:00
 
 # Abstract and optional shortened version.
@@ -14,7 +14,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "Coloquio ‘Conflicto, Movimientos y Espacio Urbano’"
-event_url = "https://conflictourbano.wordpress.com/"
+event_url = "https://conflictourbano.wordpress.com/ss"
 
 # Location of event.
 location = "Escuela Técnica Superior de Arquitectura de Sevilla"
