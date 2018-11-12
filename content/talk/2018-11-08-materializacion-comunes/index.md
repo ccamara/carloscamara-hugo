@@ -46,9 +46,13 @@ math = false
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "https://conflictourbano.files.wordpress.com/2018/10/cartel-coloquio-digital-conflicto-movimientos-y-espacio-urbano.jpg"
-caption = "Cartel de las jornadas"
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+  # Caption (optional)
+  caption = "Cartel de las jornadas"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
 
 +++
