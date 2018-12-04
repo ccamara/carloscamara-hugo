@@ -1,21 +1,39 @@
 +++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
-active = false
+# About/Biography widget.
+widget = "about"
+active = true
 date = "2016-04-20T00:00:00"
-
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Reseña curricular"
-subtitle = ""
 
 # Order that this section will appear in.
 weight = 1
 
+# List your academic interests.
+[interests]
+  interests = [
+    "Ciudades",
+    "Tecnopolítica",
+    "Sociedad",
+    "Commons",
+    "Mapas"
+  ]
+
+# List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "Doctorado en Sociedad de la Información y el Conocimiento"
+  institution = "Universitat Oberta de Catalunya"
+  year = 2018
+
+[[education.courses]]
+  course = "Master en Sociedad de la Información y el Conocimiento"
+  institution = "Universitat Oberta de Catalunya"
+  year = 2012
+
+[[education.courses]]
+  course = "Arquitectura"
+  institution = "Universitat Politècnica de Catalunya"
+  year = 2004
+
 +++
-
-
 Arquitecto por la ETSA Vallés de la Universitat Politècnica de Catalunya (2004). Doctor en Sociedad de la Información y el conocimiento por la Universitat Oberta de Catalunya (2018) con una tesis sobre Barcelona y nuevos modelos de ciudad en la sociedad de la información y el conocimiento con el título *[“Comunes urbanos: Lecciones desde la Barcelona de principios del siglo XXI. Una propuesta de caracterización desde la praxis”](https://phd.carloscamara.es)* con calificación Excelente _cum Laude_ y galardonada con el [premio IND+I Science en la categoría Políticas de Innovación Metropolitana]({{< ref "post/2018/2018-02-08-premio-indi/index.md" >}}). Máster en Informatización de Proyectos Arquitectónicos en la Universitat Politècnica de Catalunya (2004) y Máster en Sociedad de la Información y el Conocimiento en la Universitat Oberta de Catalunya (2012).
 
 Mi formación mutidisciplinar y **mis múltiples intereses de investigación se vertebran alrededor de las comodificaciones entre ciudad, tecnología y sociedad dentro del marco del informacionalismo y la cultura libre**, aspectos que abordo tanto desde mi vertiente profesional académica como desde mi vertiente activista.
