@@ -3,8 +3,8 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
-subtitle = ""
+title = "Experiencia"
+subtitle = "Estos son algunos de los trabajos que he realizado."
 
 # Order that this section will appear in.
 weight = 8
