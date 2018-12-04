@@ -13,30 +13,66 @@ subtitle = ""
 weight = 7
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # Available icon packs and icons:
 # * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Comunicatión y enseñanza"
+  description = "90%"
+
+[[feature]]
+  icon = "tasks"
+  icon_pack = "fas"
+  name = "Gestión de tareas y proyectos"
+  description = "80%"
+
+[[feature]]
+  icon = "pencil-alt"
+  icon_pack = "fas"
+  name = "Redacción de artículos e informes"
+  description = "80%"
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
+  description = "70%"
+
+[[feature]]
+  icon = "map-marked-alt"
+  icon_pack = "fas"
+  name = "Maps and GIS"
+  description = "80%"
+
+[[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "git"
   description = "90%"
-  
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "markdown"
+  icon_pack = "fab"
+  name = "Markdown and reporting"
+  description = "90%"
+
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+  icon = "drupal"
+  icon_pack = "fab"
+  name = "Drupal"
+  description = "70%"  
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
   description = "10%"
 
 +++
