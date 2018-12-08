@@ -6,7 +6,7 @@ date = 2017-09-20T00:00:00
 # Activate this widget? true/false
 active = true
 
-title = "Skills"
+title = "Habilidades"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -67,7 +67,7 @@ weight = 7
   icon = "drupal"
   icon_pack = "fab"
   name = "Drupal"
-  description = "70%"  
+  description = "70%"
 
 [[feature]]
   icon = "python"
