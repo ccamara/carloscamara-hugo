@@ -7,6 +7,7 @@ draft = false
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Fundación Arquia", "Mapas"]
 categories = ["Ciudad", "Tecnología", "Pensamiento y crítica"]
+projects = ["blogarquia"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
