@@ -8,6 +8,7 @@ draft = false
 tags = ["Fundación Arquia"]
 categories = ["Arquitectura", "Docencia"]
 people = ["Javier Álvarez"]
+projects = ["blogarquia"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.

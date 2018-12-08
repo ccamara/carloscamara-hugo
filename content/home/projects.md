@@ -53,7 +53,7 @@ filter_default = 0
   tag = ".js-id-mapas"
 
 [[filter]]
-  name = "Editorial"
-  tag = ".js-id-editorial"
+  name = "Divulgación"
+  tag = ".js-id-divulgación"
 
 +++

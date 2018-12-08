@@ -8,6 +8,7 @@ draft = false
 tags = ["Fundación Arquia", "Enseñanza", "Profesión", "Precariedad"]
 categories = ["Opinión", "Docencia"]
 people = []
+projects = ["blogarquia"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
