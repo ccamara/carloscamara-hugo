@@ -14,9 +14,14 @@ categories = ["General", "Sostenibilidad"]
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "post/img_20140114_193538.jpg"
+
+[image]
+# Caption (optional)
 caption = "Mi Fairphone"
-preview = true
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = "Smart"
 
 +++
 
