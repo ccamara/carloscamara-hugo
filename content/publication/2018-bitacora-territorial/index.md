@@ -36,7 +36,7 @@ projects = ["zaccesible"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["accesibilidad"]
+tags = ["accesibilidad", "SIG", "mapas"]
 
 # Links (optional).
 url_pdf = "https://revistas.unal.edu.co/index.php/bitacora/article/view/68316/pdf"
