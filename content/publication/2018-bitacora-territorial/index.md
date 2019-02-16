@@ -1,6 +1,6 @@
 +++
 title = "Accesibilidad y tecnologías de información colaborativas. Cartografías para una ciudad inclusiva"
-date = 2018-01-01T17:13:02+01:00
+date = 2018-01-01T17:00:00+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
