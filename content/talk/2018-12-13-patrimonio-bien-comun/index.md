@@ -35,7 +35,7 @@ tags = ["urban commons", "commons"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://ccamara.github.io/slides/2018-12-patrimonio-bien-comun/"
 url_video = ""
 url_code = ""
 
