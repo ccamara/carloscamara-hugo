@@ -17,7 +17,7 @@ event = "Simposio ‘Patrimonio como bien común. La cultura del espacio públic
 event_url = "http://patrimoniocomobiencomun.home.blog/"
 
 # Location of event.
-location = "Córdoba"
+location = "Diputación de Córdoba. Córdoba."
 
 # Is this a selected talk? (true/false)
 selected = false
