@@ -1,5 +1,5 @@
 +++
-title = "Mesa redonda TICs y patrimonio"
+title = "Las comodificaciones entre TICS y espacio público"
 date = 2018-12-03T16:00:06+02:00  # Schedule page publish date.
 draft = false
 
@@ -13,8 +13,8 @@ abstract = "¿Pueden las nuevas tecnologías de la información y de la comunica
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Simposio ‘Patrimonio como bien común. La cultura del espacio público’"
-event_url = ""
+event = "Simposio ‘Patrimonio como bien común. La cultura del espacio público’ (Mesa redonda TICs y patrimonio)"
+event_url = "http://patrimoniocomobiencomun.home.blog/"
 
 # Location of event.
 location = "Córdoba"
@@ -49,7 +49,7 @@ highlight = true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Cartel del simposio"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
