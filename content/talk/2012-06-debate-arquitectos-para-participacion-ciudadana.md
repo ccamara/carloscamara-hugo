@@ -1,16 +1,16 @@
 +++
 title = "Debate: Arquitectos para la participación ciudadana"
-date = 2012-06-25T23:10:52+01:00  # Schedule page publish date.
+publishDate = 2012-06-25T23:10:52+01:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2012-06-25T19:00:00+01:00
-#time_end = 2018-02-04T23:10:52+01:00
+date = 2012-06-25T19:00:00+01:00
+#date_end = 2018-02-04T23:10:52+01:00
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = ""
+summary = ""
 
 # Name of event and optional event URL.
 event = ""

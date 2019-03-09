@@ -1,16 +1,16 @@
 +++
 title = "Urban Commons: Lessons from Barcelona at the beginning of 21st century"
-date = 2018-04-11T15:00:00+02:00  # Schedule page publish date.
+publishDate = 2018-04-11T15:00:00+02:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-04-11T15:00:00+02:00
+date = 2018-04-11T15:00:00+02:00
 #time_end =
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = ""
+summary = ""
 
 # Name of event and optional event URL.
 event = "Stadt-Teilen – Neue öffentliche Räume und nachbarschaftliche Gemeingüter"

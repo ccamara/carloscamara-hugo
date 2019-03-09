@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "El concepto de los comunes es tan poderosamente sugerente como ambiguo. Prueba de ello está en el creciente interés que ha experimentado en los últimos años y en que abarca ámbitos y aspiraciones tan diversas que son, a veces, contrapuestas pero comparten una visión transformadora de la ciudad y la sociedad basada en la cooperación. La presente investigación doctoral se centra en uno de los subgrupos de dichos comunes, el de los comunes urbanos, y tiene como objeto problematizarlos y comprenderlos. Para ello, tras un exhaustivo marco teórico que nos llevará a conocer las raíces y contradicciones del concepto, proponemos una lectura situada y basada en la práctica. A partir del estudio etnográfico de 29 casos (8 de ellos  analizados con exhaustividad) de la Barcelona de principios de siglo XXI confeccionamos 5 hilos discursivos alrededor de sus reivindicaciones, autogestión e institucionalización, relacionalidad, materialidad y espacialidad y tecnología y cultura libres. Es a partir de su análisis donde obtenemos las claves para comprender sus vinculaciones con lo urbano y lo social y, en última instancia, caracterizar el concepto de  común urbano para determinar si, efectivamente, pueden ser auténticos motores de transformación urbana, social y económica que den lugar a proponer ciudades y sociedades alternativas más justas."
-abstract_short = ""
+summary = ""
 
 # Is this a selected publication? (true/false)
 featured = true
@@ -51,7 +51,7 @@ url_source = "https://phd.carloscamara.es"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# links = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

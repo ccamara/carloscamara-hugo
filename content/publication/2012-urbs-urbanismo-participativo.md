@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "A pesar de que el urbanismo es algo que concierne a todo el mundo, tradicionalmente ha sido algo gestionado únicamente por técnicos y políticos y, por tanto, en la toma de decisiones relativas a la morfología y usos de las ciudades no han sido tenidos en cuenta los intereses y deseos de la ciudadanía. Sin embargo, esto puede estar a punto de cambiar debido al incremento de popularidad del llamado urbanismo participativo, que parece haber encontrado en esta segunda mitad del siglo XXI y en el contexto de la Sociedad Red, una oportunidad de desarrollo sin precedentes que, a pesar de encontrarse en un estado incipiente, plantea nuevas formas de entender la ciudad, el urbanismo, la política y la colaboración a la vez que supone un reto para administraciones públicas y promotores de las mismas."
-abstract_short = ""
+summary = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# links = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

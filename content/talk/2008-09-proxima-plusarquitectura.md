@@ -1,16 +1,16 @@
 +++
 title = "+arquitectura en el foro Arquia/Proxima"
-date = 2008-09-30T11:38:50+01:00  # Schedule page publish date.
+publishDate = 2008-09-30T11:38:50+01:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2008-09-30
-#time_end = 2018-02-05T11:38:50+01:00
+date = 2008-09-30
+#date_end = 2018-02-05T11:38:50+01:00
 
 # Abstract and optional shortened version.
 abstract = "Presentación de +arquitectura, una de las 28 realizaciones seleccionadas en el foro arquia/Próxima 2008. "
-abstract_short = ""
+summary = ""
 
 # Name of event and optional event URL.
 event = "Foro Arquia/Proxima 2008"

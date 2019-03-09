@@ -1,16 +1,16 @@
 +++
 title = "Apuntes sobre ciudades postburbuja: los comunes urbanos en barcelona"
-date = 2015-04-17T23:26:18+01:00  # Schedule page publish date.
+publishDate = 2015-04-17T23:26:18+01:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2015-04-17T11:26:18+01:00
-#time_end = 2018-02-04T23:26:18+01:00
+date = 2015-04-17T11:26:18+01:00
+#date_end = 2018-02-04T23:26:18+01:00
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = ""
+summary = ""
 
 # Name of event and optional event URL.
 event = "La Cultura y la Ciudad: Imagen y representaciones de lo urbano, ciudades históricas y eventos culturales"

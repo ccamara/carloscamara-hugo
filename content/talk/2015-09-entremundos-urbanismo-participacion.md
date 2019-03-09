@@ -1,16 +1,16 @@
 +++
 title = "Urbanismo y participación ciudadana: una introducción al derecho a la ciudad"
-date = 2015-09-04T23:38:53+01:00  # Schedule page publish date.
+publishDate = 2015-09-04T23:38:53+01:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2015-09-04T16:38:53+01:00
-#time_end = 2018-02-04T23:38:53+01:00
+date = 2015-09-04T16:38:53+01:00
+#date_end = 2018-02-04T23:38:53+01:00
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = ""
+summary = ""
 
 # Name of event and optional event URL.
 event = "Entremundos"
