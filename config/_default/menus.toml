@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Publicaciones"
-  url = "#publications_selected"
+  url = "#featured_publications"
   weight = 20
 
 [[main]]
