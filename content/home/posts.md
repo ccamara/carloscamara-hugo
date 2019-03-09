@@ -12,10 +12,10 @@ subtitle = "Listado de los posts más recientes del blog"
 count = 5
 
 # List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = Stream
-list_format = 2
+# 1 = List (previously Simple)
+# 2 = Compact (previously Stream)
+# 3 = Card (previously Detailed)
+view = 2
 
 # Filter posts by tag or category.
 #  E.g. to only show posts tagged with `Academic`, set `filter_tag = "Academic"`
