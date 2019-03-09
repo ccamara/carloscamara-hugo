@@ -6,9 +6,9 @@ draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["reivindicaciones", "Software libre", "estándares", "librearq"]
-categories = ["Arquitectura", "Software"]
-people = ["daniel gil", "andrés moya", "Francesc Cantarell", "Jorge Toledo"]
+tags = ["Software libre", "estándares", "librearq"]
+categories = ["Arquitectura", "Software", "Reivindicaciones"]
+people = ["Daniel Gil", "Andrés Moya", "Francesc Cantarell", "Jorge Toledo"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -21,7 +21,7 @@ caption = ""
 preview = true
 
 +++
-Como sabéis los que me conocéis o leéis soy partidario del software libre y lo uso siempre que puedo (hace ya dos años que uso linux y solo entro a windows cuando me obliga la Agencia Tributaria) pero sobretodo soy partidario de que la libertad de que cada uno elija el software que quiera (tanto es así que esa es la esencia de la <a href="http://carloscamara.es/blog/2010/01/25/aprendiendo-a-ensenar/">asignatura que imparto</a> en la Universidad de San Jorge). Con estos antedecentes es fácil comprender que me haya alegrado mucho al enterarme, casi a la vez, a través de <strong>Daniel Gil</strong>, de <a href="http://bauenblog.info" target="_blank">Bauen</a>, y de <strong>Andrés Moya</strong>, de <a href="http://www.bitacoravirtual.cl/2010/04/20/agnu-arquitectos-de-cataluna-por-el-software-libre/" target="_blank">Bitácora virtual</a> , de la existencia del <a href="http://agnu.ibaca.net/">grupo AGNU</a> (Arquitectura y <a href="http://es.wikipedia.org/wiki/GNU" target="_blank">GNU</a>).</p>
+Como sabéis los que me conocéis o leéis soy partidario del software libre y lo uso siempre que puedo (hace ya dos años que uso linux y solo entro a windows cuando me obliga la Agencia Tributaria) pero sobretodo soy partidario de que la libertad de que cada uno elija el software que quiera (tanto es así que esa es la esencia de la <a href="http://carloscamara.es/blog/2010/01/25/aprendiendo-a-ensenar/">asignatura que imparto</a> en la Universidad de San Jorge). Con estos antedecentes es fácil comprender que me haya alegrado mucho al enterarme, casi a la vez, a través de <strong>Daniel Gil</strong>, de <a href="http://bauenblog.info" target="_blank">Bauen</a>, y de <strong>Andrés Moya</strong>, de <a href="http://www.bitacoravirtual.cl/2010/04/20/agnu-arquitectos-de-cataluna-por-el-software-libre/" target="_blank">Bitácora virtual</a> , de la existencia del <a href="http://agnu.ibaca.net/">grupo AGNU</a> (Arquitectura y <a href="http://es.wikipedia.org/wiki/GNU" target="_blank">GNU</a>).
 
 >AGNU es un espacio abierto, no limitado geográficamente ni exclusivo para arquitectos (aunque ofreceremos herramientas y recursos específicos para la profesión). Os animamos a todos, seáis o no arquitectos y vengáis de donde vengáis, a uniros a nosotros. Si queréis saber más sobre nosotros podéis echar un vistazo a algunos motivos por los que nos interesa el Software Libre y lo que pretende ser esta web. Fuente: <a href="http://agnu.ibaca.net/es/quienes-somos/agnu">http://agnu.ibaca.net/es/quienes-somos/agnu</a></em>
 

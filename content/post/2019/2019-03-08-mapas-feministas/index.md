@@ -5,10 +5,10 @@ draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["mapas", "tesis", "doctorado"]
-categories = ["General"]
-people = ["Carlos Cámara", "Ramon Ribera", "Pep Vivas", "Jorge León"]
-projects = ["urban-commons"]
+tags = ["mapas", "feminismo", "género"]
+categories = ["General", "Reivindicaciones"]
+people = ["geochicas"]
+projects = [""]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -57,7 +57,7 @@ Otros ejemplos de mapas que han tratado (aunque desde otros enfoques) la perspec
 
 En otra línea, pero siempre ligado con mapas y perspectiva de género, está la iniciativa impulsada por Esther Mingot (una conocida mapeadora dentro de la comunidad de OSM España bajo el pseudónimo de [Lanxana](https://www.openstreetmap.org/user/lanxana)) para [importar a OpenStreetMap todos los centros destinados a información y cuidados para mujeres y colectivo LGBTI](https://wiki.openstreetmap.org/wiki/Import_information_and_care_points_for_women_and_LGTBI_collectives_in_Catalunya), a partir de distintos conjuntos de datos abiertos del Ayuntamiento de Barcelona y la Generalitat de Catalunya, haciendo de OSM un mapa más inclusivo y útil para estos colectivos.
 
-Todos estos ejemplos señalan otro aspecto de los mapas que me encanta: los mapas pueden ser también herramientas de transformación social. 
+Todos estos ejemplos señalan otro aspecto de los mapas que me encanta: los mapas pueden ser también herramientas de transformación social.
 
 [^snow-map]: Es famoso (y manido) el ejemplo del mapa que hizo el Dr. John Snow en 1854 para comprender la propagación del cólera en Londres y que sirvió para afirmar que el cólera se contagiaba por aguas contaminadas en lugar de por el aire, tal y como se creía hasta entonces (Para más información sobre el mapa, remitimos a [este texto de John Mackenzie](https://www1.udel.edu/johnmack/frec682/cholera/cholera2.html) en el que explica cómo funciona el mapa y cómo reproducirlo con herramientas SIG actuales).
 [^geochicas]: Geochicas es un grupo de mujeres mapeadoras de OpenStreetMap orientado a cerrar la brecha de género en dicha comunidad.

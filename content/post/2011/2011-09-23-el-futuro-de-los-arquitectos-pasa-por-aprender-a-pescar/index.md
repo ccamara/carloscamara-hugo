@@ -5,8 +5,8 @@ draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["opinión", "crítica", "reivindicaciones", "crisis", "favoritos"]
-categories = ["Arquitectura", "Profesión"]
+tags = ["opinión", "crítica", "crisis", "favoritos"]
+categories = ["Arquitectura", "Profesión", "Reivindicaciones"]
 people = ["Lluís Comeron"]
 
 # Featured image
@@ -15,7 +15,7 @@ people = ["Lluís Comeron"]
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "post/chiloeches-b.jpg"
+
 caption = "Una imagen de la urbanización desmesurada de Chiloeches."
 preview = true
 
