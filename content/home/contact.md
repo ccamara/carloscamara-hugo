@@ -1,17 +1,22 @@
 +++
 # Contact widget.
-widget = "contact"
-active = true
-date = "2016-04-20T00:00:00"
+widget = "contact"  # Do not modify this line!
+active = true  # Activate this widget? true/false
 
 title = "Contacto"
 subtitle = "¿Tienes algo que decirme? ¡Encantado de hablar contigo!"
 
 # Order that this section will appear in.
-weight = 70
+weight = 130
 
 # Automatically link email and phone?
 autolink = true
+
+# Email form provider
+#   0: Disable email form
+#   1: Netlify (requires that the site is hosted by Netlify)
+#   2: formspree.io
+email_form = 0
 
 +++
 <!-- Si quieres ponerte en contacto conmigo puedes rellenar el siguiente formulario o bien usar las redes sociales que aparecen más a bajo:
