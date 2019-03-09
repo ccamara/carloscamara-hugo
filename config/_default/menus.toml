@@ -5,28 +5,28 @@
 
 [[menu.main]]
   name = "Home"
-  url = "#about"
+  url = "#"
   weight = 10
 
-[[menu.main]]
-  name = "Publicaciones"
-  url = "#publications_selected"
-  weight = 20
+# [[menu.main]]
+#   name = "Publicaciones"
+#   url = "#publications_selected"
+#   weight = 20
 
-[[menu.main]]
-  name = "Blog"
-  url = "#posts"
-  weight = 30
-
-[[menu.main]]
-  name = "Proyectos"
-  url = "#projects"
-  weight = 40
-
-[[menu.main]]
-  name = "Contacto"
-  url = "#contact"
-  weight = 60
+# [[menu.main]]
+#   name = "Blog"
+#   url = "#posts"
+#   weight = 30
+#
+# [[menu.main]]
+#   name = "Proyectos"
+#   url = "#projects"
+#   weight = 40
+#
+# [[menu.main]]
+#   name = "Contacto"
+#   url = "#contact"
+#   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

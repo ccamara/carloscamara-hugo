@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "El concepte dels comuns és tan poderosament suggerent com ambigu. Prova d’això rau en el creixent interès que han experimentat durant els darrers anys i, també, en què comprèn àmbits i aspiracions tan diverses que són, de vegades, contraposades però que, malgrat tot, comparteixen una visió transformadora de la ciutat i la societat basada en la cooperació. La present recerca doctoral se centra en un dels subrups dels comuns, el dels comuns urbans, i té com a objecte problematitzar-los i comprendre’ls. Per a aconseguir-ho, després d’un exhaustiu marc teòric que ens durà a conèixer les arrels i contradiccions del concepte, proposem una lectura situada i basada en la pràctica. A partir de l’estudi etnogràfic de 29 casos (8 d’ells analitzats exhaustivament) de la Barcelona de començaments del segle XXI confegim 5 fils discursius al voltant de les seves reivindicacions, autogestió i institucionalització, relacionalitat, materialitat i espaialitat i tecnologia i cultura lliures. És a partir de la seva anàlisi on obtindrem les claus per a comprendre les seves vinculacions amb el fet urbà i social i, en darrera instància, caracteritzar el concepte de comú urbà per tal de determinar si, efectivament, poden ser autèntics motors de transformació urbana, social i econòmica que donin lloc a proposar ciutats i societats alternatives més justes."
-abstract_short = ""
+summary = ""
 
 # Featured image thumbnail (optional)
 image_preview = "publication/tesis-portada.png"
@@ -54,7 +54,7 @@ url_source = "https://phd.carloscamara.es"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# links = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "El grupo de trabajo Recuperem la ciutat nace como un esfuerzo aunado de voluntades de reflexión y movilización a partir de la coincidencia de intereses y preocupaciones de un grupo de profesionales y académicos de orígenes y prácticas disciplinares diferentes, que se vinculan a raíz de un debate en twitter promovido por URBSenacción, sección de la revista URBS dedicada a promover actividades de reflexión a través de las redes sociales. Como resultado del debate, se decidió organizar una reunión presencial en la ciudad de Valencia, como una oportunidad para continuar de manera intensiva la reflexión compartida. Antes y después de la reunión, se realizaron sendos intercambios de propuestas individuales, a través de una lista de correo electrónico, con objeto de plantear un primer marco teórico común y de esbozar algunas estrategias de intervención que cerraran el ciclo de reflexión abierto con el debate original. En este documento exponemos las principales reflexiones y conclusiones desarrolladas en cada una de estas actividades, así como la voluntad de continuar con el trabajo en ocasiones próximas."
-abstract_short = ""
+summary = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# links = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Ante la evaluación del riesgo social, habitualmente basada en la cuantificación de datos objetivos estadísticos demográficos, económicos o morfológicos, desde el proyecto «Mapa de Riesgo Social de Zaragoza» (MRSZ) estamos ensayando métodos complementarios centrados en el peso que tienen las distintas formas de vivir que se producen en los barrios de Zaragoza. Parte de dicho estudio se basa en el cálculo de lo que hemos llamado «Índice del Potencial Subjetivo de Autorregeneración Urbana (IPSAU)», obtenido a partir de la realización de un cuestionario sobre las percepciones subjetivas que tienen los vecinos con respecto a sus barrios. El presente artículo tiene como objetivo explicar cómo y porqué se ha obtenido dicho índice y, muy especialmente, presentar los resultados que arroja, comparándolos con los resultados de otros estudios similares que se han realizado previamente en Zaragoza basados en datos cuantitativos."
-abstract_short = ""
+summary = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# links = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

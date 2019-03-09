@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Desde finales de 2013 el grupo de investigación Arquitecturas Open Source de la ETSA-USJ ha iniciado una colaboración con el Colegio Profesional de Trabajadores Sociales de Aragón para la realización conjunta de un mapa de riesgo social de Zaragoza. Dicho proyecto, financiado desde el Ministerio de Economía y Competitividad, pretende desarrollar el concepto de mapa de riesgo anunciado en la Ley de de 2009 de Ordenación del Territorio de Aragón mediante el diseño de una metodología mixta que ofrezca un procedimiento alternativo para la evaluación de las zonas y barrios de Zaragoza más sensibles a la pérdida de relaciones sociocomunitarias de vecindad y de interrelación con el resto de la ciudad. El objetivo es lograr una metodología que incorpore el ámbito de lo social como plataforma desde la que poder evaluar los riesgos inducidos en el territorio urbanizado y que esta pueda ser replicable en otras ciudades a propósito del estudio."
-abstract_short = ""
+summary = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# links = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

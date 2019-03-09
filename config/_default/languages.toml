@@ -15,8 +15,8 @@
    #description = "Site description in Chinese..."
    role = "Arquitecte. Doctor. Professor. Estudiant."
  [[ca.menu.main]]
-   name = "Publicacions"
-   url = "#publications_selected"
+   name = "Inici"
+   url = "#"
    weight = 1
 
 [en]
@@ -27,6 +27,6 @@
     #description = "Site description in English"
     role = "Architect. PhD. Teacher. Learner.."
   [[en.menu.main]]
-    name = "Publications"
-    url = "#publications_selected"
+    name = "Home"
+    url = "#"
     weight = 1
