@@ -26,7 +26,7 @@ abstract = "Desde finales de 2013 el grupo de investigación Arquitecturas Open 
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

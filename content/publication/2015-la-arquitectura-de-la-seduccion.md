@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = "publication/la_arquitectura_de_la_seduccion_un_anali.png"
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
