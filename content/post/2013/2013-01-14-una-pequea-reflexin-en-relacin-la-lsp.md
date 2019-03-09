@@ -1,9 +1,9 @@
 ---
-title: Una pequeña reflexión en relación la LSP
+title: Una pequeña reflexión en relación con la LSP
 categories:
-- arquitectura
-- reflexiones
-- reivindicaciones
+- Arquitectura
+- Reflexiones
+- Reivindicaciones
 layout: articles
 
 date: 2013-01-14
