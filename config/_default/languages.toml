@@ -18,6 +18,15 @@
    name = "Inici"
    url = "#"
    weight = 1
+ [[ca.menu.main]]
+   name = "Publicacions"
+   url = "#featured_publications"
+   weight = 20
+
+ [[ca.menu.main]]
+   name = "Blog"
+   url = "#posts"
+   weight = 30
 
 [en]
   languageCode = "en-us"
@@ -30,3 +39,12 @@
     name = "Home"
     url = "#"
     weight = 1
+  [[en.menu.main]]
+    name = "Publications"
+    url = "#featured_publications"
+    weight = 20
+
+  [[en.menu.main]]
+    name = "Blog"
+    url = "#posts"
+    weight = 30

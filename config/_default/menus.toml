@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "Sobre mi"
+  url = "/about"
+  weight = 11
+
+[[main]]
   name = "Publicaciones"
   url = "#featured_publications"
   weight = 20
