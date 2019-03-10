@@ -1,10 +1,10 @@
 +++
-title = "MRSZ 2018: Mapa de Riesgo Social de Zaragoza. De técnica de gestión de poblaciones a praxis de consolidación de los comunes."
+title = "MRSZ 2018: Mapa de Riesgo Social de Zaragoza. De técnica de gestión de poblaciones a praxis de consolidación de los comunes"
 date = 2016-11-04T22:08:41+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Carlos Cámara Menoyo", "Jorge León Casero", "Ana Ruiz Varona"]
+authors = ["Carlos Cámara-Menoyo", "Jorge León Casero", "Ana Ruiz Varona"]
 
 # Publication type.
 # Legend:
