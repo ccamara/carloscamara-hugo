@@ -49,7 +49,7 @@ La Calle de las mujeres es paradigmático porque hace una lectura novedosa y nec
 
 {{< gallery album="gallery" >}}
 
-Otro aspecto en el que incide el proyecto es en mostrar cuantas de las mujeres que dan nombre a alguna calle tienen artículo en la wikipedia (sin entrar en valorar su contenido), lo cual incide que dicha brecha es doble y no es algo local de unas pocas ciudades.
+Otro aspecto en el que incide el proyecto es en mostrar cuantas de las mujeres que dan nombre a alguna calle tienen artículo en la wikipedia (sin entrar en valorar su contenido), lo cual vuelve a evidenciar que dicha brecha es doble y no únicamente algo local de unas pocas ciudades.
 
 Por otra parte, no puedo dejar de señalar otro aspecto que me encanta del proyecto (y por el cual felicito a [Jess](https://github.com/jessisena), que ha liderado la parte de programación) es su desarrollo en abierto: dado que [el repositorio está disponible en github](https://github.com/geochicasosm/lascallesdelasmujeres) es relativamente fácil expandir la información a otras ciudades del mundo, haciendo el proyecto aún más útil si cabe.
 
