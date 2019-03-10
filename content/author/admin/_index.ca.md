@@ -9,15 +9,15 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Arquitecto. Doctor. Profesor. Estudiante."
+role = "Arquitecte. Doctor. Professor. Estudiant."
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Universidad San Jorge", url = "http://usj.es" }, { name = "Universitat Oberta de Catalunya", url = "http://uoc.edu"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = """Profesor, investigador, aprendiz.<br>
-        Interesado por las comodificaciones entre ciudad, sociedad y tecnología"""
+bio = """Professor, investigador, aprenent.<br>
+        Interessat per les comodificacions entre ciutat, societat i tecnologia"""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "carlos@carloscamara.es"
@@ -94,8 +94,6 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-
-# Bio
 
 Arquitecte per la ETSA Vallès de la Universitat Politècnica de Catalunya i Doctor en Societat de la Informació i el Coneixement per la Universitat Oberta de Catalunya. Treballo com a professor i investigador a l'Escola d'Arquitectura i Tecnologia de la Universidad San Jorge.
 

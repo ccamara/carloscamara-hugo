@@ -16,8 +16,7 @@ role = "Arquitecto. Doctor. Profesor. Estudiante."
 organizations = [ { name = "Universidad San Jorge", url = "http://usj.es" }, { name = "Universitat Oberta de Catalunya", url = "http://uoc.edu"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = """Profesor, investigador, aprendiz.<br>
-        Interesado por las comodificaciones entre ciudad, sociedad y tecnología"""
+bio = """Mi formación mutidisciplinar y **mis múltiples intereses de investigación se vertebran alrededor de las comodificaciones entre ciudad, tecnología y sociedad** dentro del marco del informacionalismo y la cultura libre, aspectos que abordo tanto desde mi vertiente profesional académica como desde mi vertiente activista"""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "carlos@carloscamara.es"

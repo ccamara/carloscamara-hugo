@@ -9,15 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Arquitecto. Doctor. Profesor. Estudiante."
+role = "Architect. PhD. Teacher. Student."
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Universidad San Jorge", url = "http://usj.es" }, { name = "Universitat Oberta de Catalunya", url = "http://uoc.edu"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = """Profesor, investigador, aprendiz.<br>
-        Interesado por las comodificaciones entre ciudad, sociedad y tecnología"""
+bio = """Interested in the commodifications between cities, society and technology"""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "carlos@carloscamara.es"
@@ -94,8 +93,6 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-
-# Bio
 
 Architect by the Universitat Politècnica de Catalunya and Ph.D. on Information and Knowledge Society by the Universitat Oberta de Catalunya. I work as teacher and researcher at the School of Architecture and Technology at Universidad San Jorge and I am member of Urban Transformation and Global Change Lab research group at UOC's IN3.
 
