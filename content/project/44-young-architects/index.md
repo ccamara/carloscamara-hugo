@@ -6,7 +6,7 @@ title = "Exposición 44 Young International Architects"
 date = 2007-10-19T00:00:00
 
 # Project summary to display on homepage.
-summary = "Exposición de arquitectura en el Centre d'Arts Santa Mònica"
+summary = "Comisariado de la exposición de arquitectura en el Centre d'Arts Santa Mònica"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
