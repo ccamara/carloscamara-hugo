@@ -45,8 +45,6 @@ links = [{icon_pack = "fas", icon="globe", name="Web del grupo", url = "https://
 
 +++
 
-
-
 Es un grupo de entusiastas que se reúnen para hablar y trabajar en torno a la construcción y elaboración de información geográfica participativa o voluntaria, para construir mapas útiles a la ciudadanía: que se puedan usar como herramientas para una mejor toma de decisiones, para compartir experiencias y ayudar a configurar el modo con el que observamos la realidad.
 
 Fundado junto a Miguel Sevilla, Mapeado Colaborativo es uno de los [grupos residentes en Zaragoza Activa](http://blogzac.es/category/think-zac-las-armas/grupos-residentes/) que nace en marzo de 2016 como grupo de investigación/acción para la innovación ciudadana y la canalización de la inteligencia colectiva. Su fin es la creación de mapas colaborativos al servicio de la ciudadanía, a través de la concienciación sobre la importancia de la información geográfica en nuestro día a día y la promoción de herramientas y conocimientos para que colectivos y personas tengan la capacidad de realizar procesos de generación de información geográfica voluntaria y participativa.
@@ -54,3 +52,7 @@ Fundado junto a Miguel Sevilla, Mapeado Colaborativo es uno de los [grupos resid
 Desde entonces soy uno de los coordinadores del grupo, junto a Miguel Sevilla, Hector Ochoa, Joan Cano y Alejandro Suárez.
 
 {{< gallery >}}
+
+Mapeado Colaborativo se constituye como un espacio para la innovación ciudadana y la canalización de la inteligencia colectiva orientada a la  creación de mapas participativos y servicio de la ciudadanía. Partiendo de la base de la importancia de la información geográfica en nuestro día a día, promovemos el uso de herramientas y conocimiento libres para que colectivos y personas tengan la capacidad de realizar procesos de generación de información geográfica voluntaria y participativa.
+
+Las actividades que realizamos están orientadas a la resolución de diferentes problemáticas en la ciudad como la accesibilidad, la infraestructura ciclista urbana o la organización de sesiones de mapeado sobre OpenStreetMap u otras herramientas de gestión de información espacial libres, que pueden ser sesiones más formativas o maratones de mapeado humanitario.
