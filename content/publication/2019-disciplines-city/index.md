@@ -1,5 +1,5 @@
 +++
-title = "Urban Commons and the Production of Alternatives to the Neoliberal Citys"
+title = "Urban Commons and the Production of Alternatives to the Neoliberal City"
 date = 2019-04-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
