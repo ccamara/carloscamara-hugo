@@ -5,11 +5,12 @@
 # Configure the default version of the site.
 [es]
   languageCode = "es-es"
+  contentDir = "content/es"
 
 # Uncomment the lines below to configure your website in a second language.
 [ca]
  languageCode = "ca"
- #contentDir = "content/ca"
+ contentDir = "content/ca"
  title = "Carlos Cámara Menoyo"
  [ca.params]
    #description = "Site description in Chinese..."
@@ -30,7 +31,7 @@
 
 [en]
   languageCode = "en-us"
-  #contentDir = "content/en"
+  contentDir = "content/en"
   title = "Carlos Cámara-Menoyo"
   [en.params]
     #description = "Site description in English"
@@ -39,6 +40,12 @@
     name = "Home"
     url = "#"
     weight = 1
+    
+  [[en.menu.main]]
+    name = "About me"
+    url = "/about"
+    weight = 10
+
   [[en.menu.main]]
     name = "Publications"
     url = "#featured_publications"
