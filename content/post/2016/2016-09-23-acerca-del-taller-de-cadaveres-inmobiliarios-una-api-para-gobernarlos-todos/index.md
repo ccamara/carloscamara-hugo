@@ -1,5 +1,5 @@
 +++
-title = "Acerca del taller de Cadaveres Inmobiliarios: Una API para gobernarlos todos"
+title = """Acerca del taller de Cadaveres Inmobiliarios: Una API para gobernarlos todos"""
 date = 2016-09-23T11:22:22+01:00
 draft = false
 
@@ -18,6 +18,12 @@ caption = "Presentación de Cadáveres Inmobiliarios en Medialab Prado, junto a 
 # Focal point (optional)
 # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 focal_point = "Smart"
+
+aliases = [
+    "/blog/2016/09/23/acerca-del-taller-de-cadaveres-inmobiliarios-una-api-para-gobernarlos-todos-0",
+    "/blog/2016/09/23/acerca-del-taller-de-cadaveres-inmobiliarios-una-api-para-gobernarlos-todos"
+]
+
 
 +++
 
