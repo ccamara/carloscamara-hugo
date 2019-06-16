@@ -5,10 +5,10 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["arquitectura", "desarrollo web", "drupal", "mapas", "finalizado", "web"]
+tags = ["architecture", "web development", "drupal", "maps", "ended", "web"]
 
 # Project summary to display on homepage.
-summary = "Atlas de arquitectura on-line colaborativo"
+summary = "Online and collaborative Architecture Atlas"
 
 # Optional image to display on homepage.
 image_preview = "project/archtlas.png"
@@ -64,22 +64,22 @@ image = "project/archtlas-estonoesunsolar.png"
 caption = ""
 +++
 
-ArchTLAS es un atlas de arquitectura on-line colaborativo en el que todo el mundo puede colgar una obra o un proyecto, con la particularidad de que cualquier usuario registrado podrá complementar la información en cualquier momento, añadiendo fotografías, vídeos, premios, publicaciones... todo de forma sencilla y rápida. Es también un ejercicio de tratar de entender Internet como medio de comunicación y difusión y las posibilidades que ofrece frente a los medios impresos.
+ArchTLAS is a collaborative on-line atlas of architecture in which everyone can upload a work or a project, with the particularity that any registered user can complement the information at any time, adding photographs, videos, awards, publications... everything in a simple and fast manner. It is also an exercise of trying to understand the Internet as a means of communication and dissemination and the possibilities it offers as opposed to printed media.
 
-ArchTLAS está dirigida a profesionales (arquitectos, fotógrafos...) y estudiantes que quieran consultar obras o proyectos (ya sea para búsqueda de referentes para concursos, por ejemplo) o simplemente que quieran dar a conocer lo que hacen, actuando por tanto como un currículum de obras online. A pesar de que el mapa tenga mucha importancia en estos momentos, ArchTLAS tiene más de Wiki (con una importante carga de georreferencia) que de otra cosa, y como proyecto web 2.0 hay libertad para publicar cualquier obra que tenga interés, sin límite de temática, geografía... Además, se ha hecho mucho énfasis en que sea muy fácil y evidente complementar y corregir la información, pues el objetivo es que cuanto más crezca la web (no solo en usuarios o contenido), más fiables y mejores sean sus contenidos.
+ArchTLAS is aimed at professionals (architects, photographers...) and students who want to consult works or projects (either to search for references for competitions, for example) or simply want to make known what they do, acting therefore as a resume of works online. Although the map is very important at the moment, ArchTLAS has more of a Wiki (with an important load of georeferencing) than anything else, and as a web 2.0 project there is freedom to publish any work that has interest, without limit of subject matter, geography ... In addition, much emphasis has been placed on making it very easy and obvious to complement and correct the information, as the objective is that the more the web grows (not only in users or content), the more reliable and better its content.
 
-Se trata de una web ambiciosa que tiene una serie de particularidades que la hacen diferente del resto de webs aparentemente similares
+This is an ambitious website that has a series of peculiarities that make it different from the rest of apparently similar websites
 
-### PLANTEAMIENTO:
+### APPROACH:
 
-1. Es **colaborativa**, cualquiera puede ampliar la información de una obra determinada y por tanto la tendencia será que la información publicada en ArchTLAS sea actualizada, completa y veraz (web 2.0). Aquí el referente es wikipedia.
-2. Es **participativa**: todos los usuarios pueden comentar y valorar el contenido, lo cual permite orientar los contenidos a sus intereses.
+1. It is **collaborative**, anyone can extend the information of a determined work and therefore the tendency will be that the information published in ArchTLAS is updated, complete and truthful (web 2.0). Here the reference is wikipedia.
+2. It is **participatory**: all users can comment on and rate the content, which allows the content to be geared to their interests.
 
-### CONTENIDOS:
+### CONTENT:
 
-1. Todas las obras y proyectos están **georreferenciados**, con todas las ventajas que eso conlleva: Se puede buscar gráficamente un edificio, simplemente navegando por el mapa; se pueden hacer consultas de edificios de una determinada ciudad o país y elaborar guías de viaje (esto último se podrá hacer próximamente); se pueden conocer los edificios vecinos o cercanos a una determinada obra...
-2. No hay limitación por fecha, lugar o estado: Se pueden publicar obras y proyectos (Tanto si se van a construir como si no) de cualquier época. El requisito es el interés de la misma.
-3. Es **multimedia**. Las publicaciones limitan la información publicada a textos e imágenes. ArchTLAS saca partido de ser una web y no tiene esas limitaciones, permitiendo que además se publiquen archivos, vídeos, planos, modelos 3D... i además verlo de forma bien clasificada.
-4. La **información está estructurada**: no se puede garantizar que todos los edificios publicados tengan la misma cantidad, calidad y tipo de información, pero sí está pensada para que todo lo que se publique tenga una información mínima interesante de por sí (ficha básica con datos de del edificio y de sus agentes) y siempre será posible, incluso antes de ver los detalles de un edificio, saber si contiene información adicional como imágenes, vídeos, textos, archivos... Además, toda la información se presenta en una sola página perfectamente agrupada y ordenada.
+All the works and projects are **georeferenced**, with all the advantages that this entails: You can graphically search for a building simply by navigating the map; you can make queries of buildings in a particular city or country and develop travel guides (the latter can be done soon); you can know the buildings neighboring or close to a particular work ...
+There is no limitation by date, place or state: You can publish works and projects (whether or not they are going to be built) from any period. The requirement is the interest of the same one.
+3. It is **multimedia**. Publications limit the information published to texts and images. ArchTLAS takes advantage of being a website and does not have these limitations, allowing also to publish files, videos, plans, 3D models ... i also to see it in a well classified way.
+4. The **information is structured**: it is not possible to guarantee that all published buildings have the same quantity, quality and type of information, but it is designed so that everything published has a minimum of interesting information of its own (basic file with details of the building and its agents) and it will always be possible, even before seeing the details of a building, to know if it contains additional information such as images, videos, texts, archives... In addition, all the information is presented on a single page perfectly grouped and ordered.
 
 {{< gallery album="1" >}}
