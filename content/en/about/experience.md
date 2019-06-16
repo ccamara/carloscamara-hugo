@@ -19,41 +19,42 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Personal Docente e Investigador"
+  title = "Lecturer and Researcher"
   company = "Universidad San Jorge"
   company_url = "http://usj.es"
   location = "Zaragoza"
   date_start = "2009-09-01"
   date_end = ""
   description = """
-  Profesor de las asignaturas:
+  Lecturer in:
 
-  * Herramientas Digitales
-  * Urbanismo I, VI
-  * Aula Abierta
+  * Digital Tools
+  * Urban Studies (1, 6)
+  * Open Classroom
+  * Post-graduate diploma
 
-  Miembro del grupo de investigación "Arquitecturas OpenSource"
+  Researcher at OpenSource Architectures Research Group
 
   """
 
 [[experience]]
-  title = "Técnico GIS y de participación"
+  title = "GIS and participation technician"
   company = "Cíclica"
   company_url = "http://ciclica.eu"
   location = "Sant Cugat del Vallès"
   date_start = "2018-06-01"
-  date_end = ""
-  description = """Técnico GIS para la automatización de tareas mediante modelos de QGIS."""
+  date_end = "2019-02-01"
+  description = """GIS Technician designing tasks' automation by `QGIS Processing models` for a project aimed to assess Building's Energy consumption at city scale."""
 
 [[experience]]
-  title = "Asistente de investigación"
+  title = "Research Assistant"
   company = "Universitat Oberta de Catalunya"
   company_url = "http://uoc.edu"
   location = "Barcelona"
   date_start = "2017-06-01"
   date_end = "2017-12-31"
-  description = """Investigación sobre fabricación digital dentro del grupo de investigación [Urban Transformations and Global Change (TURBA)](http://turbain3.wordpress.com/).
-  Extracción y análisis de datos sobre laboratorios de fabricación digital usando técnicas de webscrapping, APIs y visualización mediante gráficos y mapas interactivos en `R` y `ggplot2`"""
+  description = """Research on digital fabrication and geography at [Urban Transformations and Global Change (TURBA)](http://turbain3.wordpress.com/) research group.
+  Data extraction, cleaning and analysis using webscrapping, APIs and visualization through plots and interactive maps using `R`, `ggplot2` and `tmap`"""
 
 [[experience]]
   title = "Product owner"
@@ -62,22 +63,23 @@ date_format = "January 2006"
   location = "Cornellà de Llobregat"
   date_start = "2013-03-01"
   date_end = "2015-03-31"
-  description = """Realización de aplicaciones web basadas en drupal con metodologías ágiles (SCRUM) realizando, según el proyecto, funciones de:
+  description = """Web development using `drupal` and agile methodologies (`SCRUM`). I made the following tasks (depending on the project):
 
   * Project Manager
-  * Desarrollador junior
-  * Soporte técnico
-  * Realización de documentación
-  * Realización de wireframes"""
+  * Junior developer
+  * Techical Support
+  * Documentation
+  * Wireframes
+  * Training"""
 
 [[experience]]
-  title = "Comisario"
-  company = "Matèria Sensible: 10 arquitectos jóvenes catalanes"
+  title = "Curator"
+  company = "Sensitive Matter: 10 Catalan young architects"
   company_url = "http://materiasensible.cat"
   location = "Lisboa-A Coruña-Berlin-Barcelona"
   date_start = "2010-06-01"
   date_end = "2012-09-30"
-  description = """Comisario, junto a Pere Buil y Joan Vitòria, de la exposición itinerante y eventos paralelos que se exhibió en Lisboa (NOGO Studio), A Coruña (Escuela de arquitectura), Berlin (AEDES Gallery) y Barcelona (Colegio de Arquitectos) """
+  description = """Itinerant exhibition's curator, along with Pere Buil and Joan Vitòria, exhibited at Lisboa (NOGO Studio), A Coruña (Escuela de arquitectura), Berlin (AEDES Gallery) and Barcelona (Colegio de Arquitectos) """
 
 [[experience]]
   title = "Arquitecto especialista en tecnologías de la información"

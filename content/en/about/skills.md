@@ -25,7 +25,7 @@ weight = 7
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Communication and teaching"
-  description = "90%"
+  description = "90% <br>(+900 teaching hours at Undergraduate and Postgraduate levels)"
 
 [[feature]]
   icon = "tasks"
@@ -61,7 +61,7 @@ weight = 7
   icon = "markdown"
   icon_pack = "fab"
   name = "Markdown and reporting"
-  description = "90%"
+  description = "90% <br> (This whole site is written in markdown and love to make interactive reports with R)"
 
 [[feature]]
   icon = "drupal"
