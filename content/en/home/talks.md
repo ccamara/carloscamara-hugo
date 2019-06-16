@@ -1,19 +1,17 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# A Recent and Upcoming Talks section created with the Pages widget.
+# This section displays recent talks from `content/talk/`.
 
 widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-
-title = "Recent publications"
+title = "Talks"
 subtitle = ""
-
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "talk"
 
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -30,6 +28,8 @@ subtitle = ""
     category = ""
     publication_type = ""
     exclude_featured = false
+    exclude_past = false
+    exclude_future = false
 
 [design]
   # Toggle between the various page layout types.
@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 2
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -65,5 +65,4 @@ subtitle = ""
 
  # CSS class.
  css_class = ""
-
 +++
