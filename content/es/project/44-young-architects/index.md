@@ -79,7 +79,6 @@ Como acto inaugural se realizó un debate abierto en el que participaron Ferran 
 En el debate se abordaron dos cuestiones centrales: La primera cuestión es "síntomas de lo nuevo frente a lo joven: ¿hasta qué punto proyectas -arquitectos jóvenes- de un modo no aprendido, desprejuiciado?" y la segunda explora las "estrategias mediáticas, sociales, etc... leyenda y realidad del éxito mediático de la arquitectura, en Barcelona, respecto de otras manifestaciones y artes". El debate será moderado por Ferran Barenblit, director del CASM, Antonio Ortega, coordinador de actividades del CASM junto con Félix Arranz y Carlos Cámara, de SCALAE ed. y se convoca a su participación al colectivo de arquitectos y artistas jóvenes de Barcelona.
 
 La selección de las 44 obras y equipos de jóvenes arquitectos fue propuesta y resuelta por un consejo integrado por los comisarios del evento junto con los arquitectos: Victoria Acebo, Angel Alonso, Ada Yvars, Cristina Chu, Daniel Silberfaden, Edgar González, Patricia Muñiz, Luciano G. Alfaya, Susana Aparicio, José Juan Barba, Jorge G. de la Cámara, Josep Cargol, Juan Pablo Quintero, Michal Sulo, Esther Rovira, Alejandro Henriquez, Nicolás Valenzuela. Secretaría Técnica: Laura Acosta (scalae ed.)
-Ocultar Imágenes adicionales
 
 {{< gallery >}}
 

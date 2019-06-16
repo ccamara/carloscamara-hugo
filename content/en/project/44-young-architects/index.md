@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Exposición 44 Young International Architects"
+title = "Exhibition: 44 Young International Architects"
 
 # Date this page was created.
 date = 2007-10-19T00:00:00
 
 # Project summary to display on homepage.
-summary = "Comisariado de la exposición de arquitectura en el Centre d'Arts Santa Mònica"
+summary = "Curation of the Exhibition in the Centre d'Arts Santa Mònica (Barcelona)"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["arquitectura", "exposición", "divulgación"]
+tags = ["architecture", "exhibition", "dissemination"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -70,41 +70,15 @@ caption = "Mesa-expositor de lagula"
 
 +++
 
-Comisariado, junto a **Félix Arranz**, de la exposición realizada en el Centre d'Art Santa Mònica durante el arquiset 07 que recoge el trabajo de primeras obras construidas de 44 estudios europeos, americanos e ibéricos. Además, la exposición se localiza y complementa en Barcelona con una muestra particular, que incluye debates y material original de los siete estudios profesionales residentes en Cataluña: [BB Arquitectes](http://www.bbarquitectes.com/), [Calderón-Folch Arquitectes](http://www.calderon-folch-sarsanedas.com/), [(casa)](http://www.campdavellaners.blogspot.com.es/), [dos punts arquitectura](http://www.dospuntsarquitectura.com/), [lagula arquitectes](http://www.lagula.to/), [ON_A](http://www.on-a.es/), Re- Arquitectos, que están incluidos en la selección.
+Curator, along with **Félix Arranz**, of the exhibition held at the [Centre d'Art Santa Mònica](http://artssantamonica.gencat.cat/ca/) during the "Arquiset '07 week" which brings together the work of the first works built by 44 European, American and Iberian studios. In addition, the exhibition is located and complemented in Barcelona with a private exhibition, which includes debates and original material from the seven professional studios resident in Catalonia: [BB Arquitectes](http://www.bbarquitectes.com/), [Calderón-Folch Arquitectes](http://www.calderon-folch-sarsanedas.com/), [(house)](http://www.campdavellaners.blogspot.com.es/), [dos punts arquitectura](http://www.dospuntsarquitectura.com/), [lagula arquitectes](http://www.lagula.to/), [ON_A](http://www.on-a.es/), Re- Arquitectos, which are included in the selection.
 
-También se incluye en la exposición la proyección de material audiovisual gestionado por la AJAC, Agrupació de Joves Arquitectes de Catalunya.
+Also included in the exhibition is the projection of audiovisual material managed by AJAC, Agrupació de Joves Arquitectes de Catalunya.
 
-Como acto inaugural se realizó un debate abierto en el que participaron Ferran Barenblit (director del CASM), Antonio Ortega (Coordinador de actividades del CASM), los siete estudios residentes en Cataluña y los artistas apadrinados por los estudios como Rubén Martínez (YPSITE.net), Martí Anson, Octavi Comerón, entre otros artistas censados en el Arxiu_Dossiers del Centre d'Art SantaMòniCA.
+The opening ceremony included an open debate in which Ferran Barenblit (director of CASM), Antonio Ortega (Coordinator of CASM activities), the seven studios resident in Catalonia and the artists sponsored by studios such as Rubén Martínez (YPSITE.net), Martí Anson, Octavi Comerón, among other artists listed in the Arxiu_Dossiers of the Centre d'Art SantaMòniCA.
 
-En el debate se abordaron dos cuestiones centrales: La primera cuestión es "síntomas de lo nuevo frente a lo joven: ¿hasta qué punto proyectas -arquitectos jóvenes- de un modo no aprendido, desprejuiciado?" y la segunda explora las "estrategias mediáticas, sociales, etc... leyenda y realidad del éxito mediático de la arquitectura, en Barcelona, respecto de otras manifestaciones y artes". El debate será moderado por Ferran Barenblit, director del CASM, Antonio Ortega, coordinador de actividades del CASM junto con Félix Arranz y Carlos Cámara, de SCALAE ed. y se convoca a su participación al colectivo de arquitectos y artistas jóvenes de Barcelona.
+Two central questions were addressed in the debate: The first question is "symptoms of the new versus the young: to what extent do you project -young architects- in an unlearned, unprejudiced way?" and the second explores "media strategies, social strategies, etc... legend and reality of the media success of architecture, in Barcelona, with respect to other manifestations and arts". The debate will be moderated by Ferran Barenblit, director of CASM, Antonio Ortega, coordinator of CASM activities together with Félix Arranz and Carlos Cámara, from SCALAE ed. and the group of young architects and artists from Barcelona is invited to participate.
 
-La selección de las 44 obras y equipos de jóvenes arquitectos fue propuesta y resuelta por un consejo integrado por los comisarios del evento junto con los arquitectos: Victoria Acebo, Angel Alonso, Ada Yvars, Cristina Chu, Daniel Silberfaden, Edgar González, Patricia Muñiz, Luciano G. Alfaya, Susana Aparicio, José Juan Barba, Jorge G. de la Cámara, Josep Cargol, Juan Pablo Quintero, Michal Sulo, Esther Rovira, Alejandro Henriquez, Nicolás Valenzuela. Secretaría Técnica: Laura Acosta (scalae ed.)
-Ocultar Imágenes adicionales
+The selection of the 44 works and teams of young architects was proposed and resolved by a council made up of the curators of the event together with the architects: Victoria Acebo, Angel Alonso, Ada Yvars, Cristina Chu, Daniel Silberfaden, Edgar González, Patricia Muñiz, Luciano G. Alfaya, Susana Aparicio, José Juan Barba, Jorge G. de la Cámara, Josep Cargol, Juan Pablo Quintero, Michal Sulo, Esther Rovira, Alejandro Henriquez, Nicolás Valenzuela. Technical Secretariat: Laura Acosta (scalae ed.)
+
 
 {{< gallery >}}
-
-"Los comisarios de "44 Young Architects event", desde SCALAE, nos congratulamos y agradecemos que GRUPO VIA y la Sociedad Central de Arquitectos de Buenos Aires hayan recogido y apoyado conjuntamente una propuesta original de los Encontros Internacionais de Arquitectura -que organizan Andar 4 y el Colegio Oficial de Arquitectos de Galicia- para convertirla en un evento anual que sin duda será de referencia ya que su estímulo y síntoma es la identificación de estos equipos jóvenes de profesionales a través de obras ya edificadas. La Fundación Caja de Arquitectos ha aportado una idea exquisita en su movilización de los equipos seleccionados, los españoles para esta edición, orientada a promover su encuentro y conocimiento personal. Una idea que diversos patrocinadores y empresas pudieran completar con ocasión de la presencia de la exposición en diversas ciudades del mundo. "
-
-La exposición en Barcelona ha sido acondicionada por el Centre d'Art Santa Mónica y SCALAE y patrocinada por UPONOR, la publicación-catálogo ha sido patrocinada por SCHÜCO, VITRO y UPONOR.
-
-La exposición participa en los actos y programa de actividades de Arquinset, semana de la arquitectura, promovido por el Col.legi Oficial d'Arquitectes de Catalunya y el arquinfad del FAD.
-
-El Fondo de Educación y Promoción de Arquia Caja de Arquitectos ha asignado una bolsa de viaje a los equipos españoles seleccionados en el "44 Young architects 2007 event" para su asistencia a los inminentes Encontros Internacionais de Arquitectura.
-
-Organiza y promueve la exposición, evento y publicación: GRUPO VIA
-
-Refs.
-
-* Grupo Vía: [www.grupovia.net]
-* Scalae: [www.scalae.com]
-* arquinset [www.arquinset.cat]
-* Centre d'Art Santa Mónica: [www.centredartsantamonica.net]
-* AJAC [www.coac.net/ajac]
-* Sociedad Central de Arquitectos de Argentina: [www.socearq.org]
-* Fundación Caja de Arquitectos: [www.arquia.es/fundacion]
-* Encontros Internacionais de Arquitectura: [www.encontrosdearquitectura.org]
-* SCHÜCO [www.schueco.es]
-* VITRO [www.vitro.com]
-* UPONOR [www.climatizacioninvisible.com]
-
-Fuente: Centro de Enlace de Arquitectura AE BCN

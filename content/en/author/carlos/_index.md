@@ -9,7 +9,7 @@ authors = ["carlos"]
 superuser = true
 
 # Role/position
-role = "Architect. PhD. Teacher. Student."
+role = "Architect. PhD. Lecturer. Student."
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -85,6 +85,11 @@ user_groups = []
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/carlescamara"
 
+[[social]]
+  icon = "map-marked-alt"
+  icon_pack = "fas"
+  link = "https://openstreetmap.org/user/ccamara"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
@@ -93,7 +98,7 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-Architect by the ETSA Vallés of the Universitat Politècnica de Catalunya (2004). Doctor in Information and Knowledge Society from the Universitat Oberta de Catalunya (2018) with a thesis on Barcelona and new city models in the information and knowledge society with the title *["Urban commons: Lessons from Barcelona at the beginning of the 21st century. Una propuesta de caracterización desde la praxis"](https://phd.carloscamara.es)* rated Excellent _cum Laude_ and awarded the [IND+I Science prize in the category Metropolitan Innovation Policies](http://indi.cat/indi-science/). Master in Computerization of Architectural Projects at the Universitat Politècnica de Catalunya (2004) and Master in Information and Knowledge Society at the Universitat Oberta de Catalunya (2012).
+Architect by the ETSA Vallés of the Universitat Politècnica de Catalunya (2004). Ph.D. in Information and Knowledge Society from the Universitat Oberta de Catalunya (2018) with a thesis on Barcelona and new city models in the information and knowledge society with the title *["Urban commons: Lessons from Barcelona at the beginning of the 21st century. Una propuesta de caracterización desde la praxis"](https://phd.carloscamara.es)* rated Excellent _cum Laude_ and awarded the [IND+I Science prize in the category Metropolitan Innovation Policies](http://indi.cat/indi-science/). Master in Computerization of Architectural Projects at the Universitat Politècnica de Catalunya (2004) and Master in Information and Knowledge Society at the Universitat Oberta de Catalunya (2012).
 
 My multi-disciplinary training and **my multiple research interests are structured around the comodifications between city, technology and society within the framework of informationalism and free culture**, aspects that I approach both from my academic professional side and from my activist side.
 
