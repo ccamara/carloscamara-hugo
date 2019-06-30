@@ -35,7 +35,7 @@ tags = ["urban accessibility", "disabilities", "inclusion", "OpenStreetMap"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://slides.carloscamara.es/2019-06-26-hirikilabs-summerlab/#/home"
 url_video = ""
 url_code = ""
 
