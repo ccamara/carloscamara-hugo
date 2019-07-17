@@ -68,3 +68,5 @@ En su segundo encuentro, en el mes de agosto, SummerLab se centrará en la astro
 Finalmente en septiembre Summerlab 2019 concluirá con un encuentro que tratará de ser un punto de encuentro para la ciencia ciudana en un sentido más ámplio con experiencias que trabajan en ámbitos como los bio-hack labs, el medioambiente, la alimentación o la biociencia.
 
 Fuente: https://www.tabakalera.eu/es/summerlab-2019
+
+![](img/D9-l5KtXoAAPs3U.jpg)
