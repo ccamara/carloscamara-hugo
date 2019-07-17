@@ -1,5 +1,5 @@
 +++
-title = "Urban Commons: Lessons from Barcelona at the Beginning of 21st Century. A  Una propuesta de caracterización desde la praxis"
+title = "Urban Commons: Lessons from Barcelona at the Beginning of 21st Century. A characterization proposal from the praxis"
 date = 2018-01-30T17:13:02+01:00
 draft = false
 
