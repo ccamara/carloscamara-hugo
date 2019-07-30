@@ -15,7 +15,7 @@ authors = ["admin"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["7"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "Tesis Doctoral"

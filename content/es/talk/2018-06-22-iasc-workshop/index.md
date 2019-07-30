@@ -34,7 +34,7 @@ projects = ["urban-commons"]
 tags = ["urban commons", "commons"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.iasc-commons.org/wp-content/uploads/2018/06/2018-6-13_SOCIAL-MOBILIZATION-AND-THE-COMMONS-program.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
