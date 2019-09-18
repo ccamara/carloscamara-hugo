@@ -1,5 +1,5 @@
 +++
-title = "Usando OpenStreetMap con fines inclusivos: el caso de Zaragoza Accesible"
+title = "Using OpenStreetMap with inclusive purposes: Accessible Zaragoza study case"
 publishDate = 2019-06-25T10:00:06+02:00  # Schedule page publish date.
 draft = false
 
