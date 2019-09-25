@@ -60,4 +60,4 @@ Without further ado, I'll leave you some tweets that summarize part of the inter
 
 
 [^INDI]: [IND+I Science](http://indi.cat/indi-science/) is an initiative to promote scientific research and innovation promoted by the [Viladecans City Council](http://www.viladecans.cat) the [Àrea Metropolitana de Barcelona](http://www.amb.cat), the [Pacte Industrial de la Regió Metropolitana de Barcelona](http://www.pacteindustrial.org/), the [Pla Estratègic Metropolità de Barcelona](http://www.pemb.cat/) and the [Institute of Innovation and Public Purpose of the University College of London](https://www.ucl.ac.uk/bartlett/public-purpose/home)
-[^doctorate]: More information on research at [doctoral research on urban commons]({{<ref "/publication/2018-comunes-urban-lessons-from-barcelona" >}}}).
+[^doctorate]: More information on research at [doctoral research on urban commons]({{<ref "/publication/2018-comunes-urbanos-lecciones-desde-barcelona" >}}}).
