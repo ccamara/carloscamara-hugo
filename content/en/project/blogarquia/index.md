@@ -8,7 +8,7 @@ draft = false
 tags = ["architecture", "divulgation"]
 
 # Project summary to display on homepage.
-summary = "Redacción de artículos para el blog de la Fundación Caja de Arquitectos"
+summary = "Writing blog posts as Fundación Caja de Arquitectos' correspondant."
 
 # Optional image to display on homepage.
 image_preview = ""
