@@ -14,7 +14,7 @@ summary = "Curator of the itinerant exhibition on Young Architecture Studios bas
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://materiasensible.cat"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
@@ -36,7 +36,7 @@ highlight = true
 
 +++
 
-“Sensitive Matter: Young Catalan Architects” is an exhibition of architectural works by young studios established in Catalonia which are not only from the same generation but, above all, share certain attitudes and ways of understanding and practising architecture.
+[“Sensitive Matter: Young Catalan Architects”](http://materiasensible.cat) is an exhibition of architectural works by young studios established in Catalonia which are not only from the same generation but, above all, share certain attitudes and ways of understanding and practising architecture.
 
 It is also a personal gamble (and thus, it is necessarily biased and has a certain degree of risk) made by the curators, Joan Vitòria, Pere Buil and Carlos Cámara. It can also be seen as a possible answer to two important questions: What will happen to architecture now that the current model is being questioned? And how can Catalan architecture contribute in the context of the global crisis?
 
