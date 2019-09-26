@@ -8,7 +8,7 @@ draft = false
 tags = ["architecture", "divulgation", "drupal", "maps", "web"]
 
 # Project summary to display on homepage.
-summary = "Curator of the itinerant exhibition on Young Architecture Studios based in Catalonia that travelled to Lisboa, Berlin, A Coruña and Barcelona."
+summary = "Curator of the itinerant exhibition (Lisboa, Berlin, A Coruña, Barcelona) on Young Architecture Studios based in Catalonia."
 
 # Optional image to display on homepage.
 image_preview = ""
@@ -31,7 +31,7 @@ highlight = true
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "Center"
 
 
 +++
