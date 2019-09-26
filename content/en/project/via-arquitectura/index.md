@@ -3,18 +3,31 @@ title = "Via Arquitectura"
 date = 2009-10-31T18:23:55+01:00
 draft = true
 
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-categories = ["Editorial"]
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["editorial"]
+
+# Project summary to display on homepage.
+summary = "Editor of the monographical publication about Spanish architecture published by Grupo Via"
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Does the project detail page use source code highlighting?
+highlight = true
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Some of the cover pages in which I participated."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Top"
+
 +++

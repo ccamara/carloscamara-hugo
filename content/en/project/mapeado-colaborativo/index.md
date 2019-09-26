@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Mapeado Colaborativo"
+title = "Collaborative Mapping"
 
 # Date this page was created.
 date = 2016-04-07T00:00:00
@@ -10,7 +10,7 @@ summary = "Espacio para la creación de mapas colaborativos al servicio de la ci
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["mapas", "divulgación"]
+tags = ["maps", "divulgation"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -45,14 +45,8 @@ links = [{icon_pack = "fas", icon="globe", name="Web del grupo", url = "https://
 
 +++
 
-Es un grupo de entusiastas que se reúnen para hablar y trabajar en torno a la construcción y elaboración de información geográfica participativa o voluntaria, para construir mapas útiles a la ciudadanía: que se puedan usar como herramientas para una mejor toma de decisiones, para compartir experiencias y ayudar a configurar el modo con el que observamos la realidad.
+Founded by myself and Dr. on Geography Miguel Sevilla in 2016[^coordinators], _[Collaborative Mapping](https://translate.google.com/translate?sl=es&tl=en&u=https%3A%2F%2Fmapcolabora.org)_ is an action-research group of enthusiasts aimed to foster citizen innovation and collective intelligence through Voluntary Geographic Informationand that result in collaborative maps at the service of citizens. We do so through participatory projects and periodical meetings and talks about tools, methodologies or related topics such as Free Culture and Informationalism paradigm. Some of our main achievements so far have been the organization of [Medecins Sans Frontieres](https://www.msf.org/)’s **Humanitarian Hackaton in Spain** (2017, 2018 and 2019), leading **Mapping parties** for [Accessible Zaragoza](/project/zaccesible) project, or giving a number of **[talks and workshops](https://translate.google.com/translate?hl=&sl=es&tl=en&u=https%3A%2F%2Fmapcolabora.org%23talks)** on VGI and tools such as Leaflet, Carto, Mapbox, OpenStreetMap, Overpass API, Mapillary, uMap...
 
-Fundado junto a Miguel Sevilla, Mapeado Colaborativo es uno de los [grupos residentes en Zaragoza Activa](http://blogzac.es/category/think-zac-las-armas/grupos-residentes/) que nace en marzo de 2016 como grupo de investigación/acción para la innovación ciudadana y la canalización de la inteligencia colectiva. Su fin es la creación de mapas colaborativos al servicio de la ciudadanía, a través de la concienciación sobre la importancia de la información geográfica en nuestro día a día y la promoción de herramientas y conocimientos para que colectivos y personas tengan la capacidad de realizar procesos de generación de información geográfica voluntaria y participativa.
-
-Desde entonces soy uno de los coordinadores del grupo, junto a Miguel Sevilla, Hector Ochoa, Joan Cano y Alejandro Suárez.
+Since then, I have been coordinating the group's activities as well with Dr. Miguel Sevilla-Callejo and Alejandro Suárez, Héctor Hochoa and Joan Cano, who joined the staff soon afterwards.
 
 {{< gallery >}}
-
-Mapeado Colaborativo se constituye como un espacio para la innovación ciudadana y la canalización de la inteligencia colectiva orientada a la  creación de mapas participativos y servicio de la ciudadanía. Partiendo de la base de la importancia de la información geográfica en nuestro día a día, promovemos el uso de herramientas y conocimiento libres para que colectivos y personas tengan la capacidad de realizar procesos de generación de información geográfica voluntaria y participativa.
-
-Las actividades que realizamos están orientadas a la resolución de diferentes problemáticas en la ciudad como la accesibilidad, la infraestructura ciclista urbana o la organización de sesiones de mapeado sobre OpenStreetMap u otras herramientas de gestión de información espacial libres, que pueden ser sesiones más formativas o maratones de mapeado humanitario.

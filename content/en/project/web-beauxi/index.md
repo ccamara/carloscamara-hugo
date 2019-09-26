@@ -1,14 +1,14 @@
 +++
-title = "Web de la Bienal Española de Arquitectura y Urbanismo"
+title = "'Bienal Española de Arquitectura y Urbanismo' website"
 date = 2011-05-01T19:27:52+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["drupal", "web", "mapas"]
+tags = ["drupal", "web", "maps"]
 
 # Project summary to display on homepage.
-summary = "Realización de web para la publicación, gestión y visualización de proyectos."
+summary = "Website development with an automated workflow for publishing, managing and visualizing projects."
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -61,29 +61,37 @@ caption = "Equipo de la BEAU XI"
 
 +++
 
-Realización de la web oficial de la <a href="http://xi.bienalarquitectura.es" class="ext" target="_blank">XI edición de la Bienal Española de Arquitectura y Urbanismo</a>. A pesar de que el encargo era bastange genérico y sucinto, también fue lo bastante flexible como para permitirme aportar todas las ideas que creyese oportunas para conseguir dar respuesta de manera óptima a los objetivos de <strong>difusión y documentación</strong> de la información generada acerca de la Bienal.</p>
+{{% alert note %}}
+This text has been automatically translated until I find some time to rewrite it in English. Sorry for the inconvenience.
+{{% /alert %}}
 
-![](/img/project/beauxi/captura-bienal-portada.png)
+Development of the official website of the <a href="http://xi.bienalarquitectura.es" class="ext" target="_blank">9th edition of the Spanish Biennial of Architecture and Urbanism </a>. Although the commission was generic and succinct enough, it was also flexible enough to allow me to contribute all the ideas that I thought opportune to give an optimal response to the objectives of <strong>diffusion and documentation </strong> of the information generated about the Biennial.</p>>
 
-El principal reto, a parte del poco tiempo para realizarla (inicialmente fue de apenas dos semanas), era que además de tener una plataforma donde publicar la información de la bienal y de la **relación con redes sociales** que se exigen hoy en día, fuese una herramienta que permitiese la publicación y **auto-publicación** de proyectos por parte del personal de la bienal y por parte de los propios participantes sin comprometer el rigor que exige la tarea de documentación de un evento de esta magnitud. Otro aspecto que quise explorar e incorporar fue la introducción de información geográfica en forma de **mapas**.
+![](/img/project/beauxi/captura-biennial-cover.png)
+
+The main challenge, apart from the short time to do it (initially it was only two weeks), was that besides having a platform where to publish the information of the biennial and of the **relation with social networks** that are demanded nowadays, it was a tool that would allow the publication and **auto-publication** of projects on the part of the staff of the biennial and on the part of the participants themselves without compromising the rigor that the task of documenting an event of this magnitude requires. Another aspect that I wanted to explore and incorporate was the introduction of geographic information in the form of **maps**.
 
 {{< gallery album="1" >}}
 
-### Auto-publicación y documentación
+### Self-publishing and documentation
 
-<p>Dado que en el encargo se daba mucha importancia a la labor de documentación que debía asumir la web, uno de los aspectos que iban a condicionar el éxito o el fracaso de la web era que la mayoría de los 750 proyectos presentados estuviesen publicados. Dado que era imposible contar con un número elevado de obras publicadas en el plazo de tiempo que dura la convocatoria con el personal y recursos disponibles, la única manera de conseguir el objetivo era dejando que los propios participantes publicasen las obras al mismo tiempo que facilitaban la información para participar en el premio.</p>
-<p>Para que eso fuera posible se trabajo mucho en establecer un <strong>protocolo fácil de usar y amigable</strong>, que pasaba sobretodo por <strong>estandarizaron todos los campos</strong> en función de lo que establecían las bases y de criterios de generación de meta-información documental, garantizando la homogeneidad de los envíos así como su corrección formal. Lo que en principio era una limitación se convirtió en una oportunidad de generar en relativo poco tiempo una importante base de datos documental de obras muy interesante para los interesados en la materia.</p>
+Given that the commission gave a lot of importance to the documentation work that the web had to assume, one of the aspects that would condition the success or failure of the web was that most of the 750 projects presented were published. Given that it was impossible to have a large number of works published within the time frame of the call with the available staff and resources, the only way to achieve the objective was to let the participants themselves publish the works at the same time that they provided the information to participate in the prize.
 
-### Geoposicionamiento
+In order to make this possible, a lot of work was done to establish an <strong>easy to use and friendly protocol </strong>, which mainly passed through **standardized all the fields** according to what was established by the bases and criteria for generating documentary meta-information, guaranteeing the homogeneity of the submissions as well as their formal correction. What in principle was a limitation became an opportunity to generate in a relatively short time an important documentary database of works very interesting for those interested in the subject.
 
-<p>Una de las características más importantes de una obra de arquitectura es su emplazamiento, y sin embargo este suele obviarse en muchas webs de arquitectura.&nbsp; Una de mis obsesiones particulares como arquitecto y desarrollador de webs es incorporar datos de geoposicionamiento así que esta era una gran oportunidad de desarrollar algunas de las experimentaciones que había ido haciendo previamente.</p>
-<p>No es de extrañar, pues, que el mapa de proyectos ocupe una parte importante de las páginas de proyectos. Todos los proyectos están geoposicionados a partir de unas coordenadas que se introducen a partir de la dirección, lo cual permite generar un mapa interactivo que muestre las obras premiadas, finalistas, seleccionadas y participantes en capas diferentes que pueden ser activadas o desactivadas de forma individual a voluntad del visitante. Otras interactividades destacables son la posibilidad de navegar por el <strong>mapa a pantalla completa</strong> (lo cual facilita la labor de buscar y encontrar las obras y leer su relación con el entorno), <strong>cambiar las capas de fondo</strong> o <strong>mostrar la información</strong> resumida de cada proyecto al pasar por encima de su situación.</p>
-<p><strong>Sistema de votación de los PFCs</strong></p>
-<p>Otro aspecto destacable de la web de la BEAUXI es que es también una herramienta de trabajo que permite a los miembros del jurado votar los Proyectos Finales de Carrera que se presentan a la IV Muestra de PFCs para lo cual se estableció un sistema de votaciones solo disponible para los miembros del jurado.</p>
+### Geopositioning
 
-### Otros datos de interés:
+One of the most important characteristics of an architectural work is its location, and yet this is often overlooked in many architectural websites.&nbsp; One of my particular obsessions as an architect and web developer is to incorporate geopositioning data so this was a great opportunity to develop some of the experiments I had been doing previously.
 
-<ul><li><strong>Integración con terceros: </strong>Facebook y Twitter tienen sendos widgets en la barra lateral que muestran, a tiempo real, la actividad generada en los canales de la BEAUXI en dichas redes sociales.</li>
-<li><strong>Moderación de comentarios: </strong>como parte del proyecto de transparencia se ofrecía la posibilidad de que cualquier persona pudiese votar y comentar el contenido publicado en la web. En previsión de que pudiera hacerse un mal uso de la libertad de expresión mal entendida se integró el servicio <a href="https://disqus.com/" class="ext" target="_blank">disqus</a> como herramienta que permitiese moderar, llegado el caso, los comentarios por parte del equipo de la BEAUXI.</li>
-<li><strong>Multi-idioma:</strong> el contenido y la navegación pueden estar en español e inglés.</li>
-<li>Gestión de una portada común para todas las bienales que sirva para ver todas las ediciones anteriores</li>
+It is not surprising, then, that the project map occupies an important part of the project pages. All the projects are geopositioned from coordinates that are introduced from the direction, which allows to generate an interactive map that shows the winning works, finalists, selected and participants in different layers that can be activated or deactivated individually at the will of the visitor. Other outstanding interactivities are the possibility of navigating through the <strong>full-screen map </strong> (which facilitates the task of searching and finding the works and reading their relationship with the environment), <strong>change the background layers </strong> or <strong>show the information </strong> summarized of each project by going over its situation.
+
+<strong>PFCs voting system </strong>
+
+Another outstanding aspect of the BEAUXI website is that it is also a working tool that allows the members of the jury to vote for the Final Career Projects that are presented at the IV Muestra de PFCs for which a voting system was established that is only available to members of the jury.
+
+### Other information of interest:
+
+<ul><li><strong>Integration with third parties: </strong>Facebook and Twitter have widgets in the sidebar that show, in real time, the activity generated in the BEAUXI channels in these social networks. </li>
+<li>strong>Comment moderation: </strong>as part of the transparency project, there was a possibility for anyone to vote and comment on the content published on the website. In anticipation of a misuse of the misunderstood freedom of expression, the service <a href="https://disqus.com/" class="ext" target="_blank">disqus</a> was integrated as a tool that would allow for moderation, if necessary, of the comments by the BEAUXI.</li> team.
+<li><strong>Multi-language:</strong> content and navigation can be in Spanish and English.</li>
+<li>Management of a common cover for all biennials that serves to see all previous editions </li>
