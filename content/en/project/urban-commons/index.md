@@ -1,14 +1,14 @@
 +++
-title = "Comunes urbanos"
+title = "Urban Commons"
 date = 2018-02-09T12:39:17+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["investigación", "comunes urbanos", "comunes", "commons"]
+tags = ["research", "urban commons", "commons"]
 
 # Project summary to display on homepage.
-summary = "Investigación doctoral sobre los comunes urbanos como construcciones de alternativas a sociedades y ciudades más justas."
+summary = "Personal Research line about urban commons as alternative constructions of fairer cities and societies."
 
 
 # Optional external URL for project (replaces project detail page).
@@ -33,4 +33,4 @@ focal_point = "Smart"
 
 +++
 
-Investigación doctoral sobre los comunes urbanos como construcciones de alternativas a sociedades y ciudades más justas.
+Personal Research line about urban commons as alternative constructions of fairer cities and societies.

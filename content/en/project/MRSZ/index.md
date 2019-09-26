@@ -1,29 +1,38 @@
----
-date: 2015-04-27
-
-title: Mapa de Riesgo Social de Zaragoza
-summary: Diseño de metodología de análisis social del espacio público que complemente el diseño de los actuales indicadores de vulnerabilidad urbana aplicables a procesos de regeneración urbana.
-
-header:
-  image:
-    caption: 'MRSZ: unidades de barrio de zaragoza y desglose en unidades de toma de
-    datos.'
++++
+title = "Zaragoza's Social Risk Map"
+date = 2018-02-09T12:39:17+01:00
+draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags:
-- vulnerabilidad
-- finalizado
-- investigación
-- mapas
+tags = ["research", "maps", "inequities", "vulnerabilities"]
+
+# Project summary to display on homepage.
+summary = "Design of a methodology for social analysis of public space that complements the design of current indicators of urban vulnerability applicable to urban regeneration processes."
 
 
 # Optional external URL for project (replaces project detail page).
-#external_link: ""
+external_link = ""
 
 # Does the project detail page use math formatting?
-math: false
----
+math = false
 
-Integrante del proyecto Mapa de Riesgo Social de Zaragoza, realizado por el grupo de investigación **Arquitecturas OpenSource** de la [Universidad San Jorge](http://usj.es). Proyecto financiado por el Ministerio de Economía y Competitividad del Gobierno de España y desarrollado entre 2014 y 2017 por el grupo de investigación AOS en colaboración con el [Colegio Profesional de Trabajadores Sociales de Aragón](http://www.trabajosocialaragon.es/). El objetivo es el diseño de una metodología de análisis social del espacio público que complemente el diseño de los actuales indicadores de vulnerabilidad urbana aplicables a procesos de regeneración urbana.
-A propósito de la ciudad de Zaragoza, se diseñó y la aplicación de una metodología de análisis y diagnóstico del riesgo de exclusión social como indicador que permita evaluar las áreas urbanas más sensibles a la disminución de relaciones socio-comunitarias de vecindad y de interrelación con el resto de la ciudad en contextos de rápida pérdida de capacidad económica y de aparición o incremento sostenido del declive urbano.
+# Does the project detail page use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+[image]
+# Caption (optional)
+caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = "Smart"
+
++++
+
+Researcher at _Zaragoza's Social Risk Map_ project, funded by the Ministry of Economy and Competitiveness of the Government of Spain and developed between 2014 and 2017 by the AOS research group at [Universidad San Jorge](http://usj.es) in collaboration with the [Colegio Profesional de Trabajadores Sociales de Aragón](http://www.trabajosocialaragon.es/). Its main goal was to design a methodology for social analysis of public space that complements the design of current indicators of urban vulnerability applicable to urban regeneration processes.
+
+Using Zaragoza as study case, a methodology for the analysis and diagnosis of the risk of social exclusion was designed and applied as an indicator to evaluate the urban areas most sensitive to the reduction of socio-community neighbourhood relations and interrelation with the rest of the city in contexts of rapid loss of economic capacity and the appearance or sustained increase of urban decline.

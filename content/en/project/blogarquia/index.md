@@ -1,11 +1,11 @@
 +++
-title = "Corresponsal Blog Arquia"
+title = "Correspondant and Fundación Caja de Arquitectos' blog"
 date = 2009-12-01T12:42:02+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["arquitectura", "divulgación"]
+tags = ["architecture", "divulgation"]
 
 # Project summary to display on homepage.
 summary = "Redacción de artículos para el blog de la Fundación Caja de Arquitectos"
@@ -36,5 +36,4 @@ highlight = true
 
 +++
 
-En 2014, la [Fundación Arquia](https://fundacion.arquia.es) inició un proyecto de divulgación coordinado por Lorenzo Barnó y Agnieszka Stepien con el objetivo de ofrecer distintas miradas acerca de la arquitectura en relación con los siguientes ejes temáticos: Profesión, Arquitectura y Sociedad, Pensamiento y crítica
-Para ello crearon el [Blog de la fundación](http://blogfundacion.arquia.es), cuyo contenido se crea de forma colaborativa por su equipo de colaborades, entre los que me encuentro.
+In 2014, the [Arquia Foundation](https://fundacion.arquia.es) initiated a divulgation project coordinated by Lorenzo Barnó and Agnieszka Stepien aimed to provide different perspectives on architecture in relation to the following thematic axes: Profession, Architecture and Society, Thought and Criticism, through a [collaborative blog](http://blogfundacion.arquia.es). I am proud to be one of those correspondants, writing about university studies, technology, maps and cities.

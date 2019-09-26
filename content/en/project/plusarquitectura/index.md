@@ -5,10 +5,10 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["drupal", "arquitectura", "web"]
+tags = ["drupal", "architecture", "divulgation", "web"]
 
 # Project summary to display on homepage.
-summary = "Comunidad online de arquitectura"
+summary = "Online architecture community"
 
 # Optional image to display on homepage.
 image_preview = "project/plusarquitectura.jpg"
@@ -49,43 +49,47 @@ caption = "El Reto"
 
 +++
 
-Ideólogo, creador, editor, webmaster y community manager de +arquitectura. **+arquitectura** es un **lugar (virtual) de encuentro** donde compartir: conocimientos, experiencias, opiniones, ideas, información... todo ello en torno a la arquitectura o simplemente "con la excusa de la arquitectura"
+{{% alert note %}}
+This text has been automatically translated until I find some time to rewrite it in English. Sorry for the inconvenience.
+{{% /alert %}}
 
-Se trata, pues, de una **comunidad** que va más allá de la suma de acciones individuales, un lugar con el común denominador de la arquitectura donde se trabaja en equipo, cada uno haciendo lo que mejor sabe hacer y o lo que más le motiva, ya sea como miembro del equipo o como usuario. Para que eso sea posible +arquitectura pone los medios de que dispone (son muchos más de los que se ven actualmente, basta con tener una idea y pedir) y su *know-how*, adquirido durante todos los años de funcionamiento.
+Ideologist, creator, editor, webmaster and community manager of +arquitectura. **+arquitectura** was a **(virtual) meeting place** where sharing knowledge, experiences, opinions, ideas, information... about architecture or simply "with the excuse of architecture".
+
+It is therefore a **community** that goes beyond the sum of individual actions, a place with the common denominator of architecture where you work as a team, each doing what they do best and what motivates them most, either as a member of the team or as a user. For that to be possible +arquitectura puts the means at its disposal (there are many more than you see today, just have an idea and ask) and its *know-how*, acquired during all the years of operation.
 
 <script async class="speakerdeck-embed" data-id="0284adf9a24c475e855759863bbbac67" data-ratio="1.33333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-### Objetivos
+### Objectives
 
-1. Potenciar las relaciones entre usuarios para establecer vínculos en varios niveles: profesionales, formativos, amistosos...
-2. Convertir lo relacional en conocimiento: primar la opinión personal y el diálogo para aprender los unos de los otros.
-3. Promocionar la arquitectura y sus agentes, proporcionando un espacio donde publicar textos, artículos, comentarios, fotografías, proyectos... y herramientas para hacerlo posible fácilmente
-4. Favorecer y orientar el trabajo en equipo
-5. Crear contenido único y de calidad
-6. Ofrecer servicios profesionales que tengan como objeto la gestión de contenidos y difusión y promoción de realizaciones
+1. Promote the relations between users to establish links at various levels: professional, formative, friendly...
+2. Convert the relational into knowledge: give priority to personal opinion and dialogue in order to learn from each other.
+3. Promote architecture and its agents, providing a space where to publish texts, articles, comments, photographs, projects... and tools to make it possible easily.
+4. Encourage and guide teamwork
+5. Create unique, quality content
+6. To offer professional services whose object is the management of contents and the diffusion and promotion of achievements.
 
 {{< gallery album="1" >}}
 
-### Motivación
+### Motivation
 
-La idea de hacer un portal de arquitectura surgió cuando acabé la carrera y me sentí bastante desorientado a la hora de decidir cual tenía que ser mi siguiente paso en mi vida laboral: por una parte veía que había un hueco entre lo aprendido en la carrera y lo que se me venía delante, y por otra parte la información que tenía era más bien poca y confusa. Y fue esto lo que me hizo dar el paso hacia una idea que me venía rondando por la cabeza desde hacía ya bastante tiempo: decidí crear un lugar donde poder aglutinar toda la información posible para poder guiar a otros (y aprender de la experiencia de otra gente más experimentada, por qué no decirlo) en el mundo de la arquitectura.
+The idea of making an architecture portal arose when I finished my degree and I felt quite disoriented when deciding what my next step in my working life should be: on the one hand I saw that there was a gap between what I had learned in my degree and what came before me, and on the other hand the information I had was rather little and confusing. And it was this that made me take the step towards an idea that had been on my mind for quite some time: I decided to create a place where I could gather all the information possible to guide others (and learn from the experience of other more experienced people, why not say it) in the world of architecture.
 
 
-Ése portal **no debería ser un simple compendio de informaciones**, normativa, consejos... que irremediablemente quedarían obsoletas en un plazo de tiempo, **sino que debería ser un lugar vivo** donde se mezclasen todo tipo de gente, de cualquier profesión y lugar, que aportasen su granito de arena con sus dudas y consejos, en definitiva un lugar en donde todos aprendiésemos de todos.
+That portal **should not be a simple compendium of information**, regulations, advice... that would irremediably become obsolete in a period of time, **but it should be a living place** where all kinds of people, of any profession and place, who contribute their grain of sand with their doubts and advice, in short a place where we all learn from each other.
 
-Han pasado ya tres años y aquéllas ideas ya no son un sueño: los objetivos iniciales se van cumpliendo, la previsión de repercusión de +arquitectura se ha superado con creces y continúa creciendo, y se plantean nuevos objetivos más acordes con la realidad del momento de la web. La línea de trabajo presente está en proporcionar contenido único de calidad sobre varias facetas de la arquitectura y la construcción y potenciar una comunidad que participe y se sienta identificada con el portal. El tiempo dirá si los objetivos se consiguen o si todo eso se queda en un simple sueño.
+Three years have passed and those ideas are no longer a dream: the initial objectives are being fulfilled, the repercussion forecast of +arquitectura has been surpassed by far and continues to grow, and new objectives are proposed that are more in line with the reality of the moment of the web. The present line of work is to provide unique quality content on various facets of architecture and construction and enhance a community that participates and feels identified with the portal. Time will tell if the objectives are achieved or if all that remains a simple dream.
 
-### Reconocimientos
+### Acknowledgements
 
-<p>+arquitectura ha sido una de las <a href="http://v3.plusarquitectura.info/foro/arquitectos/obras-proyectos/arquiaproxima-28-realizaciones-seleccionadas" rel="nofollow" class="ext" target="_blank">28 obras seleccionadas</a> para la exposición y el catálogo del programa Arquia/Próxima 2008, convocado por la Fundación Caja de Arquitectos.</p>
-### Puntos diferenciales
-<p>Estas son algunas de las secciones creadas con el objetivo de tener contenido original y de calidad a la vez que se buscaba fomentar la comunidad:</p>
-<ul><li>El Reto: una especie de concurso (sin premio) consistente en que un usuario publicaba una foto de una parte de una obra y el resto de usuarios tenían que adivinar de qué se trataba a partir de preguntas de tipo sí/no. Quien adivinaba el reto debía publicar información del edificio y preparar el siguiente reto.</li>
-<li>arch.Maaik: publicación de la tira cómica diaria sobre arquitectura realizada&nbsp; por el arquitecto y dibujante belga Maaik Hermans (ver post "<a href="http://carloscamara.es/blog/2008/11/11/archmaaik-en-arquitectura">Arch.Maaik en +arquitectura</a>"), traducido al español por <a href="http://lauraacosta.es" class="ext" target="_blank">Laura Acosta</a></li>
-<li>Los otros arquitectos y Los no-arquitectos, dos secciones hermanas que tenían el objetivo de mostrar la cara menos conocida e institucionalizada de la arquitectura a partir de cuestionarios estructurados realizados a arquitectos que no se dedican a la edificación y a profesionales no-arquitectos que trabajan en el mundo de la arquitectura, respectivamente (Ver "<a href="http://carloscamara.es/blog/2009/05/28/hablando-de-arquitectos-arquitectura-y-experiencias">Hablando de arquitectos, arquitectura y experiencias</a>").</li>
-<li>Citas y frases de arquitectos conocidos.</li>
+<p>+architecture has been one of the <a href="http://v3.plusarquitectura.info/foro/arquitectos/obras-proyectos/arquiaproxima-28-realizaciones-seleccionadas" rel="nofollow" class="ext" target="_blank">28 works selected </a> for the exhibition and catalogue of the program Arquia/Próxima 2008, convened by the Fundación Caja de Arquitectos.</p>.
+### Differential points
+<p>These are some of the sections created with the aim of having original and quality content while seeking to foster community:</p>>.
+<ul><li>The Challenge: a kind of contest (without prize) consisting of a user publishing a photo of a part of a work and the rest of users had to guess what it was based on yes/no questions. Whoever guessed the challenge had to publish information about the building and prepare the next challenge.</li>
+<li>arch.Maaik: publication of the daily comic strip on architecture by the Belgian architect and draftsman Maaik Hermans (see post "<a href="http://carloscamara.es/blog/2008/11/11/archmaaik-en-arquitectura">Arch.Maaik en +arquitectura</a>"), translated into Spanish by <a href="http://lauraacosta.es" class="ext" target="_blank">Laura Acosta</a>></li>.
+<li>The other architects and The non-architects, two sister sections that had the objective of showing the lesser known and institutionalized face of architecture from structured questionnaires made to architects who are not dedicated to building and to non-architects professionals who work in the world of architecture, respectively (See "<a href="http://carloscamara.es/blog/2009/05/28/hablando-de-arquitectos-arquitectura-y-experiencias">Talking about architects, architecture and experiences</a>").</li>
+<li>Quotes and phrases from known architects.</li>
 </ul>
 
-### Evolución y Cierre
+### Evolution and Closure
 
-Durante sus 9 años de vida +arquitectura ha cambiado mucho, tanto en diseño, funcionalidades, comunidad, participación y secciones, mostrando&nbsp; una evolución y crecimientos exponenciales cuyo punto álgido fue el año 2008 y mediados de 2009, con la consolidación de una comunidad estable y participativa, secciones como el reto o [arch.Maaik](http://archmaaik.com) y, posteriormente, Los otros arquitectos. A finales de 2009, con el auge de las redes sociales y la consolidación de los blogs propios, empezó la decadencia de los foros, y +arquitectura no fue una excepción (ver post "<a href="http://carloscamara.es/blog/2009/11/25/arquitectura-un-ano-despues">+arquitectura, un año después</a>"). A pesar de los intentos de reinventar la web para que la comunidad no dependiese únicamente de los foros, la participación de terceras personas fue disminuyendo notablemente, creando un efecto bola de nieve del que no se recuperaría nunca. Finalmente, cerró el día 28 de enero de 2013 debido a continuados hackeos que la convertían en una tienda online de medicinas ilegales.([ver post](/blog/2013/01/31/-arquitectura-despedida-y-cierre/) )
+During its 9 years of life +arquitectura has changed a lot, both in design, functionalities, community, participation and sections, showing an evolution and exponential growth whose peak was in 2008 and mid 2009, with the consolidation of a stable and participatory community, sections such as _'the challenge'_ or [arch.Maaik](http://archmaaik.com) humorous daily strip, and, later, _'The other architects'_. At the end of 2009, with the rise of social networks and the consolidation of the blogs themselves, the decline of the forums began, and +arquitectura was no exception (see post "<a href="http://carloscamara.es/blog/2009/11/25/arquitectura-un-ano-despues">+arquitectura, one year later</a>"). In spite of the attempts to reinvent the web so that the community did not depend solely on the forums, the participation of third parties decreased considerably, creating a snowball effect from which it would never recover. Finally, it closed on January 28, 2013 due to continuous hacking that turned it into an online shop of illegal medicines ([see post](/blog/2013/01/31/arquitectura-despedida-y-cierre/))
