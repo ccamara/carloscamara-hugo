@@ -27,7 +27,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Research"
-    tag = ".js-id-investigación"
+    tag = ".js-id-research"
 
   [[content.filter_button]]
     name = "Web development"
@@ -35,11 +35,11 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Maps"
-    tag = ".js-id-mapas"
+    tag = ".js-id-maps"
 
   [[content.filter_button]]
     name = "Dissemination"
-    tag = ".js-id-divulgación"
+    tag = ".js-id-divulgation"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
