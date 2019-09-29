@@ -4,6 +4,7 @@
 
 widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
+headless = true  # This file represents a page section.
 weight = 20  # Order that this section will appear.
 
 

@@ -1,10 +1,9 @@
 +++
 # Feature/Skill widget.
 widget = "featurette"  # Do not modify this line!
+headless = true  # This file represents a page section.
+active = true # Activate this widget? true/false
 date = 2017-09-20T00:00:00
-
-# Activate this widget? true/false
-active = true
 
 title = "Skills"
 subtitle = ""
