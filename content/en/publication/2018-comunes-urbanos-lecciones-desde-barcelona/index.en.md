@@ -15,6 +15,8 @@ authors = ["Carlos Cámara-Menoyo"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
+# 7 = Thesis
+# 8 = Patent
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
