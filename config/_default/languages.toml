@@ -14,7 +14,7 @@
  title = "Carlos Cámara Menoyo"
  [ca.params]
    #description = "Site description in Chinese..."
-   role = "Arquitecte. Doctor. Professor. Estudiant."
+   role = "Arquitecte. Doctor. Professor. Aprenent."
  [[ca.menu.main]]
    name = "Inici"
    url = "#"
@@ -40,7 +40,7 @@
     name = "Home"
     url = "#"
     weight = 1
-    
+
   [[en.menu.main]]
     name = "About me"
     url = "/about"
