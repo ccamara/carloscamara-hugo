@@ -48,6 +48,7 @@ highlight = true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
+  placement = 2
   # Caption (optional)
   caption = "Cartel de las jornadas"
 

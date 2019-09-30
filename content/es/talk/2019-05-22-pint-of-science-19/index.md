@@ -48,8 +48,9 @@ highlight = true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
+  placement = 3
   # Caption (optional)
-  caption = ""
+  caption = "Foto: Javier Álvarez"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

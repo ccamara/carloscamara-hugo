@@ -1,5 +1,5 @@
 +++
-title = "La apropiación espacial de los comunes urbanos"
+title = "The Spatial Apropriation of the Urban Commons"
 publishDate = 2018-11-08T16:00:06+02:00  # Schedule page publish date.
 draft = false
 
@@ -9,7 +9,7 @@ date = 2018-11-08T16:00:06+02:00
 #date_end = 2018-06-22T22:00:00+02:00
 
 # Abstract and optional shortened version.
-abstract = "Los comunes urbanos son uno de los ámbitos en los que más claramente se evidencia la espacialidad de los movimientos sociales a escala local. Si bien el modo en que realizan la apropiación del espacio suele presentarse como una tercera vía alternativa tanto al mercado (propiedad privada / libre voluntad de las partes) como al Estado (propiedad pública / interés general), el trabajo de campo realizado entre 2012 y 2016 a propósito de los principales comunes urbanos surgidos en Barcelona y Zaragoza a raíz del movimiento 15M muestra una gran dependencia respecto a la Administración Pública, que contrasta con las principales prácticas latinoamericanas presentadas por Antonio Negri como paradigma de los mismos. Esta comunicación expone las principales particularidades de los comunes urbanos analizados haciendo hincapié en aquellos puntos donde se evidencia una falta de adecuación entre las teorías sociopolíticas desde las que son habitualmente concebidos (Lefebvre, Ostrom, Negri) y el modo en el que son realmente gestionados.\n\nAutores: Carlos Cámara Menoyo y Jorge León Casero"
+abstract = "Urban commons are one of the areas in which the spatiality of social movements on a local scale is most clearly evident. Although the way in which they make the appropriation of space is usually presented as a third alternative to both the market (private property / free will of the parties) and the State (public property / general interest), the fieldwork carried out between 2012 and 2016 on the main urban commons arising in Barcelona and Zaragoza as a result of the 15M movement shows a great dependence on the Public Administration, which contrasts with the main Latin American practices presented by Antonio Negri as their paradigm. This communication exposes the main particularities of the urban commons analysed, emphasising those points where there is a lack of adaptation between the socio-political theories from which they are usually conceived (Lefebvre, Ostrom, Negri) and the way in which they are actually managed.\nAuthors: Carlos Cámara Menoyo and Jorge León Casero"
 summary = ""
 
 # Name of event and optional event URL.
@@ -49,7 +49,7 @@ highlight = true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Cartel de las jornadas"
+  caption = "Poster"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
