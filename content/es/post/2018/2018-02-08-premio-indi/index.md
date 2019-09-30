@@ -17,6 +17,7 @@ projects = ["urban-commons"]
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
 [image]
+placement = 2
 caption = "Un momento de la sesión de entrega de premios. Foto: IND+I"
 
 # Focal point (optional)
