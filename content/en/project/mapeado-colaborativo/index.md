@@ -31,11 +31,12 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "fas", icon="globe", name="Web del grupo", url = "https://mapcolabora.org"}]
+links = [{icon_pack = "fas", icon="globe", name="Website", url = "https://mapcolabora.org"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
+  placement = 3
   # Caption (optional)
   caption = ""
 

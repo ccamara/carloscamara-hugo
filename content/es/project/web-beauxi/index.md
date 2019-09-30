@@ -23,6 +23,7 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 [image]
+  placement = 3
   # Caption (optional)
   caption = "Obra ganadora de la categoría de arquitectura. Edificio de 131 viviendas protegidas en Mieres, de Bernardo Angelini y David Casino"
 
@@ -33,41 +34,40 @@ highlight = true
 aliases = [
     "portfolio/web-de-la-bienal-espanola-de-arquitectura-y-urbanismo"
 ]
-
 [[gallery_item]]
-album = "1"
-image = "project/beauxi/captura-bienal.png"
+album = "beaxi"
+image = "captura-bienal.png"
 caption = "Portada"
 
 [[gallery_item]]
-album = "1"
-image = "project/beauxi/xi.bienalarquitectura.es_2011-4-12_85047.png"
+album = "beauxi"
+image = "xi.bienalarquitectura.es_2011-4-12_85047.png"
 caption = "Mapa de obras"
 
 [[gallery_item]]
-album = "1"
-image = "project/beauxi/mapa5c.png"
+album = "beauxi"
+image = "mapa5c.png"
 caption = "Mapa de obras"
 
 [[gallery_item]]
-album = "1"
-image = "project/beauxi/xi.bienalarquitectura.es_2011-4-12_91017.png"
+album = "beauxi"
+image = "xi.bienalarquitectura.es_2011-4-12_91017.png"
 caption = "Detalle de la obra ganadora de la bienal."
 
 [[gallery_item]]
-album = "1"
-image = "project/beauxi/xi.bienalarquitectura.es__equipo_0.png"
+album = "beauxi"
+image = "xi.bienalarquitectura.es__equipo_0.png"
 caption = "Equipo de la BEAU XI"
 
 +++
 
 Realización de la web oficial de la <a href="http://xi.bienalarquitectura.es" class="ext" target="_blank">XI edición de la Bienal Española de Arquitectura y Urbanismo</a>. A pesar de que el encargo era bastange genérico y sucinto, también fue lo bastante flexible como para permitirme aportar todas las ideas que creyese oportunas para conseguir dar respuesta de manera óptima a los objetivos de <strong>difusión y documentación</strong> de la información generada acerca de la Bienal.</p>
 
-![](/img/project/beauxi/captura-bienal-portada.png)
+![](beauxi/captura-bienal-portada.png)
 
 El principal reto, a parte del poco tiempo para realizarla (inicialmente fue de apenas dos semanas), era que además de tener una plataforma donde publicar la información de la bienal y de la **relación con redes sociales** que se exigen hoy en día, fuese una herramienta que permitiese la publicación y **auto-publicación** de proyectos por parte del personal de la bienal y por parte de los propios participantes sin comprometer el rigor que exige la tarea de documentación de un evento de esta magnitud. Otro aspecto que quise explorar e incorporar fue la introducción de información geográfica en forma de **mapas**.
 
-{{< gallery album="1" >}}
+{{< gallery album="beauxi" >}}
 
 ### Auto-publicación y documentación
 
