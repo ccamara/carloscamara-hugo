@@ -101,6 +101,6 @@ user_groups = []
 
 +++
 
-Architect by the Universitat Politècnica de Catalunya and Ph.D. on Information and Knowledge Society by the Universitat Oberta de Catalunya. I work as teacher and researcher at the School of Architecture and Technology at Universidad San Jorge and I am member of Urban Transformation and Global Change Lab research group at UOC's IN3.
+I am a versatile, transdisciplinary and passionate person with a mixed technical and sociological background: I’ve worked as an architect, drupal developer, project manager, lecturer, researcher and as a data scientist, doing data munging and visualization using R and dealing with geospatial data using QGIS.
 
-My multiple research interests focus around the commodifications between cities, technology and society within informationalism and free culture frame, as well as the creation of maps as representation and empowering tools, amongst others [+info about me](https://carloscamara.es/en/about).
+My multiple research interests are framed within the Urban Studies, and more specifically around the commodifications between cities, technology and society. So far, I have focused on the topic of social and spatial inequities to find ways in which cities can be more sustainable and egalitarian, hence improving people’s well-being.[+info about me](https://carloscamara.es/en/about).
