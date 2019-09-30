@@ -38,7 +38,7 @@ subtitle = ""
     tag = ".js-id-maps"
 
   [[content.filter_button]]
-    name = "Dissemination"
+    name = "Divulgation"
     tag = ".js-id-divulgation"
 
 [design]

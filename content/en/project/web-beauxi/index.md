@@ -23,8 +23,9 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 [image]
+  placement = 3
   # Caption (optional)
-  caption = "Obra ganadora de la categoría de arquitectura. Edificio de 131 viviendas protegidas en Mieres, de Bernardo Angelini y David Casino"
+  caption = "Awarded work of the architecture category. Building of 131 protected homes in Mieres, by Bernardo Angelini and David Casino"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -35,28 +36,28 @@ aliases = [
 ]
 
 [[gallery_item]]
-album = "1"
-image = "project/beauxi/captura-bienal.png"
+album = "beaxi"
+image = "captura-bienal.png"
 caption = "Portada"
 
 [[gallery_item]]
-album = "1"
-image = "project/beauxi/xi.bienalarquitectura.es_2011-4-12_85047.png"
+album = "beauxi"
+image = "xi.bienalarquitectura.es_2011-4-12_85047.png"
 caption = "Mapa de obras"
 
 [[gallery_item]]
-album = "1"
-image = "project/beauxi/mapa5c.png"
+album = "beauxi"
+image = "mapa5c.png"
 caption = "Mapa de obras"
 
 [[gallery_item]]
-album = "1"
-image = "project/beauxi/xi.bienalarquitectura.es_2011-4-12_91017.png"
+album = "beauxi"
+image = "xi.bienalarquitectura.es_2011-4-12_91017.png"
 caption = "Detalle de la obra ganadora de la bienal."
 
 [[gallery_item]]
-album = "1"
-image = "project/beauxi/xi.bienalarquitectura.es__equipo_0.png"
+album = "beauxi"
+image = "xi.bienalarquitectura.es__equipo_0.png"
 caption = "Equipo de la BEAU XI"
 
 +++
@@ -65,13 +66,14 @@ caption = "Equipo de la BEAU XI"
 This text has been automatically translated until I find some time to rewrite it in English. Sorry for the inconvenience.
 {{% /alert %}}
 
-Development of the official website of the <a href="http://xi.bienalarquitectura.es" class="ext" target="_blank">9th edition of the Spanish Biennial of Architecture and Urbanism </a>. Although the commission was generic and succinct enough, it was also flexible enough to allow me to contribute all the ideas that I thought opportune to give an optimal response to the objectives of <strong>diffusion and documentation </strong> of the information generated about the Biennial.</p>>
+Development of the official website of the <a href="http://xi.bienalarquitectura.es" class="ext" target="_blank">9th edition of the Spanish Biennial of Architecture and Urbanism </a>. Although the commission was generic and succinct enough, it was also flexible enough to allow me to contribute all the ideas that I thought opportune to give an optimal response to the objectives of <strong>diffusion and documentation </strong> of the information generated about the Biennial.
 
-![](/img/project/beauxi/captura-biennial-cover.png)
+{{< figure src="beauxi/captura-bienal-portada.png" title="A caption" lightbox="true" >}}
+
 
 The main challenge, apart from the short time to do it (initially it was only two weeks), was that besides having a platform where to publish the information of the biennial and of the **relation with social networks** that are demanded nowadays, it was a tool that would allow the publication and **auto-publication** of projects on the part of the staff of the biennial and on the part of the participants themselves without compromising the rigor that the task of documenting an event of this magnitude requires. Another aspect that I wanted to explore and incorporate was the introduction of geographic information in the form of **maps**.
 
-{{< gallery album="1" >}}
+{{< gallery album="beauxi" >}}
 
 ### Self-publishing and documentation
 

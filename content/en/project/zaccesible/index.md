@@ -36,6 +36,7 @@ links = [{icon_pack = "fas", icon="globe", name="Project's website", url = "http
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
+  placement = 3
   # Caption (optional)
   caption = ""
 
