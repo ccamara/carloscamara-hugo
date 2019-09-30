@@ -5,7 +5,7 @@ draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["accessibility", "zaccesible", "difusión"]
+tags = ["accessibility", "zaccesible", "divulgation"]
 categories = ["General", "Me and myself"]
 people = ["Miguel Sevilla-Callejo"]
 projects = ["zaccesible"]
@@ -17,7 +17,8 @@ projects = ["zaccesible"]
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
 [image]
-caption = "Un momento de la charla: tenemos un problema cuando ningún mapa tiene en cuenta a las personas con diversidad funcional"
+placement = 2
+caption = "Houston, we've got a problem! ...when there are no maps paying attention to people with functional diversity."
 preview = true
 
 
