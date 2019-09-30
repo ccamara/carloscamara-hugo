@@ -20,12 +20,33 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Associate"
+  company = "Universitat Oberta de Catalunya"
+  company_url = "http://uoc.edu"
+  location = "Barcelona"
+  date_start = "2018-04-01"
+  date_end = ""
+  description = """Research assistant at [Urban Transformations and Global Change (TURBA)](http://turbain3.wordpress.com/) research group."""
+
+[[experience]]
+  title = "Associate Lecturer"
+  company = "Universitat Oberta de Catalunya"
+  company_url = "http://uoc.edu"
+  location = "Barcelona"
+  date_start = "2019-04-01"
+  date_end = ""
+  description = """Associate lecturer at [Msc. In Cities and Urbanism](https://estudios.uoc.edu/es/masters-universitarios/ciudad-urbanismo/presentacion):
+
+  * Master Thesis Supervisor
+  * Global Urbanism"""
+
+[[experience]]
   title = "Lecturer and Researcher"
   company = "Universidad San Jorge"
   company_url = "http://usj.es"
   location = "Zaragoza"
   date_start = "2009-09-01"
-  date_end = ""
+  date_end = "2019-08-31"
   description = """
   Lecturer in:
 
@@ -44,7 +65,7 @@ date_format = "January 2006"
   company_url = "http://ciclica.eu"
   location = "Sant Cugat del Vallès"
   date_start = "2018-06-01"
-  date_end = "2019-02-01"
+  date_end = "2019-01-11"
   description = """GIS Technician designing tasks' automation by `QGIS Processing models` for a project aimed to assess Building's Energy consumption at city scale."""
 
 [[experience]]
