@@ -17,6 +17,7 @@ projects = ["zaccesible"]
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
 [image]
+placement = 2
 caption = "Un momento de la charla: tenemos un problema cuando ningún mapa tiene en cuenta a las personas con diversidad funcional"
 preview = true
 

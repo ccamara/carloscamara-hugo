@@ -17,6 +17,7 @@ projects = ["urban-commons"]
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
 [image]
+placement = 3
 # Caption (optional)
 caption = "Tratando de relajarme un poco mientras el presidente da inicio a la defensa. Foto: Ramon Ribera"
 

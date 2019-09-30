@@ -17,6 +17,7 @@ projects = ["zaccesible"]
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
 [image]
+placement = 2
 caption = "Un fotograma del programa: Entrevista con Carlos Pobes en las Armas."
 preview = true
 
