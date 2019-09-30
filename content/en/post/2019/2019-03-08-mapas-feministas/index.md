@@ -17,6 +17,7 @@ projects = [""]
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
 [image]
+placement = 3
 # Caption (optional)
 caption = "Streets devoted to men and women in Barcelona. Source: Las calles de las mujeres, a Geochicas' project."
 
