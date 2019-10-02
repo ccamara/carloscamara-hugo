@@ -16,7 +16,8 @@ people = ["Laura Acosta"]
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "post/languagetool_-_corrector_gramatical_y_de_estilo_2015-02-01_23-45-50.png"
+[image]
+placement = 3
 caption = "Captura de pantalla de la web de LanguageTool"
 preview = true
 

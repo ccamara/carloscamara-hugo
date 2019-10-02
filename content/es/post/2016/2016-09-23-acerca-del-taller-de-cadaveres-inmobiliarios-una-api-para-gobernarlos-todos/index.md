@@ -13,6 +13,7 @@ people = ["Pablo Rey", "Alfonso Sánchez", "Montera34"]
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 [image]
+placement = 3
 caption = "Presentación de Cadáveres Inmobiliarios en Medialab Prado, junto a Pablo Rey"
 
 # Focal point (optional)
