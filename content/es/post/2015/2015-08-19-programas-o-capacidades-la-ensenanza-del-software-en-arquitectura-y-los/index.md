@@ -15,9 +15,9 @@ projects = ["blogarquia"]
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "post/sketchpad.jpg"
+[image]
+placement = 3
 caption = "Sketchpad, el primer programa de cad. Diseñado por Ivan Sutherland en 1963"
-preview = true
 
 +++
 <strong>¿Qué software enseñar si es cuestión de tiempo que el software más puntero de hoy se vea tan obsoleto como sketchpad, el primer programa de CAD? Mi respuesta, a continuación.</strong></em>

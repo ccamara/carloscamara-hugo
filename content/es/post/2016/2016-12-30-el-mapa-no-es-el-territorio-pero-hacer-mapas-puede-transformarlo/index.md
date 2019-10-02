@@ -16,6 +16,7 @@ projects = ["blogarquia"]
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
 [image]
+placement = 3
 caption = "Oveja con una cámara y GPS mapeando las Islas Feroe."
 
 +++

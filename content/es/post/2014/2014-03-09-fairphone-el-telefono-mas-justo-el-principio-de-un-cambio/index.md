@@ -15,10 +15,9 @@ categories = ["Tecnología", "Sostenibilidad"]
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "post/fairphone-flickr.jpg"
-caption = ""
-preview = true
-
+[image]
+placement = 3
+caption = "El Fairphone. Fuente: Fairhone"
 +++
 Hace algo más de un mes que llegó a casa mi <a href="https://fairphone.com" class="ext" target="_blank">Fairphone</a>, tras un largo viaje que empezó en junio de 2013 y pasó por países como Congo, China, Alemania y Holanda y me gustaría hablar de lo que considero los aspectos claves del proyecto y ofrecer una pequeña valoración al final<a class="see-footnote" id="footnoteref1_3tbhoyt" title="Como me ha salido un artículo un tanto largo, me reservo para un post futuro explicar mi experiencia personal. EDITO: aquí está mi experiencia como usuario de Fairphone." href="#footnote1_3tbhoyt">1</a>.</p><p>Para quienes no sepan qué es un fairphone, diré que se trata de un smartphone un tanto especial. Como máquina no es muy distinto a otro smartphone de gama media-alta (tiene un procesador de cuatro núcleos y 1.4GHz, 1GB de RAM, 16GB de almacenamiento y una versión personalizada y abierta de Android 4.2.2 -conocida como <a href="https://github.com/Kwamecorp/Fairphone" class="ext" target="_blank">FairphoneOS</a>), aunque tiene unas características muy interesantes como son la batería reemplazable de 2100mA, la posibilidad de ampliar su capacidad hasta 64GB adicionales&nbsp; a través de una tarjeta miniSD externa, la posibilidad de abrirlo con destornilladores corrientes para repararlo o el hecho que viene rooteado de serie. Sin embargo no es eso lo que lo hace de él algo desgraciadamente único.&nbsp; Ni tan siquiera el hecho de que surgiese a partir de una campaña de crowfunding y que solo existan 25.000 unidades en todo el mundo.</p><p>Lo que lo realmente lo hace especial y verdaderamente interesante es que <strong>se trata del primer teléfono (más) "justo"</strong>. ¿En qué se basan para decir que se trata de un teléfono justo?&nbsp; <strong>Bas van Abel</strong>, el fundador de la empresa homónima que hay detrás del Fairphone lo cuenta muy bien en este vídeo que resumo a continuación:</p>
 

@@ -15,10 +15,10 @@ people = ["Carlos Cámara"]
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "post/foto-grupo-garcia mercadal.jpg"
+[image]
+placement = 3
+# image = "post/foto-grupo-garcia mercadal.jpg"
 caption = "Fotografía de los premiados en las distintas categorías del García Mercadal 2017"
-preview = true
-
 +++
 Hace unas horas, el Colegio de Arquitectos de Aragón ha fallado la XXXII Edición del Premio de Arquitectura "Fernando García Mercadal". El premio de este año ha recaído en la Reforma de edificio para vivienda unifamiliar con garaje y patio interior del arquitecto Cruz Díez García, si bien se ha concedido un accésit para cada una de las categorías del mismo.
 
@@ -26,7 +26,7 @@ Me complace informar que, en la categoría de **“Supresión de barreras arquit
 
 > ACCÉSIT al trabajo “Zaragoza Accesible: un mapa de barreras para una ciudad sin ellas”, realizado por los Arquitectos Carlos Cámara Menoyo y Ana Ruiz Varona, por el enfoque universal con el que se aborda la discapacidad en el entorno urbano real donde se desenvuelve, y la enorme proyección de futuro del estudio.
 
-{{< figure src="/img/post/garcia-mercadal.jpg" caption="Recogiendo el premio con el rector de la USJ: Carlos Pérez, entregado por Marta Valencia Betrán de la Fundación DFA." attr="" attrlink="" >}}
+{{< figure src="garcia-mercadal.jpg" caption="Recogiendo el premio con el rector de la USJ: Carlos Pérez, entregado por Marta Valencia Betrán de la Fundación DFA." attr="" attrlink="" >}}
 
 Aprovecho para agradecer a los miembros del jurado haber considerado al proyecto merecedor del premio, al Colegio de Arquitectos por el premio y a Marta Valencia Betrán , presidenta de la Fundación DFA. Aprovecho también para decir lo que no pude decir en la ceremonia dado que no hubo oportunidad de que los galardonados dijésemos unas palabras: aunque el premio se entregue nominalmente a los arquitectos del equipo, Zaragoza Accesible es un proyecto colaborativo que recoge los esfuerzos de muchas personas y colectivos que han participado o siguen participando en él (más información [en la web del proyecto](http://zaccesible.usj.es)).
 

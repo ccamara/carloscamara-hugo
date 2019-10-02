@@ -16,6 +16,7 @@ projects = ["blogarquia"]
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
 [image]
+placement = 2
 caption = "Pokémon Go. Fuente: [Comworldseries](http://comworldseries.blogspot.com.es/2016/07/pokemon-go-sows-augmented-reality-seeds.html)"
 
 # Focal point (optional)
