@@ -27,7 +27,7 @@ selected = false
 #   Simply enter the filename of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning.md"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["zaccesible"]
+projects = ["mapcolabora"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -59,9 +59,9 @@ highlight = true
 +++
 
 
-Next October 19 I will be representing [Collaborative Mapping](https://mapcolabora.org), along with 4 other experiences, in the **II Jornadas de Cartografías Colaborativas**, organized by [Raons Públiques](https://raons.coop/), where each one of us will explain what we do to drive urban transformation processes through collaborative cartographies. In the session I will explain what Collaborative Mapping is, what projects we do and put emphasis on the _Accessible Zaragoza_ project.
+Next October 19th I will be representing [Collaborative Mapping](https://mapcolabora.org), along with 4 other experiences, in the **II Jornadas de Cartografías Colaborativas**, organized by [Raons Públiques](https://raons.coop/), where each one of us will explain what we do to drive urban transformation processes through collaborative cartographies. In the session I will explain what Collaborative Mapping is, what projects we do and put emphasis on the _Accessible Zaragoza_ project.
 
-From the [Raons Públiques] Blog (https://raons.coop/) (automated translation):
+From the [Raons Públiques](https://raons.coop/)' blog (automated translation):
 
 >Next October 19 in the Albareda Cultural Center of Poble Sec, we will organize the II Conference of Collaborative Cartographies. In this second day we want to create a meeting space between different specialists, collectives and neighbors of the city to reflect on collaborative cartographies used in processes of urban transformation. In this case, unlike last year where there were experiences more focused on digital tools, we have invited examples with face-to-face methodologies that try to generate change or in communities.
 >
