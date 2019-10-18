@@ -35,7 +35,7 @@ tags = ["OpenStreetMap"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://slides.carloscamara.es/2019-10-19-cartografies-collaboratives/"
 url_video = ""
 url_code = ""
 
