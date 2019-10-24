@@ -36,7 +36,7 @@ tags = ["OpenStreetMap"]
 # Links (optional).
 url_pdf = ""
 url_slides = "https://slides.carloscamara.es/2019-10-19-cartografies-collaboratives/"
-url_video = ""
+url_video = "https://youtu.be/jg1hXJMdJRo?t=7535"
 url_code = ""
 
 # Does the content use math formatting?
@@ -58,7 +58,9 @@ highlight = true
 
 +++
 
-El próximo 19 de octubre estaré en representación de [Mapeado Colaborativo](https://mapcolabora.org), junto a otras 4 experiencias más,  en las **II Jornadas de Cartografías Colaborativas**, organizada por [Raons Públiques](https://raons.coop/), explicando qué hacemos cada uno de nosotros para impulsar procesos de transformación urbana a través de cartografías colaborativas. En la sesión explicaré qué es Mapeado Colaborativo, qué proyectos hacemos y pondré énfasis en el proyecto de Zaragoza Accesible.
+El pasado 19 de octubre estuve en representación de [Mapeado Colaborativo](https://mapcolabora.org), junto a otras 4 experiencias más,  en las **II Jornadas de Cartografías Colaborativas**, organizada por [Raons Públiques](https://raons.coop/), explicando qué hacemos cada uno de nosotros para impulsar procesos de transformación urbana a través de cartografías colaborativas. En la sesión explicaré qué es Mapeado Colaborativo y qué acciones y proyectos hacemos (poniéndo énfasis en el proyecto de Zaragoza Accesible).
+
+{{< gallery >}}
 
 Del Blog de [Raons Públiques](https://raons.coop/):
 

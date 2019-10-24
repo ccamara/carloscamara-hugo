@@ -35,8 +35,8 @@ tags = ["OpenStreetMap"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = "https://slides.carloscamara.es/2019-10-19-cartografies-collaboratives/"
-url_video = ""
+url_slides = "https://slides.carloscamara.es/2019-10-19-collaborative-cartographies/"
+url_video = "https://youtu.be/jg1hXJMdJRo?t=7535"
 url_code = ""
 
 # Does the content use math formatting?
@@ -59,7 +59,9 @@ highlight = true
 +++
 
 
-Next October 19th I will be representing [Collaborative Mapping](https://mapcolabora.org), along with 4 other experiences, in the **II Jornadas de Cartografías Colaborativas**, organized by [Raons Públiques](https://raons.coop/), where each one of us will explain what we do to drive urban transformation processes through collaborative cartographies. In the session I will explain what Collaborative Mapping is, what projects we do and put emphasis on the _Accessible Zaragoza_ project.
+Last October 19th, I was representing [Collaborative Mapping](https://mapcolabora.org), along with 4 other experiences, in the **II Jornadas de Cartografías Colaborativas**, organized by [Raons Públiques](https://raons.coop/), where each one of us explained what we do to drive urban transformation processes through collaborative cartographies. In the session I explained what Collaborative Mapping is and what projects we do (with special emphasis on the _Accessible Zaragoza_ project).
+
+{{< gallery >}}
 
 From the [Raons Públiques](https://raons.coop/)' blog (automated translation):
 
