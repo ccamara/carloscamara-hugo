@@ -18,7 +18,7 @@ Como en muchos juegos del género, la construcción y localización de “edific
 _¿Os suena de algo este comportamiento?_
 
 
-{{< figure src="chiloeches-700x495.jpg" title="Chiloeches y su urbanización fantasma. Fuente: Bing (2019)" >}}
+{{< figure src="img/bing-chiloeches-700x495.jpg" title="Chiloeches y su urbanización fantasma. Fuente: Bing (2019)" >}}
 
 Efectivamente, en nuestro mundo, nosotros no funcionamos de forma tan distinta. Tras el afán de la búsqueda de lucro inmobiliario de la burbuja fue desgraciadamente habitual ver paisajes desolados como el de la foto formados por extensiones de calles con sus aceras, alumbrado, alcantarillado… y nada más. Urbanización, lo llamamos, y es una de las primeras fases para poder edificar, ya que dota de infraestructuras básicas a la futura construcción.
 
