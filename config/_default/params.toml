@@ -115,6 +115,8 @@ contact_links = [
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@ccamara"},
+  {icon = "rss", icon_pack = "fas", name = "RSS Feed", link = "http://www.carloscamara.es/index.xml"},
+  # {icon = "rss", icon_pack = "fas", name = "RSS", link = "http://feeds.feedburner.com/CarlosCamara-Blog"},
   ]
 
 ############################
