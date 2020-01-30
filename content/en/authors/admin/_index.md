@@ -28,7 +28,9 @@ interests = [
   "Tecnology",
   "Society",
   "Commons",
-  "Maps"
+  "Maps",
+  "Data Science",
+  "Data Viz"
 ]
 
 # Organizational groups that you belong to (for People widget)
