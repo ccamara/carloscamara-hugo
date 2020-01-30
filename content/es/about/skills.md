@@ -24,7 +24,7 @@ weight = 7
 [[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
-  name = "Comunicatión y enseñanza"
+  name = "Comunicación y enseñanza"
   description = "90%"
 
 [[feature]]
@@ -48,7 +48,7 @@ weight = 7
 [[feature]]
   icon = "map-marked-alt"
   icon_pack = "fas"
-  name = "Maps and GIS"
+  name = "Mapas y GIS"
   description = "80%"
 
 [[feature]]
@@ -60,7 +60,7 @@ weight = 7
 [[feature]]
   icon = "markdown"
   icon_pack = "fab"
-  name = "Markdown and reporting"
+  name = "Markdown e informes"
   description = "90%"
 
 [[feature]]
