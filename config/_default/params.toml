@@ -167,7 +167,7 @@ sharing = true
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 plugins_css = ["style"]
-plugins_js  = []
+plugins_js  = ["custom"]
 
 # Configuration of publication pages.
 [publications]
