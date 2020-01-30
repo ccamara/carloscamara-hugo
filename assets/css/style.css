@@ -5,3 +5,21 @@
 .footnotes ol li {
   margin-bottom: 10px;
 }
+
+#more {display: none;}
+
+
+#readmore {
+   background: transparent;
+   border: 1px solid #ff8000;
+   border-radius: 6px;
+   color: #ff8000;
+   width: 100%;
+}
+
+#readmore:hover {
+  background: #ff8000;
+  border: 1px solid white;
+  border-radius: 6px;
+  color: white;
+}
