@@ -10,7 +10,7 @@ summary = "Action-research group of enthusiasts aimed to foster citizen innovati
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["maps", "divulgation"]
+tags = ["maps", "divulgation", "OpenStreetMap", "crowdsorcing"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

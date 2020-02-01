@@ -10,7 +10,7 @@ summary = "Espacio para la creación de mapas colaborativos al servicio de la ci
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["mapas", "divulgación"]
+tags = ["mapas", "divulgación", "OpenStreetMap"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

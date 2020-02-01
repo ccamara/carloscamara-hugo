@@ -4,8 +4,9 @@ date: 2019-09-05
 math: true
 diagram: true
 markup: mmark
+categories: ["Architecture"]
 image:
-  placement: 2
+  placement: 3
   caption: ''
 ---
 
