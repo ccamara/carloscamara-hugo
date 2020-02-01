@@ -1,5 +1,5 @@
 +++
-title = "Sobre aceras, pasos, bordillos, sillas y bastones #zaccesibilidad: mapeando el acceso de las personas con discapacidad en Zaragoza"
+title = "On sidewalks, crossings, kerbs, wheelchairs and cranes. #Zaccesibilidad: mapping for disabled people in Zaragoza"
 publishDate = 2019-06-13T16:00:06+02:00  # Schedule page publish date.
 draft = false
 
@@ -57,3 +57,5 @@ highlight = true
   focal_point = "Smart"
 
 +++
+
+Within the Pint of Science 2019 event in Zaragoza, Miguel Sevilla-Callejo and myself explained what we are doing in Accessible Zaragoza, and action-research project by Universidad San Jorge and Collaborative Mapping, on urban mobility and disabilities. 

@@ -10,7 +10,7 @@ summary = "Collaborative mapping project regarding urban mobility and disabiliti
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["accessibility", "active", "maps", "OpenStreetMap", "research"]
+tags = ["accessibility", "urban mobility", "active", "maps", "OpenStreetMap", "research"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
