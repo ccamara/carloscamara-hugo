@@ -1,5 +1,5 @@
 +++
-title = "La arquitectura de la Seducción: Un análisis de las arquitecturas digitales en la sociedad de consumo"
+title = "The Architecture of Seduction: An Analysis on Digital Architectures within Consumer Society"
 date = 2015-09-09T16:57:50+01:00
 draft = false
 
@@ -22,7 +22,8 @@ publication = "Arte, Individuo y Sociedad"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Actualmente, las nuevas tecnologías digitales empleadas en arquitectura se están utilizando de forma predominante al servicio de una concepción de la misma como un bien cultural más de la sociedad de consumo. Dentro de este marco cultural neoliberal, la función social de los arquitectos está dejando de ser entendida como la producción de hechos urbanos construidos con vocación de servicio, para pasar a considerarse un eslabón más de la lógica simbólica que rige la producción social de los valores culturales tal como fue definida por Veblen y desarrollada por Baudrillard. Así, el potencial aportado por las nuevas tecnologías digitales de representación, antes que como instrumento dedicado a la pre-verificación del edificio construido, está siendo dirigido hacia dos modelos principales. Por una parte, el desarrollo de arquitecturas puramente virtuales que se configuran de forma exclusiva desde su valor simbólico como “imagen” artística fácilmente reproducible. Por otra, todos aquellos proyectos que, manteniendo todavía la atención a la arquitectura como hecho construido, fundamentan el valor simbólico de las mismas en la imagen de autor y una estética virtual impuesta sobre la materialidad de la arquitectura. La función de servicio social del arquitecto ha entrado definitivamente en un punto de inflexión."
+abstract = "Currently new digital tools used in architecture are often at the service of a conception of architecture asconsumer  society’s cultural good. Within this neoliberal cultural frame, architects’ social function is no longer seen as the production of urban facts with sense of duty, but as a part within the symbolic logic that rules the social production of cultural values as it was defined by Veblen and developed by Baudrillard. As a result, the potential given by the new digital tools used in representation has shifted from an instrument used to verify a built project to two different main models: At the one hand the development of pure virtual architectures
+that are exclusively configured within their symbolic value as artistic “images” easily reproducible. On the other hand the development of all those projects which -even maintaining their attention to architecture as a built fact- base their symbolic value on the author’s image and on virtual aesthetics and logics that prevail over architecture’s materiality. Architects’ sense of duty has definitely reached a turning point."
 summary = ""
 
 # Featured image thumbnail (optional)
@@ -39,7 +40,7 @@ projects = ["MRSZ"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["arquitectura"]
+tags = [ "architecture" ,"digital architecture", "Baudrillard", "virtual aesthetics", "architect’s sense of duty", "cultural speculation"]
 
 # Links (optional).
 url_pdf = "http://revistas.ucm.es/index.php/ARIS/article/view/46485"
