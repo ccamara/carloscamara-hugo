@@ -41,7 +41,7 @@ projects = ["urban-commons"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["urban commons", "comunes urbanos", "ciudad", "comunes", "sociedad"]
+tags = ["urban commons", "city", "comons", "society"]
 
 # Links (optional).
 url_pdf = "http://hdl.handle.net/10803/565533"
@@ -73,4 +73,4 @@ caption = ""
 +++
 
 Full text can be found in the following repositories: [Tesis Doctorals en Xarxa](http://hdl.handle.net/10803/565533), [O2 de la Universitat Oberta de Catalunya](http://hdl.handle.net/10609/78706), [Zenodo](https://zenodo.org/record/1251627).
-An on-line and live version can be found in https://phd.carloscamara.es
+An on-line and live version can be found in https://phd.carloscamara.es/en
