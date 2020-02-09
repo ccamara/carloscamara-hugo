@@ -29,7 +29,7 @@ focal_point = "Smart"
 +++
 
 
-During the last 10 years [I have given a number of talks](/talks) in various contexts due to my job as a lecturer: either lectures for my students, conferences, workshops or even much more informal events, usually speaking about cities, commons, [maps]() or accessibility. I enjoy it because I love sharing knowledge with others but also because it is when I am preparing presentations (by summarising and highlighting the main topics or thinking of the storytelling) where I reflect and learn the most. It is for that reason that I am always looking for the right software that allows me to create appealing slides in a relatively fast way. In this post, I will be sharing some of the decisions I have made and the results I got regarding that matter.
+During the last 10 years [I have given a number of talks](/talks) in various contexts due to my job as a lecturer: either lectures for my students, conferences, workshops or even much more informal events, usually speaking about cities, commons, [maps](/tags/maps/) or accessibility. I enjoy it because I love sharing knowledge with others but also because it is when I am preparing presentations (by summarising and highlighting the main topics or thinking of the storytelling) where I reflect and learn the most. It is for that reason that I am always looking for the right software that allows me to create appealing slides in a relatively fast way. In this post, I will be sharing some of the decisions I have made and the results I got regarding that matter.
 
 In order to prepare my presentations I have used and tested several presentation softwares and services, such as the classic **Powerpoint**, **LibreOffice Impress** ([View example](https://speakerdeck.com/ccamara/comunes-urbanos-lecciones-desde-la-barcelona-de-principios-del-siglo-xxi)), **Google Slides** or, **Prezi** ([Example](https://prezi.com/m9hb9o591b-j/introduction-to-digital-fabrication/), [Example](https://prezi.com/-t-vbxr_jzz5/mapas-y-drupal-o-como-no-perderse-en-el-intento/)). All of them are really good pieces of software and you can create great presentations with them. However, as time goes by, I have become more concerned with techno-politics and data autonomy on the one hand, and with efficiency on the other. As a result, I have come to outline the following list of requirements that my software of choice should have:
 
@@ -91,7 +91,7 @@ Another inconvenient for me is that it is not easy to work with media other than
 
 ## Impress.js
 
-<embed src="http://regebro.github.io/hovercraft/" width="100%" height="400px">
+<embed src="http://regebro.github.io/hovercraft/#/step-1" width="100%" height="400px">
 <figcaption>Clic on the text and use arrows to browse the presentation</figcaption>
 
 I have to admit that I love Prezi because, unlike all the others, instead of working with independent slides that are displayed linearly, you can work with an infinite canvas that works at different scales at the same time. This allows plenty of completely different possibilities:  you can literally go from the big picture to the smallest of the details. Or even the other way round: you can start with details that slowly conform a broader reality. Or, if you want, you can also use traditional slides.  Everything seemed perfect, except that it is not opensource and all your data is locked in a closed platform and does not comply with any of my requirements.
