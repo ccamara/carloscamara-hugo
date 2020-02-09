@@ -147,7 +147,7 @@ I know what you may be thinking now: *"But hey! you've talked about `.html`, `.c
 
 **Cons:**
 
-* :x: Not for everyone (may not be ideal if you are to collaborate with other people not familiar with markdown, html, css, git...) (but hey! there is also an [online editor](https://slides.com/) as a fremium service)
+* :x: Not for everyone (may not be ideal if you are to collaborate with other people not familiar with markdown, html, css, git...) (but hey! there is also an [online editor](https://slides.com/) as a freemium service)
 * :x: Requires some time to set up
 * :x: May not look the same in every device
 * :x: PDF export requires Chrome/Chromium, and still doesn't look as nice as the original
