@@ -6,7 +6,7 @@ subtitle: ""
 summary: "In this post I will share my experience as attendee to Reconfigure Workshop. Reconfigure is a group of feminist cybersecurity advocates & researchers seeking to engage with groups excluded from tech and improve industry and academia"
 authors: ["admin"]
 tags: ["feminism", "technopolitics", "opensource"]
-categories: ["Technopolitics"]
+categories: ["Technopolitics", "Digital Humanities"]
 date: 2020-02-01T17:46:34Z
 lastmod: 2020-02-01T17:46:34Z
 featured: false

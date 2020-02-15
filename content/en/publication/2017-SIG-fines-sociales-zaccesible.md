@@ -1,5 +1,5 @@
 +++
-title = "Integrando SIG con fines sociales en el currículum educativo: el caso de Zaragoza Accesible"
+title = "Integrating GIS with social purposes within educational curricula: “Zaragoza Accesible” study case"
 date = 2017-11-02T17:26:51+01:00
 draft = false
 
@@ -22,14 +22,14 @@ publication = "Jornadas sobre Innovación Docente en Arquitectura"
 publication_short = "JIDA"
 
 # Abstract and optional shortened version.
-abstract = "La utilización de Sistemas de Información Geográfica ofrece grandes posibilidades a todos aquellos profesionales cuya actividad esté relacionada con la ciudad y el territorio, como son los arquitectos dedicados a la práctica urbanística. Conscientes de esta nueva realidad, en la Escuela de Arquitectura y Tecnología de la Universidad San Jorge (de ahora en adelante EARTE y USJ, respectivamente) hemos iniciado una serie de acciones para la introducción paulatina de dichas herramientas tecnológicas. Una de dichas acciones es la realización de la Práctica denominada **\"Mapear para construir una Zaragoza Accesible\"** y que es objeto de la presente comunicación. En las siguientes páginas desarrollamos sus objetivos, metodología y particularidades. Los resultados dan claves de cómo se ha vehiculado tanto la integración de herramientas TIC como la problemática de la accesibilidad de las personas con diversidad funcional dentro de la asignatura de Urbanismo VI, de cuarto curso del Grado de Arquitectura."
+abstract = "Geographic Information Systems provide a series of great opportunities to those professionals whose activity is related to the city and the territory, like urbanists and the like. Fully aware of this new reality, the Escuela de Arquitectura y Tecnología at Universidad San Jorge (from now on, EARTE and USJ, respectively) has started a series of actions aimed to the gradual introduction of such tools. One of those actions is the activity called “Mapping for an accessible Zaragoza”, which will be developed throughout this paper. The following pages will present its objectives, methodology and development in order to integrate ICT, GIS and accessibility for impaired people within the context of the 4th year's course Urban Studies 6"
 summary = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -39,7 +39,7 @@ projects = ["zaccesible"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["SIG", "GIS", "Docencia", "Zaragoza Accesible", "OpenStreetMap", "Innovación docente"]
+tags = ["GIS", "service-learning", "teaching", "architecture", "openstreetmap", "disabilities"]
 
 # Links (optional).
 url_pdf = "http://upcommons.upc.edu/handle/2117/109582"
