@@ -1,5 +1,5 @@
 +++
-title = "Las iniciativas de participación ciudadana en el urbanismo"
+title = "Citizen Participative Initiatives Within Urbanism. Participative Urbanism, A New Way Of Understanding City And Citizenship In The Configuration Of Public Spaces."
 date = 2012-03-15T17:31:47+01:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "URBS. Revista de Estudios Urbanos y Ciencias Sociales"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "A pesar de que el urbanismo es algo que concierne a todo el mundo, tradicionalmente ha sido algo gestionado únicamente por técnicos y políticos y, por tanto, en la toma de decisiones relativas a la morfología y usos de las ciudades no han sido tenidos en cuenta los intereses y deseos de la ciudadanía. Sin embargo, esto puede estar a punto de cambiar debido al incremento de popularidad del llamado urbanismo participativo, que parece haber encontrado en esta segunda mitad del siglo XXI y en el contexto de la Sociedad Red, una oportunidad de desarrollo sin precedentes que, a pesar de encontrarse en un estado incipiente, plantea nuevas formas de entender la ciudad, el urbanismo, la política y la colaboración a la vez que supone un reto para administraciones públicas y promotores de las mismas."
+abstract = " Although urbanism is something that concerns everybody, it has traditionally been something managed only by technicians and politicians and thus, citizens' needs and desires have not been taken into consideration in the decision-taking processes regarding cities' morphology. However, this may be about to change due to the increasing popularity about the so-called “Peer to peer urbanism”, which seems to have flourished in this second decade of the 21st century, and within the context of Network Society, has found an opportunity of development without precedents. Even though it may be in a very incipient stage, participative urbanism arises new ways of understanding cities, urbanism, governance and participation yet at the same time turns to be a challenge for public administrations and initiative's promoters and developers."
 summary = ""
 
 # Featured image thumbnail (optional)
@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["urbanismo participativo", "urbanismo", "ciudad"]
+tags = [ "Urbanism", "participatory urbanism", "cities", "urban governance"]
 
 # Links (optional).
 url_pdf = "http://www2.ual.es/urbs/index.php/urbs/article/view/camara_menoyo"

@@ -1,5 +1,5 @@
 +++
-title = "Tematización y ciudad marca. Hacia una definición de conceptos, efectos y estrategias de acción"
+title = "Thematisation And City-Branding. Towards A Definition Of Concepts, Effects And Action Strategies"
 date = 2015-11-04T17:36:21+01:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "URBS. Revista de Estudios Urbanos y Ciencias Sociales"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "El grupo de trabajo Recuperem la ciutat nace como un esfuerzo aunado de voluntades de reflexión y movilización a partir de la coincidencia de intereses y preocupaciones de un grupo de profesionales y académicos de orígenes y prácticas disciplinares diferentes, que se vinculan a raíz de un debate en twitter promovido por URBSenacción, sección de la revista URBS dedicada a promover actividades de reflexión a través de las redes sociales. Como resultado del debate, se decidió organizar una reunión presencial en la ciudad de Valencia, como una oportunidad para continuar de manera intensiva la reflexión compartida. Antes y después de la reunión, se realizaron sendos intercambios de propuestas individuales, a través de una lista de correo electrónico, con objeto de plantear un primer marco teórico común y de esbozar algunas estrategias de intervención que cerraran el ciclo de reflexión abierto con el debate original. En este documento exponemos las principales reflexiones y conclusiones desarrolladas en cada una de estas actividades, así como la voluntad de continuar con el trabajo en ocasiones próximas."
+abstract = "The working group Recuperem la ciutat was born as a joint effort of reflection and mobilization from the coincidence of interests and concerns of a group of professionals and academics from different backgrounds and disciplinary practices, which are linked as a result of a twitter debate promoted by URBSenacción, a section of the URBS magazine dedicated to promoting reflection activities through social networks. As a result of the debate, it was decided to organize a face-to-face meeting in the city of Valencia, as an opportunity to continue in an intensive way the shared reflection. Before and after the meeting, individual proposals were exchanged through an e-mail list, with the aim of proposing a first common theoretical framework and outlining some intervention strategies that would close the cycle of open reflection with the original debate. In this document we present the main reflections and conclusions developed in each of these activities, as well as the will to continue the work on future occasions."
 summary = ""
 
 # Featured image thumbnail (optional)

@@ -1,5 +1,5 @@
 +++
-title = "MRSZ 2018: Mapa de Riesgo Social de Zaragoza. De técnica de gestión de poblaciones a praxis de consolidación de los comunes"
+title = "MRSZ 2018: Social Risk Map For Zaragoza. From Population Management Technique To Commons Consolidation Practices"
 date = 2016-11-04T22:08:41+01:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "Open Sourcing: Investigación y formación avanzada en arquitectu
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Desde finales de 2013 el grupo de investigación Arquitecturas Open Source de la ETSA-USJ ha iniciado una colaboración con el Colegio Profesional de Trabajadores Sociales de Aragón para la realización conjunta de un mapa de riesgo social de Zaragoza. Dicho proyecto, financiado desde el Ministerio de Economía y Competitividad, pretende desarrollar el concepto de mapa de riesgo anunciado en la Ley de de 2009 de Ordenación del Territorio de Aragón mediante el diseño de una metodología mixta que ofrezca un procedimiento alternativo para la evaluación de las zonas y barrios de Zaragoza más sensibles a la pérdida de relaciones sociocomunitarias de vecindad y de interrelación con el resto de la ciudad. El objetivo es lograr una metodología que incorpore el ámbito de lo social como plataforma desde la que poder evaluar los riesgos inducidos en el territorio urbanizado y que esta pueda ser replicable en otras ciudades a propósito del estudio."
+abstract = "Since the end of 2013, the Open Source Architectures research group at Universidad San Jorge's School of Architecture and Technology has been collaborating with the Professional Association of Social Workers of Aragon on the development of a Social Risk Map. This project, funded by the Ministry of Economy and Competitiveness, aims to develop the Social Risk Map concept announced in the Aragon Regional Planning Act (2009). A mixed methodology has been designed to provide an alternative method for assessing areas and neighbourhoods in Zaragoza which are most sensitive to the loss of socio-community relations and their interrelation with the rest of the city. The goal is, firstly, to obtain a methodology that incorporates the social sphere as a platform from which to assess risks arising in the urbanized territory and, secondly, to be able to apply this methodology to other cities."
 summary = ""
 
 # Is this a selected publication? (true/false)

@@ -1,5 +1,5 @@
 +++
-title = "Valoración de las percepciones subjetivas de los barrios como complemento al cálculo cuantitativo de riesgo de exclusión social: el caso del MRSZ en Zaragoza"
+title = "Assessing Subjective Perspectives On Neighbourhoods As A Complementary Method For Qualitative Calculus Of Social Risk: The Case Of MRSZ In Zaragoza"
 date = 2017-04-24T17:21:49+01:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "Clivatge. Estudis i testimonis sobre el conflicte i el canvi soci
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Ante la evaluación del riesgo social, habitualmente basada en la cuantificación de datos objetivos estadísticos demográficos, económicos o morfológicos, desde el proyecto «Mapa de Riesgo Social de Zaragoza» (MRSZ) estamos ensayando métodos complementarios centrados en el peso que tienen las distintas formas de vivir que se producen en los barrios de Zaragoza. Parte de dicho estudio se basa en el cálculo de lo que hemos llamado «Índice del Potencial Subjetivo de Autorregeneración Urbana (IPSAU)», obtenido a partir de la realización de un cuestionario sobre las percepciones subjetivas que tienen los vecinos con respecto a sus barrios. El presente artículo tiene como objetivo explicar cómo y porqué se ha obtenido dicho índice y, muy especialmente, presentar los resultados que arroja, comparándolos con los resultados de otros estudios similares que se han realizado previamente en Zaragoza basados en datos cuantitativos."
+abstract = " The assessment of social risk has traditionally been based on the quantification of objective data on demography, economy or morphology. At the project “Social Risk Map of Zaragoza” (MRSZ in Spanish) we are developing complementary methods that are focused on the importance of the various ways of living that take place in Zaragoza’s neighbourhoods. Part of that study is based on what we have named “Subjective Potential for Urban Auto-regeneration Index” (IPSAU in Spanish), obtained from the answers of a survey on subjective perceptions that citizens have about their neighbourhoods. This article’s goals are, hence, to explain how and why this index was obtained and, most importantly, to present its results, which will be compared to the ones provided by other similar studies that were previously developed in Zaragoza based on quantitative data."
 summary = ""
 
 # Featured image thumbnail (optional)
@@ -39,7 +39,7 @@ projects = ["MRSZ"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["vulnerabilidad", "exclusión social"]
+tags = ["Subjective Vulnerability", "Citizen Survey", "Social Autonomy", "Public Space", "Appropriation", "Basic Services’ Satisfaction"]
 
 # Links (optional).
 url_pdf = "http://revistes.ub.edu/index.php/clivatge/article/view/18610"
@@ -69,5 +69,6 @@ image = ""
 caption = ""
 
 +++
+
 
 <iframe class="preview-iframe" id="preview-iframe" src="https://zenodo.org/record/1156292/preview/18610-40039-9-PB.pdf" width="100%" height="400"></iframe>
