@@ -3,7 +3,7 @@ title: El cuento de los tres cerditos es un cuento
 date: 2019-09-05
 math: true
 diagram: true
-markup: mmark
+
 image:
   placement: 2
   caption: ''
