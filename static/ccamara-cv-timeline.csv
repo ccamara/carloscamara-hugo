@@ -1,0 +1,6 @@
+id,start,end,content,type,title,editable,group,subroup,className,style
+phd,2013,2018,PhD in ,,PhD in ,,education,,,
+msc,1998,2004,Architect,,Architect,,education,,,
+usj,2009,2019,Lecturer at Universidad San Jorge,background,Lecturer at Universidad San Jorge,,academic,teaching,,
+turba,2018,2020,Research Associate at TURBA,,Research Associate at TURBA,,academic,research,,
+zaccesible,2016,2019,PI at Zaragoza Accesible,range,PI at Zaragoza Accesible,,academic,research,,
