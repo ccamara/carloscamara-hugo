@@ -139,9 +139,8 @@ date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "15:04"
 
-# List delimiter (separates parts of an address)
-# Popular separators are ", " (comma), "<br>" (new line), " " (space)
-list_delimiter = ", "
+# Address format (choose from the [address_formats] list below or add you own to the list).
+address_format = "en-us"
 
 ############################
 ## Advanced
@@ -150,8 +149,8 @@ list_delimiter = ", "
 # Get user avatars from Gravatar.com? (true/false)
 gravatar = false
 
-# Align the main menu to the right of the page? (true/false)
-menu_align_right = true
+# Main menu alignment (l = left, c = center, r = right) and logo options.
+main_menu = {align = "l", show_logo = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -164,9 +163,7 @@ docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 sharing = true
 
 # Load CSS and JS plugins
-#   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_css = ["style"]
 plugins_js  = ["custom"]
 
 # Configuration of publication pages.
@@ -188,6 +185,15 @@ plugins_js  = ["custom"]
   post_view = 2
   publication_view = 2
   talk_view = 2
+
+# Available address formats.
+[address_formats]
+  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
+  en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
+  zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
+
+# Link authors to their profile page? (true/false)
+link_authors = true
 
 ############################
 ## Comments
@@ -248,9 +254,9 @@ plugins_js  = ["custom"]
   zoom = 15
 
 
-  ############################
-  ## Marketing
-  ############################
-  [marketing]
-    google_analytics = "UA-169034-2"
-    google_tag_manager = ""
+############################
+## Marketing
+############################
+[marketing]
+  google_analytics = "UA-169034-2"
+  google_tag_manager = ""
