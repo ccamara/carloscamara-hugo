@@ -166,6 +166,16 @@ sharing = true
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 plugins_js  = ["custom"]
 
+# Avatars.
+# An avatar is an image that appears next to a user's name.
+# An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
+[avatar]
+  # Get user avatars from Gravatar.com? (true/false)
+  gravatar = false
+
+  # Choose a shape for avatar images. Options: circle, square.
+  shape = "circle"
+
 # Configuration of publication pages.
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
@@ -205,13 +215,18 @@ link_authors = true
   #   2: Commento (https://commento.io)
   engine = 1
 
-  # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+# Which page types are commentable?
+commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
 
-  # Configuration of Disqus.
-  [comments.disqus]
-    shortname = "carloscamara"  # Paste the shortname from your Disqus dashboard.
-    show_count = true  # Show comment count in page header? (true/false)
+# Configuration of Disqus.
+[comments.disqus]
+  shortname = "carloscamara"  # Paste the shortname from your Disqus dashboard.
+  show_count = true  # Show comment count in page header? (true/false)
+
+# Configuration of Commento.
+[comments.commento]
+  # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
+  url = ""
 
 ############################
 ## Search

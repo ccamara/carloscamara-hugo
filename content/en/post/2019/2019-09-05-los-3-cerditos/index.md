@@ -3,7 +3,6 @@ title: "'The Three Little Pigs' is a Fairy Tale"
 date: 2019-09-05
 math: true
 diagram: true
-markup: mmark
 categories: ["Architecture"]
 image:
   placement: 3

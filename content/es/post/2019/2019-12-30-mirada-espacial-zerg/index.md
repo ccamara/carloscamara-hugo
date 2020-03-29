@@ -3,7 +3,7 @@ title: Una mirada espacial de los Zerg… y del capital
 date: 2019-12-30
 math: true
 diagram: true
-markup: mmark
+
 image:
   placement: 2
   caption: ''
