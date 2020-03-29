@@ -1,0 +1,10 @@
+name: carloscamara-hugo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - jupyterlab
+  - r
+  - rkernel
+
