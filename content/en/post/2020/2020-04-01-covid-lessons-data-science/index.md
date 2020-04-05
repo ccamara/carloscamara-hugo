@@ -7,7 +7,7 @@ summary: "When we are bombarded with figures and data on COVID-19, a reflection 
 authors: ["admin"]
 tags: ["R", "dashboard", "COVID-19", "plotly", "flexdashboard"]
 categories: ["Data Science"]
-date: 2020-04-05T17:26:34Z
+date: 2020-04-05T16:26:34Z
 featured: false
 draft: false
 
