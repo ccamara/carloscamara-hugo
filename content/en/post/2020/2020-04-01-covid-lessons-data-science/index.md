@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Learning data science with COVID-19"
-subtitle: "Some thoughts on the importance of data and science in data science"
-summary: ""
+title: "Considerations on the importance of data and science in data science"
+subtitle: "Learning data science with COVID-19"
+summary: "When we are bombarded with figures and data on COVID-19, a reflection on how data is gathered, analised and visualized is a must if data is to be of any use at all."
 authors: ["admin"]
 tags: ["R", "dashboard", "COVID-19", "plotly", "flexdashboard"]
 categories: ["Data Science"]
-date: 2020-04-01T17:46:34Z
+date: 2020-04-05T17:26:34Z
 featured: false
 draft: false
 
@@ -38,21 +38,27 @@ gallery_item:
   image: numeroteca_covid19_casos-registrados-por-comunidad-autonoma-superpuesto-log.png
   caption: "Numeroteca\'s Evolution of cases in Spain's regions, as part of an exhaustive analysis on Spain, France and Italy. Source: https://lab.montera34.com/covid19/"
 - album: img/showcase
+  image: numeroteca-small-multiples.png
+  caption: "Numeroteca\'s Evolution of cases in Spain's regions, as part of an exhaustive analysis on Spain, France and Italy. Source: https://lab.montera34.com/covid19/"
+- album: img/showcase
   image: WHO Health Emergency Dashboard.png
   caption: "WHO map. Source: https://extranet.who.int/publicemergency"
+- album: img/showcase
+  image: Table-decoration.png
+  caption: "A table combining data with (rough) visualization. Source: [Carlos Cámara](https://ccamara.github.io/covid_spain/)"
 
 
 ---
 
-I must confess: during these days of lockdown, I have been toying with dashboards and infographics about COVID-19 outbreak, just like everyone else.  [I have made an interactive dashboard](https://ccamara.github.io/covid_spain/) with nice plots, some formatted tables and even some (basic) maps. It's shiny and nice, you can spend some time playing with it turning layers on and off, hovering, zooming... And, honestly, I have to admit that I am proud of the results I have achieved. **And yet, it is flawed. Just like everyone else's** (or almost). And yet, I will keep improving it, even though I'm afraid it will always be flawed and even though I acknowledge that it will never be a contribution to improve knowledge on the topic.
+I must confess: during these days of lockdown, I have been toying with dashboards and infographics about COVID-19 outbreak, just like everyone else.  [I have made an interactive dashboard](https://ccamara.github.io/covid_spain/) with nice plots, some formatted tables and even some (basic) maps. It's shiny and nice, you can spend some time playing with it turning layers on and off, hovering, zooming... And, honestly, I have to admit that I am proud of some of the results I have achieved. **And yet, it is flawed. Just like everyone else's** (or almost). And yet, I will keep improving it, even though I'm afraid it will always be flawed and even though I acknowledge that it will never be a contribution to improve knowledge on the topic.
 
-Why, then, am I persisting on keeping working on it if I know I cannot change its fate? Admittedly, at some point, I asked myself that very question and I even considered quitting. Not only I didn't want to lose my time (even in these days when we are locked down at home there are plenty of things we can do), but I didn't want to contribute to generating noise, misinformation and even more dramatism about an already important drama. Because that's what flawed graphics do. But in the end, I realised that working on a dashboard like that could be a great opportunity for learning by doing.
+Why, then, am I persisting on keeping working on it if I know I cannot change its fate? Admittedly, at some point, I asked myself that very question and I even considered quitting. Not only I didn't want to lose my time (even in these days when we are locked down at home there are plenty of things we can do), but I didn't want to contribute to generating noise, misinformation and even more dramatism about an already important drama. Because that's what flawed graphics do. But in the end, I realised that **working on a dashboard like that could be a great opportunity for learning by doing.**
 
-Many types of lessons can be learnt from it, like those related to technical skills, or those related to how data is gathered, visualized and analyzed.  Today, when data and figures on COVID-19 are everywhere, I want to share some reflections on the science (or lack of it) in data science.
+Many types of lessons can be learnt from it, like those related to technical skills, or those related to how data is gathered, visualized and analyzed. **Today, when data and figures on COVID-19 are everywhere, I want to share some reflections on the science (or lack of it) in data science.**
 
-## Lesson 1: Get the (right) data.
+## Consideration 1: Get the (right) data.
 
-As obvious as it sounds, there is no data visualization nor data science without data to visualize or analyze. Therefore, the first thing that anyone who wants to make a data visualization or data analysis is to get the data. Second: we cannot use any type of data. We need to use _good data_, and **by _good_ I mean reliable, usable (in terms of licences, formats and structure), up-to-date and frequently updated, and, hopefully, official data** that is representative enough to explain the phenomenon we are studying. While this is usually non-trivial, it is even more crucial if we are to explain a completely new phenomenon that it is happening as we speak and it does at a global scale like COVID-19.
+As obvious as it sounds, there is no data visualization nor data science without data to visualize or analyze. Therefore, the first thing that anyone who wants to make any type of data visualization or data analysis is to get the data. Second: we cannot use any type of data. We need to use _good data_, and **by _good_ I mean _reliable_, _usable_ (in terms of licences, formats and structure), up-to-date and frequently _updated_, and, hopefully, _official_ data that is _representative_ enough to explain the phenomenon we are studying.**  While this is usually non-trivial, it is even more crucial if we are to explain a completely new phenomenon that it is happening as we speak and it does at a global scale like COVID-19.
 
 Usually, there are only two possible options[^infer]: either gather data by ourselves or rely on others' data. Whereas gathering our own data might be the best choice for some scenarios, in the case of COVID-19, it is unlikely that we are in a position to gather the kind of data that might be useful for us (in fact, even governments are struggling to do so, as we will see). Therefore, we are left to just one option. Of course, we cannot rely on some random person or institution, we need to rely on someone we can trust, like universities (because they tend to provide rigorous data), governments (because they provide official data) or organizations (like the [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)).  But where do we get the data from?
 
@@ -63,21 +69,21 @@ While most governments provide data in open licences that allow its use and reus
 As a result, it is no wonder that most infographics and dashboards worldwide rely on the same data sources. It seems a sensible decision: not only we get data which is ready to use, but we do it from trustful sources. And yet, as I will argue, it is because of that reason that most of them are wrong. But what could possibly go wrong?
 
 
-## Lesson 2: Don't take data too seriously
+## Consideration 2: Don't take data too seriously
 
 Now that we know where to get the data from, there is something we have to be aware of: by relying on data generated by others we have not solved the (main) problem of data gathering, we have simply transferred the responsibility to somebody else, but someone still has to deal with what we have been trying to avoid. And, surprise, not every country gathers the data in the same way.
 
-Take the case of the most basic and crucial question: **how are the number of confirmed cases defined**. Since COVID-19's symptoms are very similar to those of influenza and the only way to know if someone is infected by it is by testing positive in the tests[^covid-tests]. This seems a great definition: we have an objective test which is same the for everyone and all countries seem to use the same criteria. Unfortunately, those tests require equipment which is scarce (compared to the current worldwide demand), can only be made in hospitals, and require up to two days to get the results. Therefore, there are many other scenarios that are not considered within this test, such as those shown in figure 2a. So yes, every government provides that figure, yet all of them are much lower than the real figure. How much lower? There is no way to know.
+Take the case of the most basic and crucial question: **how are the number of confirmed cases defined**. Since COVID-19's symptoms are very similar to those of influenza and the only way to know if someone is infected by it is by testing positive in the tests[^covid-tests]. This seems a great definition: we have an objective test which is same the for everyone and all countries seem to use the same criteria. Unfortunately, those tests require equipment which is scarce (compared to the current worldwide demand), can only be made in hospitals, and require up to two days to get the results. Therefore, there are many other scenarios that are not considered within this test, such as those shown in figure 2a. **So yes, every government provides that figure, yet all of them are much lower than the real figure. How much lower? There is no way to know.**
 
 {{< figure src="img/iceberg.png" title="Confirmed figures ≠ actual figures. There are many more cases than the official ones. How many more? We can't possibly know" numbered="true" lightbox="true" >}}
 
 Let's focus on another example: **the number of deaths by COVID 19**. Apparently, this should be easier. Every country keeps a record on the number of deaths per day and its cause of death, so it should be easy to filter those who died from COVID-19 amongst all the possible causes. Well, no. As we have seen, if we can't define with precision the number of people who are infected by COVID-19, we will not be able to know the number of people who have died as a result of it.
 
-But it can be even trickier if we consider that every country has different criteria on how they count the number of deaths[^pais-muertos-covid]. Take the case of UK's definition:
+But it can be even trickier if we consider that every country has different criteria on how they count the number of deaths of people who were tested positive[^pais-muertos-covid]. Take the case of UK's definition:
 
 >  The figures on deaths relate in almost all cases to patients who have died in hospital and who have tested positive for COVID-19.[...] These figures do not include deaths outside hospital, such as those in care homes, except as indicated above.[^uk-deaths]
 
-So, again: real figures are much higher than those reported, no matter which country made the measurements. All of them are wrong. Some people argue that governments do not want to provide real figures not to create even more social alarm, lose popularity with their voters or even to look better than other countries. However, often the simpler answer is the most probable one[^occam], so it is not that governments want to hide information from us, it is just that no country has the means to face this outbreak, nor to mention to take accurate metrics. And here lies another drama of COVID-19 that goes beyond the personal tragedy: no country in the world is prepared for the stress test that COVID-19 represents.
+So, again: real figures are much higher than those reported, no matter which country made the measurements. All of them are wrong. Some people argue that governments do not want to provide real figures not to create even more social alarm, lose popularity with their voters or even to look better than other countries. However, often the simpler answer is the most probable one[^occam]: it is not that governments want to hide information from us, it is just that no country has the means to face this outbreak, nor to mention to take accurate metrics. **And here lies another drama of COVID-19 that goes beyond the personal tragedy: no country in the world is prepared for the stress test that COVID-19 represents.**
 
 ![](img/conspiracy-mulder.gif)
 
@@ -85,12 +91,11 @@ So, again: real figures are much higher than those reported, no matter which cou
 
 But let's go back to our path: that of data and figures. At this point, we have to acknowledge that all the data is flawed and we cannot get a perfect picture of the real situation out of them. If we wanted to do so, we would need to use other data sources, like comparing the record of total daily deaths[^momo] with the same period last year(s). Of course, this will need more time, and, in turn, this also has other implications and problems (for example, it will not give an accurate number of deaths by COVID-19, as there is no way to know their cause of death, but the significant difference between periods could be a good proxy).
 
-{{< figure src="img/morpheus-red-pill.jpg" title="We have two options: either losing faith completely in all COVID-19 infographics or  assuming they are no more than a rough approximation to reality" numbered="true" lightbox="true" >}}
-
 So we have two options now, either losing faith completely in all COVID-19 infographics and metrics or to acknowledge their limitations and assume that they are just a rough approximation to reality.
 
+{{< figure src="img/morpheus-red-pill.jpg" title="We have two options: either losing faith completely in all COVID-19 infographics or  assuming they are no more than a rough approximation to reality" numbered="true" lightbox="true" >}}
 
-## Lesson 3: choose the right figures and visuals
+## Consideration 3: choose the right figures and visuals
 
 Great! If you are reading this it means that you are ok assuming that reality is (as always) far more complex than what nice dashboards can ever show, no matter how fancy they are. And speaking of that: **beware of fancy visuals!**
 
@@ -125,7 +130,7 @@ Other techniques used to fix those outliers and display tendencies are to use sm
 {{< figure src="img/numeroteca-smooth.jpeg" title="Smoothed lines based on actual data. Source: [Montera34](https://lab.montera34.com/covid19/)" numbered="true" lightbox="true" >}}
 
 
-## Lesson 5: do not make hasty comparisons
+## Consideration 4: do not make hasty comparisons
 
 Surely, the most frequent type of visual is that comparing how COVID-19 is affecting different regions, either within a country or comparing different countries (usually using China or Wuchan as a reference -after all, it is where it all started). While this kind of plots could provide answers to questions such as how a specific region is doing regarding another one (and therefore, replicating or avoiding their measures against COVID-19, for example), those comparisons are really problematic. For starters, the fact that population or size is largely different invalidates any comparison in absolute terms.
 
@@ -140,7 +145,7 @@ So, the biggest problem here is that without taking into consideration those fac
 {{< figure src="img/repugnant-conclusions.jpg" title="Don't be like Wopke Hoekstra doing hasty comparison, or you risk reaching repugnant conclusions like him. Photo: [Teller Report](https://www.tellerreport.com/news/2020-03-31---hoekstra-guilty-after-criticism-italy---not-enough-empathetic--.ByGe3r0lP8.html)" numbered="true" lightbox="true" >}}
 
 
-## Lesson 4: take predictions even less seriously
+## Consideration 5: take predictions even less seriously
 
 The last group of plots, and the most complex ones, are those that make predictions. While they are really appealing and, apparently, provide answers to one of our main concerns (_"When is this going to end?" / Will this last any longer?_) in a very understandable way, they are really tricky. There are several ways to make predictions, such as using linear regression or models. While a model can be as easy[^predictions-r] or as complex as we want it to be (and as a result, their accuracy will differ dramatically), they mostly rely on having a good set of historic data or knowing the logics of the phenomenon they want to describe. Unfortunately, since COVID-19 is a new phenomenon, we are lacking of both, and therefore, predictions at this stage are prone to errors. Some predictions are based on what has happened in other places where the outbreak started before, but we have seen how problematic this can be.
 
@@ -150,7 +155,7 @@ Last, but not least, we should not forget that they require a large amount of kn
 
 ## Wrapping up
 
-As we have argued, if data visualization is never easy, it is even more so in the case of a novel phenomenon such as COVID-19. Therefore, when facing any type of visuals, we should proceed with caution, either if we are producing them or just watching them. If you are doing (or planning to do) any type of visualization, ask yousrself what question do you want to answer and which is the best way to do it, take into account the aforementioned considerations and make them evident to your readers. Also, make your analysis reproducible, so anyone could tell you if you did something wrong or even fix it by themselves. If you are simply watching them, look for all those explanations, and if you can't find them, ask for them, help the author or simply ignore it and look for an alternative. But in any case, you should always remember not to take data too seriously or too blindly. Data by itself is not what really matters, is what we do with it and how we do it in order to achieve knowledge what really matters.
+As argued, if data visualization is never easy, it is even less so in the case of a novel phenomenon such as COVID-19. Therefore, when facing any type of visuals, we should proceed with caution. If you are doing (or planning to do) any type of visualization, ask yousrself what question do you want to answer and which is the best way to do it, take into account the aforementioned considerations and make them evident to your readers[^considerations-medium]. Also, make your analysis reproducible, so anyone could tell you if you did something wrong or even fix it by themselves. If you are simply watching them, look for all those explanations, and if you can't find them, ask for them, help the author or simply ignore it and look for an alternative. But in any case, you should always remember not to take data too seriously or too blindly. Data by itself is not what really matters, is what we do with it and how we do it in order to achieve knowledge what really matters. And here's when science plays its role.
 
 [^infer]: There is a third scenario: to infer or calculate the data from other datasets.
 [^data-formats]: For example, [UK releases its data stored in a single XLS file](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases), without a clean structure. Not only they use a proprietary format, but they mix data with metadata on the same file, even in the same sheet, instead of using a wide format where every column is a field and every row is an observation or a long format where keys and values are stored as in a dictionary. On the other hand, Spain decided to release the data in PDF. PDFs are great for visualization because they are an ISO format and can be opened with plenty of different softwares. Unfortunately, it is not great for consuming data, as it is not structured in any way.
@@ -163,3 +168,4 @@ As we have argued, if data visualization is never easy, it is even more so in th
 [^narratives]: Refer to [The spread of the coronavirus across Europe against the right-wing Central European narrative](https://blogs.publico.es/otrasmiradas/30966/la-propagacion-del-coronavirus-por-europa-contra-la-narrativa-centroeuropea-derechista/) (Publico, in Spanish)
 [^netherlands]: Take as an example the unfortunate words by Dutch finance minister Wopke Hoekstra, who suggested the EU "should investigate countries like Spain that say they have no budgetary margin to deal with the effects of the crisis provoked by the new coronavirus in spite of the fact that the eurozone has grown for seven consecutive years", a statement that was later qualified as "repugnant" by Portugal's Primer Minister, António Costa. (Source: [Politico](https://www.politico.eu/article/netherlands-try-to-calm-storm-over-repugnant-finance-ministers-comments/))
 [^predictions-r]: Just to give you an example of how easy can be to implement a prediction in R, refer to this article: http://www.sthda.com/english/articles/40-regression-analysis/166-predict-in-r-model-predictions-and-confidence-intervals/
+[^considerations-medium]: Also, reading this post may be useful: [Ten Considerations Before You Create Another Chart About COVID-1](https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8)
