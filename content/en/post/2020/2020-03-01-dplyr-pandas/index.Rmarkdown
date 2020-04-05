@@ -46,8 +46,7 @@ conda_list()
 ```
 
 
-
-```{python}
+```{python eval=FALSE, include=FALSE}
 
 import pandas as pd
 
