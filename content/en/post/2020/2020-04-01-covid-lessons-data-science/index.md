@@ -15,7 +15,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Yet another COVID-19 dashboard. But I love it because it's mine"
+  caption: "Yet another COVID-19 dashboard. It may not be very insightful, but I love it because it's mine"
   focal_point: ""
   preview_only: false
   placement: 2
