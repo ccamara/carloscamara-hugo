@@ -4,6 +4,10 @@ date: 2020-02-27
 math: true
 diagram: true
 
+categories: ["Architecture"]
+
+projects: ["blogarquia"]
+
 image:
   placement: 2
   caption: 'Buildings are not like Jordi Hurtado, they age'

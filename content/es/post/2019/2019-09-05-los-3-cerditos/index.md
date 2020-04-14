@@ -4,6 +4,12 @@ date: 2019-09-05
 math: true
 diagram: true
 
+categories: ["Arquitectura"]
+
+tags: ["sostenibilidad"]
+
+projects: ["blogarquia"]
+
 image:
   placement: 2
   caption: ''
