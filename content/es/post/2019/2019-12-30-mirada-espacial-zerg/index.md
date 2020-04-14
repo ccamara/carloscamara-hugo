@@ -4,6 +4,9 @@ date: 2019-12-30
 math: true
 diagram: true
 
+categories: ["Ciudad", "Urbanismo"]
+
+tags: ["urbanización", "Lefebvre", "ciudad", "capitalismo"]
 image:
   placement: 2
   caption: ''
