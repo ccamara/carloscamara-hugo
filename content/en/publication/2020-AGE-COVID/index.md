@@ -23,11 +23,7 @@ publication_types: ["3"]
 publication: "Asociación Española de Geografía"
 publication_short: ""
 
-<<<<<<< HEAD
 abstract: Reflection for the section "[AGE and pandemic](https://www.age-geografia.es/site/reflexiones-sobre-la-crisis-actual)" of the [Asociación Española de Geografía](https://www.age-geografia.es) on the geographies of COVID19 and what, from the Laboratory of Urban Transformation and Global Change (Internet Interdisciplinary Institute, Open University of Catalonia), we believe that they should lay the foundations for the definition of urban agendas that will emerge as a result of the pandemic.
-=======
-abstract: Reflection for the section "[AGE and pandemic] (https://www.age-geografia.es/site/reflexiones-sobre-la-crisis-actual)" of the [Asociación Española de Geografía] (https://www .age-geografia.es) on the geographies of COVID19 and what, from the Laboratory of Urban Transformation and Global Change (Internet Interdisciplinary Institute, Open University of Catalonia), we believe that they should lay the foundations for the definition of urban agendas that will emerge as a result of the pandemic.
->>>>>>> Translates publication into English.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -52,11 +48,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-<<<<<<< HEAD
 image:
-=======
-image:hl
->>>>>>> Translates publication into English.
   caption: ''
   focal_point: ""
   preview_only: false
@@ -77,12 +69,6 @@ projects:
 slides: 
 ---
 
-<<<<<<< HEAD
-![](https://ruta.jpg)
-
-
-=======
->>>>>>> Translates publication into English.
 Ivan Serrano<sup>1, </sup><sup>2</sup>, Carlos Cámara<sup>1</sup>, Hug March<sup>1, </sup><sup>3</sup>, Ramon Ribera-Fumaz<sup>1</sup>, Isabel Ruiz-Mallén<sup>1</sup>, Mar Satorras<sup>1</sup>
 
 <i><sup>1</sup>Laboratorio de Transformación Urbana y Cambio Global, Internet Interdisciplinary Institute (IN3), Universitat Oberta de Catalunya.
