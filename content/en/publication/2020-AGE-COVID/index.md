@@ -69,6 +69,9 @@ projects:
 slides: 
 ---
 
+![](https://ruta.jpg)
+
+
 Ivan Serrano<sup>1, </sup><sup>2</sup>, Carlos Cámara<sup>1</sup>, Hug March<sup>1, </sup><sup>3</sup>, Ramon Ribera-Fumaz<sup>1</sup>, Isabel Ruiz-Mallén<sup>1</sup>, Mar Satorras<sup>1</sup>
 
 <i><sup>1</sup>Laboratorio de Transformación Urbana y Cambio Global, Internet Interdisciplinary Institute (IN3), Universitat Oberta de Catalunya.
