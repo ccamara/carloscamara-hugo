@@ -66,7 +66,7 @@ user_groups = []
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/carlescamara"
+  link = "https://twitter.com/drccamara"
 
 [[social]]
   icon = "orcid"

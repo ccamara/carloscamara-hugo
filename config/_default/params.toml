@@ -57,7 +57,7 @@ logo = ""
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
-highlight_languages = ["r"]  # Add support for highlighting additional languages
+highlight_languages = ["r", "python", "R"]  # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
@@ -111,6 +111,8 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "@carlescamara", link = "https://twitter.com/carlescamara"},
+  {icon = "twitter", icon_pack = "fab", name = "@drccamara (academic)", link = "https://twitter.com/drccamara"},
+  {icon = "mastodon", icon_pack = "fab", name = "@ccamara", link = "https://scholar.social/@ccamara"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = ""},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
