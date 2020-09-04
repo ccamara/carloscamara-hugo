@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Dataframes' manipulations in R and Python"
+title: "Manipulating dataframes in R and Python"
 subtitle: "Comparing tidyverse and pandas"
-summary: ""
+summary: "Some notes for myself"
 authors: ["admin"]
 tags: ["R", "Python", "dataframe", "pandas", "tidyverse"]
 categories: ["Data Science"]
@@ -19,7 +19,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  placement: 3
+  placement: 1
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -31,24 +31,145 @@ projects: []
 
 ```{r include=FALSE}
 library(reticulate)
+use_condaenv('osm_imports_preparations', required = TRUE)
 # use_condaenv("osm_imports_preparations", conda = "~/anaconda3/condabin/conda", 
 #              required = TRUE)
+#              
+# conda_list()
+
+library(coronavirus)
+
+data("coronavirus")
 
 ```
 
 
-Hello!
+## Loading data.
+
+### Loading a CSV file.
+
+#### R
 
 ```{r}
-head(iris)
-print("test")
-conda_list()
+# We will be loading a CSV file from  RamiKrispin's coronavirus' package.
+csv_url = "https://raw.githubusercontent.com/RamiKrispin/coronavirus/master/csv/coronavirus.csv"
+
+# Read the CSV, convert it into a dataframe and store it in a variable.
+r_df <- read.csv(csv_url)
+
+# Explore the first on the dataframe.
+head(coronavirus, 12)
 ```
 
+#### Python
 
-```{python eval=FALSE, include=FALSE}
-
+```{python}
 import pandas as pd
 
+# We will be loading a CSV file from  RamiKrispin's coronavirus' package.
+csv_url = "https://raw.githubusercontent.com/RamiKrispin/coronavirus/master/csv/coronavirus.csv"
+
+# Read the CSV, convert it into a dataframe and store it in a variable.
+py_df = pd.read_csv(csv_url)
+
+# Explore the first elements on the dataframe.
+py_df.head(12)
 ```
+
+So far, there are no significant differences between both, but note the following differences:
+1. `R` works with regular functions, whereas`Python` uses methods instead.
+1. In order to work with dataframes in `Python`, `pandas` module has to be imported beforehand, whereas it is a base feature from `R`.
+2. Both commands have read the same file but, apparently, they display different data. We will need to explore further the imported data to make sure that both are what we expected and, therefore, the same.
+
+
+## Exploring a dataframe
+
+
+
+### R
+
+```{r}
+# Explore what kind of object r_df is.
+str(r_df)
+
+# Basic statistics
+summary(r_df)
+
+
+# Explore unique values within a variable.
+levels(r_df$date)
+```
+
+### Python
+
+```{python}
+# Explore what kind of entity py_df is.
+py_df.info()
+
+# Now, calculate basic statistics for the numeric columns in the DataFrame.
+py_df.describe()
+
+# List unique values in the df['date'] column
+py_df['date'].unique()
+
+```
+Note:
+
+We prefer to use this notation in order to prvent problems with columnws with a dot inside.
+
+## Sorting dataframe
+
+```{r warning=FALSE}
+library(tidyverse)
+
+head(arrange(r_df, Country.Region))
+```
+
+```{python}
+py_df.sort_values(['Country.Region']).head()
+
+```
+
+## Select and summarise
+
+Let's pretend that we want to have a table displaying the top 10 countries with the most number of confirmed cases until 10th May 2020.
+
+### R
+
+```{r}
+r_df %>% 
+  # select(Country.Region, cases, type) %>% 
+  filter(type == "confirmed") %>% 
+  group_by(Country.Region) %>% 
+  summarise(total = sum(cases)) %>% 
+  arrange(desc(total)) %>% 
+  head(5)
+
+# Or, even more succintly:
+r_df %>% 
+  filter(type == "confirmed") %>% 
+  count(Country.Region, wt = cases, sort = TRUE, name = "total") %>% 
+  head(5)
+
+
+```
+
+### Python
+
+```{python}
+py_df.loc[py_df['type'] == 'confirmed'].groupby('Country.Region').agg(
+  {'cases':'sum'}
+).rename(columns={'cases': 'total'}).sort_values(
+  ['total'], ascending = False).head(5)
+
+```
+
+## Joins and calculations
+
+But that's not fair, we are comparing countries with very different number of population! If we are to compare them, we need to use relative values. For example, we would need to create a ranking based on the total number of cases per 1000 habitants.
+
+```{r}
+countries
+```
+
 
