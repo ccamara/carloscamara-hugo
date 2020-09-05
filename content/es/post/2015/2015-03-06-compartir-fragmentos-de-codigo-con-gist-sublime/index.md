@@ -14,13 +14,13 @@ categories = ["Tecnología"]
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "post/screen_shot_2014-01-14_at_12.40.55_pm.png"
+[image]
+placement = 3
 caption = "Captura de pantalla de Sublime."
-preview = true
-
 +++
-<strong>Como desarrolladores, a menudo nos encontramos realizando tareas repetitivas bastante parecidas (incluso a veces idénticas) a otras que hemos realizado anteriormente. En este post explicaré cómo mantener una biblioteca con control de versiones para poder encontrar fácilmente, reutilizar y compartir fragmentos de código con todo el mundo (o con unas personas determinadas) sin alterar demasiado el flujo de trabajo habitual.</strong></p>
-<p><img alt="" class="image-blog_image_inline_normal" src="http://ymbra.com/sites/default/files/styles/blog_image_inline_normal/public/screen_shot_2014-01-14_at_12.49.28_pm.png?itok=LbRM0k9s" width="600" height="183"></p>
+
+**Como desarrolladores, a menudo nos encontramos realizando tareas repetitivas bastante parecidas (incluso a veces idénticas) a otras que hemos realizado anteriormente. En este post explicaré cómo mantener una biblioteca con control de versiones para poder encontrar fácilmente, reutilizar y compartir fragmentos de código con todo el mundo (o con unas personas determinadas) sin alterar demasiado el flujo de trabajo habitual.**
+
 <p>Dependiendo de su complejidad, las <a href="https://drupal.org/best-practices" class="ext" target="_blank">buenas prácticas de Drupal</a> aconsejan&nbsp;<a href="https://drupal.org/documentation/modules/features" class="ext" target="_blank">utilizar features</a>, módulos personalizados o incluso perfiles de instalación para no repetirnos innecesariamente y ahorrar mucho tiempo y minimizar errores. Pese a todo, hay veces en las que solo queremos reutilizar pequeñas partes de código que hacen una funcionalidad muy pequeña o un efecto muy concreto y no vale la pena (o incluso es imposible) crear un módulo para ello. Este es el escenario perfecto en el que administrar una biblioteca de fragmentos de código puede sernos útil. Aunque es probable que ya tengamos nuestra propia biblioteca de código, eso no es suficiente si queremos compartirla con otros miembros del equipo o con la comunidad. Una manera de solucionarlo es&nbsp; utilizar dos herramientas bien conocidas:&nbsp;<a href="https://www.sublimetext.com/" class="ext" target="_blank">Sublime text</a> y los <a href="https://gist.github.com/" class="ext" target="_blank">Gist de Github</a>.</p>
 <h3>Instalar y configurar el paquete Gist en Sublime</h3>
 <p>Estas instrucciones asumen que ya tenemos instalado Sublime Editor y que ya tenemos una cuenta de usuario en Github. Si todavía no has hecho alguna de estas cosas hay muchos motivos para utilizar estas herramientas (de verdad) y hay mucha documentación sobre cómo hacerlo (al final del documento encontrarás algunos enlaces interesantes al respecto).</p>
