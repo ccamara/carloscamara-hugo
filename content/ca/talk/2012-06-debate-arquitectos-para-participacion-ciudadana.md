@@ -1,5 +1,5 @@
 +++
-title = "Debate: Arquitectos para la participación ciudadana"
+title = "Debat: Arquitectes para a la participació ciudadana"
 publishDate = 2012-06-25T23:10:52+01:00  # Schedule page publish date.
 draft = false
 
@@ -35,7 +35,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = "https://speakerdeck.com/ccamara/taula-rodona-coac-urbanisme-participatiu"
-url_video = ""
+url_video = "https://youtu.be/ctg4SX5OW68"
 url_code = ""
 
 # Does the content use math formatting?

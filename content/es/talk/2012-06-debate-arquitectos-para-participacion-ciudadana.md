@@ -35,7 +35,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = "https://speakerdeck.com/ccamara/taula-rodona-coac-urbanisme-participatiu"
-url_video = ""
+url_video = "https://youtu.be/ctg4SX5OW68"
 url_code = ""
 
 # Does the content use math formatting?
