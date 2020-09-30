@@ -17,7 +17,7 @@ event = "Congreso Internacional  Cultura Digital, Sociedad y Comunicación"
 event_url = "http://congresoculturadigital.es/"
 
 # Location of event.
-location = ""
+location = "Zaragoza"
 
 # Is this a selected talk? (true/false)
 selected = false
