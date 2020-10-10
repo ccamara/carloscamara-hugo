@@ -49,9 +49,9 @@ caption = "El Reto"
 
 +++
 
-{{% alert note %}}
+{{% callout note %}}
 This text has been automatically translated until I find some time to rewrite it in English. Sorry for the inconvenience.
-{{% /alert %}}
+{{% /callout %}}
 
 Ideologist, creator, editor, webmaster and community manager of +arquitectura. **+arquitectura** was a **(virtual) meeting place** where sharing knowledge, experiences, opinions, ideas, information... about architecture or simply "with the excuse of architecture".
 

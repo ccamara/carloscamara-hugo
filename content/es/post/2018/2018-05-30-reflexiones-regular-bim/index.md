@@ -40,9 +40,9 @@ Precisamente esto lleva al siguiente punto: No termino de entender por qué debe
 
 Pero ese debate lo dejaremos para otra ocasión o para los comentarios.
 
-{{% alert note %}}
+{{% callout note %}}
 Este post fue escrito originalmente para el [Blog de la Fundación Caja de Arquitectos](http://blogfundacion.arquia.es/2018/04/reflexiones-sobre-la-necesidad-de-regular-o-no-la-obligatoriedad-de-usar-bim-en-obra-publica/)
-{{% /alert %}}
+{{% /callout %}}
 
 [^1]: Ya en este artículo de 2009 abogaba por las ventajas de utilizar BIM frente a CAD (ahora matizo: por lo menos para proyectos de edificación, sobre todo si es obra nueva): http://www.carloscamara.es/blog/2009/01/08/del-cad-al-bim/
 [^2]: A diferencia de los archivos rvt o pln, definidos y controlados en exclusiva por Autodesk y Graphisoft respectivamente, IFC organiza el modelo de datos (esto es, la manera en que se almacena la información) en un formato estándar y abierto desarrollado por el consorcio sin ánimo de lugro Building Smart orientado a favorecer el OpenBIM. Dadas esas características y al hecho de que no depende de ningún fabricante de software se garantiza, por tanto, que la información pueda intercambiarse entre distintos softwares de BIM sin que haya intereses ocultos para favorecer uno en detrimento de otro.

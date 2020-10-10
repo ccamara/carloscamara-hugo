@@ -24,6 +24,6 @@ Seguramente alguien podría argumentar que el edificio no había cambiado, sino 
 
 Leí una vez que los clásicos son creaciones (literarias, musicales, artísticas, arquitectónicas…) que a pesar de su edad siguen manteniendo su vigencia. Sin embargo, hoy sería imposible concebir un edificio así. Ese es el problema. Esa es la suerte.
 
-{{% alert note %}}
+{{% callout note %}}
 Este post fue escrito originalmente para el [Blog de la Fundación Caja de Arquitectos](https://blogfundacion.arquia.es/2020/01/volver-12-anos-no-es-nada-o-si/)
-{{% /alert %}}
+{{% /callout %}}

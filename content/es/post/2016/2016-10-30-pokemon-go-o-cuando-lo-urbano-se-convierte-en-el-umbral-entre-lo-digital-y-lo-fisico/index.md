@@ -24,9 +24,9 @@ caption = "Pokémon Go. Fuente: [Comworldseries](http://comworldseries.blogspot.
 focal_point = "Smart"
 +++
 
-{{% alert note %}}
+{{% callout note %}}
 Este post fue escrito originalmente para el [Blog de la Fundación Caja de Arquitectos](http://blogfundacion.arquia.es/2016/10/pokemon-go-o-cuando-lo-urbano-se-convierte-en-el-umbral-entre-lo-digital-y-lo-fisico/)
-{{% /alert %}}
+{{% /callout %}}
 
 Imagino que a estas alturas todo el mundo sabe de la existencia de **Pokémon Go** y su mecánica básica consistente en “capturar” Pokemons que se “esconden” en entornos reales de todo el mundo (parques, calles, oficinas…). Para ello es necesario utilizar el** móvil**, cuya cámara muestra un mundo de **realidad aumentada** en el que, además de lo que conocemos, se superponen cosas como Pokeparadas o gimnasios y, por supuesto, Pokemons, muchos Pokemons. El éxito de la aplicación está siendo rotundo a varios niveles; y son muchos quienes señalan que parte de su éxito se basa en el gancho de **la franquicia de Nintendo**, en su original enfoque que **combina el mundo digital y el físico**, pero especialmente en el hecho de asociarlo a valores positivos como el fomento del ejercicio físico o un mayor conocimiento del entorno local en el que se juega.
 

@@ -30,6 +30,6 @@ Soy consciente de que se trata de un cuento infantil, no de un tratado de arquit
 
 Así que, niños, **la próxima vez que oigáis que las casas de adobe o de madera son una mala idea o que solo sirven para cabañas en los Alpes o arquitectura vernácula, no dejéis que os cuenten un cuento**: al fin y al cabo, por suerte, empezamos a tener buenos ejemplos de arquitectura que demuestran lo contrario: los edificios de madera de [La Borda](http://www.lacol.coop/projectes/laborda/) (LaCol), [Entrepatios Las Carolinas](http://satt.es/portfolio_page/cohousing-las-carolinas-entrepatiosg/) (sAtt) o el equipamiento de barrio de [Can Portabella](http://www.bunyesc.com/projectes/35canportabella.html) (Josep Bunyesc), entre muchos otros, demuestran que hacer arquitectura contemporánea, incluso en vivienda colectiva o equipamientos en entornos urbanos, no solo no está reñida con utilizar sistemas constructivos tradicionales y mucho más respetuosos con el medio ambiente sino que es posible.
 
-{{% alert note %}}
+{{% callout note %}}
 Este post fue escrito originalmente para el [Blog de la Fundación Caja de Arquitectos](https://blogfundacion.arquia.es/2019/07/el-cuento-de-los-tres-cerditos-es-un-cuento/)
-{{% /alert %}}
+{{% /callout %}}
