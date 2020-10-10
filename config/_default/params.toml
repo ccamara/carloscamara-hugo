@@ -1,5 +1,9 @@
 # SITE SETUP
-# Documentation: https://sourcethemes.com/academic/
+# Guide: https://sourcethemes.com/academic/docs/get-started/
+# Documentation: https://sourcethemes.com/academic/docs/
+#
+# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
+# Each configuration section is defined by a name in square brackets (e.g. `[search]`).
 
 ############################
 ## Theme
@@ -46,10 +50,6 @@ org_name = ""
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
 
-# Display a logo in navigation bar rather than title (optional).
-#   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = ""
-
 ############################
 ## Site Features
 ############################
@@ -57,7 +57,7 @@ logo = ""
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
-highlight_languages = ["r", "python", "R"]  # Add support for highlighting additional languages
+highlight_languages = ["r", "python"]  # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
@@ -75,19 +75,10 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/ccamara/carloscamara-hugo", repo_branch = "master", editable = {docs = true, page = false, post = true}}
+edit_page = {repo_url = "https://github.com/ccamara/carloscamara-hugo", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 # Show related content at the bottom of pages?
-show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
-   
-# Show a copyright license from creativecommons.org in the site footer?
-# Page specific copyright licenses are also possible by adding this option to a page's front matter.
-copyright_license = {enable = true, allow_derivatives = true, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
-   
-# Highlight the site author (superuser) in author lists? (true/false)
-highlight_superuser = false
-   
-# PLACE THIS NEW [CMS] CONFIG SECTION AT THE END OF THE FILE
+show_related = {docs = true, page = false, post = true, project = false, publication = true, talk = true}
 
 ############################
 ## Contact details
@@ -113,8 +104,7 @@ directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ""
-# office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = [""]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -137,7 +127,7 @@ contact_links = [
 ## Social
 ############################
 
-# Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+# Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
@@ -151,32 +141,39 @@ twitter = "carlescamara"
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
-time_format = "15:04"
+time_format = "15:04 PM"
 
-# Address format (choose from the [address_formats] list below or add you own to the list).
-address_format = "en-us"
+# Address format (en-us, en-gb, de, fr-fr, zh).
+address_format = "en-gb"
 
 ############################
 ## Advanced
 ############################
 
-# Get user avatars from Gravatar.com? (true/false)
-gravatar = false
-
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true}
+main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_language = true, show_day_night = true, show_search = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
 
 # Display next/previous section pager? (true/false)
-section_pager = true
+section_pager = false
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
 
-# Load CSS and JS plugins
+# Show a copyright license from creativecommons.org in the site footer?
+# Page specific copyright licenses are also possible by adding this option to a page's front matter.
+copyright_license = {enable = true, allow_derivatives = true, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
+
+# Link authors to their profile page? (true/false)
+link_authors = true
+
+# Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
+abstract_length = 135
+
+# Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 plugins_js  = ["custom"]
 
@@ -207,17 +204,8 @@ plugins_js  = ["custom"]
   #   3: Card
   #   4: Citation (publications only)
   post_view = 2
-  publication_view = 2
-  talk_view = 2
-
-# Available address formats.
-[address_formats]
-  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
-  en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
-  zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
-
-# Link authors to their profile page? (true/false)
-link_authors = true
+  publication_view = 4
+  talk_view = 1
 
 ############################
 ## Comments
@@ -229,18 +217,18 @@ link_authors = true
   #   2: Commento (https://commento.io)
   engine = 1
 
-# Which page types are commentable?
-commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  # Which page types are commentable?
+  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
 
-# Configuration of Disqus.
-[comments.disqus]
-  shortname = "carloscamara"  # Paste the shortname from your Disqus dashboard.
-  show_count = true  # Show comment count in page header? (true/false)
+  # Configuration of Disqus.
+  [comments.disqus]
+    shortname = "carloscamara"  # Paste the shortname from your Disqus dashboard.
+    show_count = true  # Show comment count in page header? (true/false)
 
-# Configuration of Commento.
-[comments.commento]
-  # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
-  url = ""
+  # Configuration of Commento.
+  [comments.commento]
+    # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
+    url = ""
 
 ############################
 ## Search
@@ -282,7 +270,6 @@ commentable = {page = true, post = true, docs = true, project = true, publicatio
   api_key = ""
   zoom = 15
 
-
 ############################
 ## Marketing
 ############################
@@ -294,11 +281,11 @@ commentable = {page = true, post = true, docs = true, project = true, publicatio
 ## Content Management System
 ############################
 [cms]
- # See https://sourcethemes.com/academic/docs/install/
- netlify_cms = true
-  
+  # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
+  netlify_cms = true
+
 ############################
 ## Icon Pack Extensions
 ############################
 [icon.pack]
- ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
