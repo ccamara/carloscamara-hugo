@@ -28,6 +28,6 @@ Hoy me gustaría explicar en qué he estado ocupado últimamente y que por tanto
 >
 >Estas experiencias se han agrupado en dos capítulos diferenciados: "Los otros arquitectos" y "los no-arquitectos" para introducir un poco de orden y facilitar la consulta posterior, la comparación y la obtención de conclusiones propias. En el primer grupo se encuentran todos aquellos arquitectos cuya práctica profesional no está centrada en la edificación como fin, mientras que el segundo grupo se encuentran todos aquéllos profesionales que, sin ser arquitectos, están vinculados al mundo de la arquitectura. Ambos grupos tienen en común una mirada muy personal y singular tal y como se refleja en la manera que tienen de desempeñar su ejercicio profesional.
 
-{{% alert warning %}}
+{{% callout warning %}}
 **Actualización 30/01/2013:** Debido al [cierre de +arquitectura](/blog/2013/01/31/-arquitectura-despedida-y-cierre/), estas secciones han pasado a formar parte de este sitio web, **[las encontrarás aquí](/experiencias-arquitectonicas/)**.
-{{% /alert %}}
+{{% /callout %}}

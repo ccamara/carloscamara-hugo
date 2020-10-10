@@ -31,8 +31,8 @@ Es cada vez más y más habitual encontrar más ejemplos de participación ciuda
 <li><strong>Tejer redes:</strong> es necesario tejer redes entre las distintas iniciativas participativas que no solo permitan la transmisión de conocimiento para aprender las unas de las otras (y evitar tener que reinventar la rueda continuamente o repetir errores), sino también establecer sinergias de colaboración que posibiliten la toma de decisiones coordinadas y ampliar el alcance, la calidad y repercusión de sus actuaciones.</li>
 <li><strong>Exportabilidad y escalabilidad</strong>: sin duda el gran reto y la gran asignatura pendiente de la participación es ver si es posible y, en caso afirmativo, de qué manera, pueden no solo exportarse a contextos geográficos o culturales distintos, sino también a otras escalas: No es lo mismo gestionar iniciativas que impliquen a 10, 100, 1.000 o 10.000 personas y por tanto no se pueden trasponer sin más los mecanismos de una a otra. Además también nos toparíamos con el hecho de poder pasar de una escala eminentemente local a una escala mayor (autonómica, estatal, glocal…) que, si bien ampliaría enormemente la capacidad de transformación de las iniciativas, sin duda añadiría una mayor complejidad para la que a día de hoy no parecen estar preparadas, a la vez que introduce un debate acerca de su viabilidad o necesidad&nbsp;.</li>
 </ol>
-{{% alert note %}}
+{{% callout note %}}
 Texto publicado originalmente en el <a href="http://blogfundacion.arquia.es/2014/09/participacion-entorno-al-urbanismo-y-retos-de-futuro/" class="ext" target="_blank">Blog de la Fundación Caja de Arquitectos</a>
-{{% /alert %}}
+{{% /callout %}}
 
 [^1]: Bajo el paraguas de la participación suelen incluirse cosas como comunes urbanos, referendums o consultas, okupaciones, talleres, emprendizaje social… que tienen poco que ver en cuanto a metodologías, relación con las administraciones, objetivos… Resulta, pues, necesario distinguir claramente entre unos y otros.

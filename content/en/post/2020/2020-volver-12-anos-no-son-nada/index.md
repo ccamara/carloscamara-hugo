@@ -23,7 +23,7 @@ Some people will doubtless argue that it isn’t the building that has changed, 
 
 I once read that classics are (literary, musical, artistic, architectural) creations that remain valid despite their age. Today, however, a building like that would be unimaginable. That’s the problem. Or not.
 
-{{% alert note %}}
+{{% callout note %}}
 
 Text translated by Andrew V. Taylor and published originally for [Blog de la Fundación Caja de Arquitectos](https://blogfundacion.arquia.es/en/2020/01/reeling-in-the-years-12-years-are-nothing-or-perhaps-they-are/)
-{{% /alert %}}
+{{% /callout %}}

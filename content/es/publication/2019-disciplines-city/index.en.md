@@ -83,9 +83,9 @@ math = true
 +++
 
 
-{{% alert warning %}}
+{{% callout warning %}}
 Due to copyright, it is prohibited to reproduce books' content. This is just an excerpt of this chapter's introduction. In order to get the book, please visit [Nova Publishers' website](https://novapublishers.com/shop/disciplines-of-the-city-new-forms-of-governance-in-todays-postmetropolises/).
-{{% /alert %}}
+{{% /callout %}}
 
 ## Introduction
 

@@ -30,9 +30,9 @@ Todos ellos tienen en común el hecho de ser medidas que, no solo no alteran en 
 
 Es cierto que la gravedad de la situación nos lleva a querer demandar soluciones rápidas y que, sin embargo, las inercias de las ciudades son elevadas debido a que las dinámicas legales y técnicas del planeamiento son complejas y lentas. Es por ello que, **precisamente porque hay mucho en juego, no deberíamos caer en la tentación de supeditar cualquier decisión a la urgencia o al criterio único y engañoso de la salud y la seguridad, tirando por los suelos los avances producidos en los estudios urbanos sobre nuevos modelos de ciudad más sostenibles, más resilientes, más igualitarias, más vivibles.** Ahora, más que nunca, es el momento para tomar decisiones fundadas y replantear radicalmente las ciudades para abordar, de una vez por todas, las múltiples carencias que la COVID no ha hecho más que señalar con su dedo acusador.
 
-{{% alert note %}}
+{{% callout note %}}
 Esta es la versión extendida de este post escrito originalmente para el [Blog de la Fundación Caja de Arquitectos](https://blogfundacion.arquia.es/2020/01/volver-12-anos-no-es-nada-o-si/)
-{{% /alert %}}
+{{% /callout %}}
 
 [^1]: Ejemplo de ello podemos encontrarlo en [el blog de la Fundación Arquia](https://blogfundacion.arquia.es/?s=COVID&cat=&swp_category_limiter=0), donde ha habido varios post al respecto por varios corresponsales.
 [^2]: La Vanguardia: <a href="https://www.lavanguardia.com/economia/20200616/481807009010/gobierno-aprueba-ayuda-hasta-5500-euros-comprar-coche.html">El Gobierno aprueba ayudas de hasta 5.500 euros para comprar un coche </a>

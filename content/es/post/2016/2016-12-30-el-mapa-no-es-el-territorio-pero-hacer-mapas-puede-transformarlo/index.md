@@ -21,9 +21,9 @@ caption = "Oveja con una cámara y GPS mapeando las Islas Feroe."
 
 +++
 
-{{% alert note %}}
+{{% callout note %}}
 Este post fue escrito originalmente para el [Blog de la Fundación Caja de Arquitectos](http://blogfundacion.arquia.es/2016/12/el-mapa-no-es-el-territorio-pero-hacer-mapas-puede-transformarlo/)
-{{% /alert %}}
+{{% /callout %}}
 
 Este verano, desde las <a href="http://www.openstreetmap.org/relation/52939">Islas Feroe</a>, surgió una curiosa iniciativa que consistía en poner una cámara y un GPS a las numerosas ovejas que las habitan para posteriormente georreferenciar las imágenes de los lugares por donde pastan. Según los promotores de la iniciativa bautizada como <a href="http://visitfaroeislands.com/sheepview360/">sheep view </a><a href="http://visitfaroeislands.com/sheepview360/">360</a>, era una reivindicación que hacían a Google para poder ser incluidos en su Street View y una forma de suplir esta carencia mediante la creación de recorridos en 360º de forma innovadora, <em>low-tech</em> y <em>low-cost</em>, a la vez que ofrecían imágenes de lugares que serían difícilmente accesible con medios tradicionales.</p>
 <p>Esta sorprendente iniciativa en realidad se trataba de una campaña publicitaria orientada a poner en valor sus parajes y atraer turistas durante las vacaciones, pero, en cualquier caso, evidencia muy bien dos ideas o reflexiones que quiero tratar. La primera es que lo que no se nombra, no existe. O para lo que nos ocupa: <strong>lo que no sale en los mapas no existe</strong>. Los mapas están cada vez más presentes en nuestras vidas[^1] y, por tanto, que algo no aparezca en un mapa puede ser sinónimo de que mucha gente no conozca su existencia y, por ello, no se “utilice”. Esto es algo que saben bien las empresas y de ahí que hayan proliferado los servicios y aplicaciones para ubicar todo tipo de información: ¡y es que tan importante como estar en un mapa es cómo se realiza ese mapa y quién lo hace!</p>

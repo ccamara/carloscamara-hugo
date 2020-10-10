@@ -25,6 +25,7 @@ Los proyectos de arquitectura suelen desarrollarse en periodos largos de tiempo 
 Mantener un orden de archivos y seguir un patrón al darles nombre que nos permita saber en todo momento y de manera rápida qué es lo que contienen cobran una importancia vial.
 
 Este artículo se centrará en dar unos criterios para crear un código propio para nombrar los archivos de manera eficiente que nos permita saber el tipo de información que contiene, su versión, el proyecto al que pertenecen...
+
 <!--more-->
 
 {{% toc %}}

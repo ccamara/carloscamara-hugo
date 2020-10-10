@@ -62,9 +62,9 @@ caption = "Equipo de la BEAU XI"
 
 +++
 
-{{% alert note %}}
+{{% callout note %}}
 This text has been automatically translated until I find some time to rewrite it in English. Sorry for the inconvenience.
-{{% /alert %}}
+{{% /callout %}}
 
 Development of the official website of the <a href="http://xi.bienalarquitectura.es" class="ext" target="_blank">9th edition of the Spanish Biennial of Architecture and Urbanism </a>. Although the commission was generic and succinct enough, it was also flexible enough to allow me to contribute all the ideas that I thought opportune to give an optimal response to the objectives of <strong>diffusion and documentation </strong> of the information generated about the Biennial.
 

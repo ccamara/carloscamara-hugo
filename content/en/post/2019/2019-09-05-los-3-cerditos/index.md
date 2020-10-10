@@ -23,6 +23,6 @@ So, children, **the next time you hear that adobe or wood houses are a bad idea,
 
 
 
-{{% alert note %}}
+{{% callout note %}}
 This blog post was originally written in Spanish for [Fundación Arquia's Blog](https://blogfundacion.arquia.es/2019/07/el-cuento-de-los-tres-cerditos-es-un-cuento/). Text translated by Andrew V. Taylor
-{{% /alert %}}
+{{% /callout %}}

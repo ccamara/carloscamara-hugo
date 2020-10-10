@@ -32,9 +32,9 @@ En los dos artículos anteriores hemos hablado de dos casos que evidencian las r
 <p>Ante esta situación, la hegemonía del arquitecto urbanista está claramente cuestionada. Si anteriormente las decisiones relativas a las ciudades se tomaban por parte de políticos y técnicos municipales que luego se traducían en planeamiento para materializar dichas visiones, actualmente está claro que hay muchos más agentes en juego. Ya sea por ignorancia, desconocimiento o porque no se nos ha invitado, <strong>los arquitectos hemos estado hasta ahora alejados de este tipo de foros, pero en nuestra mano está reivindicarnos como pieza clave -en tanto que técnicos, pero también como ciudadanos- en estas nuevas formas de transformar el espacio urbano.</strong> Y, sobre todo, reivindicar la utilización de criterios tan denostados, pero necesarios para las ciudades, como son la equidad, la habitabilidad o la historia (que no la visión falsamente historicista), que compensen el desequilibrio producido por reducir todas las decisiones a criterios económicos, tecnológicos y de eficiencia.</p>
 <p>La buena noticia es que abre un panorama de nuevos retos y oportunidades para contribuir a la madurez de estas tecnologías y aplicaciones locativas que aúnan lo físico y lo digital en la que ciudades y ciudadanos salgan beneficiados.</p>
 
-{{% alert note %}}
+{{% callout note %}}
 Este post fue escrito originalmente para el [Blog de la Fundación Caja de Arquitectos](http://blogfundacion.arquia.es/2017/09/sobre-criterios-tecnologias-ciudades-y-arquitectos-quien-decide-como-es-la-ciudad-en-la-era-digital/)
-{{% /alert %}}
+{{% /callout %}}
 
 [^1]: El fundador de Carto afirmaba en [La Vanguardia](http://www.lavanguardia.com/tecnologia/20160823/404020480402/carto-cartodb-entrevista-mapas.html) que “El 80 % de los datos que se publican en internet tienen un componente geoespacial, pero solo un 10 % de esos datos se aprovecha en la toma de decisiones.” Extraer información (y por tanto, valor) de los datos georreferenciados es un nuevo modelo de negocio de empresas como Carto, Mapillary, ESRI…
 

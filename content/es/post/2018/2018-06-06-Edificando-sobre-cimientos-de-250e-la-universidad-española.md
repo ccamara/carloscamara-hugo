@@ -43,9 +43,9 @@ Decíamos al principio que la situación de Ferrero es casi idéntica a la de la
 
 La diferencia es que no todo el mundo tiene un **plan B** tan bueno como el suyo.
 
-{{% alert note %}}
+{{% callout note %}}
 Este post fue escrito originalmente para el [Blog de la Fundación Caja de Arquitectos](http://blogfundacion.arquia.es/2018/08/edificando-sobre-cimientos-de-250e-el-caso-de-la-universidad-espanola/)
-{{% /alert %}}
+{{% /callout %}}
 
 [^1]: Esta situación se ha visto incrementada notablemente tras la crisis: https://politica.elpais.com/politica/2018/02/02/actualidad/1517601267_811315.html
 
