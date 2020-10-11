@@ -3,7 +3,7 @@ title = "Zaragoza Accesible: un caso práctico de integración de SIG con fines 
 date = 2018-04-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Ana Ruiz", "Jorge León Casero"]
+authors = ["admin", "Ana Ruiz", "jorge-leon"]
 
 # Publication type.
 # Legend:
