@@ -1,9 +1,9 @@
 ---
 title: "Ciudades, post-confinamiento y gatopardo: nada cambia, nada sigue igual. (versión extendida)"
-date: 2020-02-27
+date: 2020-11-02
 math: true
 diagram: true
-draft: true
+draft: false
 
 categories: ["Arquitectura"]
 
