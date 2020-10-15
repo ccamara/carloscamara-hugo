@@ -27,11 +27,11 @@ selected = false
 #   Simply enter the filename of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning.md"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = [""]
+projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = [""]
+tags = ["covid", "participación"]
 
 # Links (optional).
 url_pdf = ""
@@ -58,4 +58,6 @@ highlight = true
 
 +++
 
-Debate abierto en el que hablaremos sobre la participación ciudadana en tiempos de Covid-19, cómo la alarma sanitaria afecta a la capacidad de participación, cómo se puedes ver transformados los procesos y acciones participativa, qué nuevas herramientas debemos empezar 
+Debate abierto en el que hablaremos sobre la participación ciudadana en tiempos de Covid-19, cómo la alarma sanitaria afecta a la capacidad de participación, cómo se puedes ver transformados los procesos y acciones participativa, qué nuevas herramientas debemos empezar a utilizar.
+
+{{< tweet 1265216586975248384 >}}
