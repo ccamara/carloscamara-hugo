@@ -30,7 +30,7 @@ projects: []
 
 {{< gallery >}}
 
-A principios de verano tuve la oportunidad de conversar con [Dario Núñez](https://twitter.com/Darionug) para uno de los [arquicafes de Stepien y Barno](https://www.stepienybarno.es/blog/tag/arquicafe/). Para quienes no lo conozcan, se trata de --entrevistas-- conversaciones distendidas y relativamente breves con arquitectos, en formato podcast.
+A principios de verano tuve la oportunidad de conversar con [Dario Núñez](https://twitter.com/Darionug) para uno de los [arquicafes de Stepien y Barno](https://www.stepienybarno.es/blog/tag/arquicafe/). Para quienes no lo conozcan, se trata de ~~entrevistas~~ conversaciones distendidas y relativamente breves con arquitectos, en formato podcast.
 
 Lo cierto es que pese a no haber hablado con anterioridad con Darío, pasé un tiempo muy agradable con él charlando de temas que me apasionan, y que comparto por aquí con la intención de que os pueda resultar interesante.
 
