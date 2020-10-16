@@ -58,6 +58,15 @@ highlight = true
 
 +++
 
-Debate abierto en el que hablaremos sobre la participación ciudadana en tiempos de Covid-19, cómo la alarma sanitaria afecta a la capacidad de participación, cómo se puedes ver transformados los procesos y acciones participativa, qué nuevas herramientas debemos empezar a utilizar.
+Debate abierto organizado por [Raons Públiques](https://raons.coop/) en el que hablaremos sobre la participación ciudadana en tiempos de Covid-19, cómo la alarma sanitaria afecta a la capacidad de participación, cómo se puedes ver transformados los procesos y acciones participativa, qué nuevas herramientas debemos empezar a utilizar.
+
+![](participacio-temps-covid.png)
+
+Aquí tenéis el vídeo: 
+
+{{< youtube 9JHfnh54hMk >}}
+
 
 {{< tweet 1265216586975248384 >}}
+
+¡Gracias a vosotros, Raons Públiques, por organizarlo!
