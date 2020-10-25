@@ -3,7 +3,7 @@
 
 title: "Manipulating dataframes in R and Python"
 subtitle: "Comparing tidyverse and pandas"
-summary: "Some notes for myself"
+summary: ""
 authors: ["admin"]
 tags: ["R", "Python", "dataframe", "pandas", "tidyverse"]
 categories: ["Data Science"]
@@ -29,7 +29,22 @@ image:
 projects: []
 ---
 
-```{r include=FALSE}
+While I have been using `R` for many years now (mainly for data manipulation and visualization), and I am extremely happy with some of its features (like how easy is to deal with data or to create interactive reports that can be exported in plenty of different outputs, such as pdf, documents, slides, dashboards or blog posts like this one). However, I have always wanted to learn `python`, mostly because it is a multi-purpose language that I would be able to use in other aspects of my everyday life such as web development, `QGIS` or Academic research. It is for that reason that I have recently started to learn `python`'s `pandas`.
+
+In the following blog post I will be comparing how to perform the same tasks using `pandas` and `tidyverse`. This mainly serves two learning outcomes:
+
+1.  To generate a cheat sheet that can work as a reminder (for myself): I know there are pages like [this one on `pandas` documentation comparing it to `R`'s syntax](https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_r.html), but I learn by doing, so I needed to write the code myself)
+2.  To use `reticulate` package, which allows running both, `R` and `python` within the same document (a `Rmarkdown` file to be more specific)
+
+## Loading environment
+
+Since I want to use `Python` and `R` from a `.Rmarkdown` file, I first need to load `reticulate` for this, which is a `python` interface for `R`. Also, since `pandas` is not a standard library module, I need to load a python environment[^1] with the required packages. `reticulate` makes it possible to load environments created with `anaconda`.
+
+[^1]: If there is something that I have fallen in love with `python` so far is how convenient and easy are to create virtual environments from a simple `yaml` file listing all the dependencies. This is something that would be very useful in `R`, too and I should explore in the future: I know `packrat` is there for this purpose, but it is not as fast and easy to deal with as `conda` environments. On the other hand, if I am not mistaken, `conda` also has `R` libraries, so it may be possible to create conda environments for R, too.
+
+The last step is to load some data about COVID-19 provided by `coronavirus` package, which I will be using in this blog post.
+
+```{r}
 library(reticulate)
 use_condaenv('osm_imports_preparations', required = TRUE)
 # use_condaenv("osm_imports_preparations", conda = "~/anaconda3/condabin/conda", 
@@ -43,12 +58,11 @@ data("coronavirus")
 
 ```
 
+## Loading data
 
-## Loading data.
+First thing we are doing to do is to read a CSV file and turn it into a dataframe which we are going to manipulate in the next steps.
 
-### Loading a CSV file.
-
-#### R
+### R
 
 ```{r}
 # We will be loading a CSV file from  RamiKrispin's coronavirus' package.
@@ -61,7 +75,7 @@ r_df <- read.csv(csv_url)
 head(coronavirus, 12)
 ```
 
-#### Python
+### Python
 
 ```{python}
 import pandas as pd
@@ -77,14 +91,14 @@ py_df.head(12)
 ```
 
 So far, there are no significant differences between both, but note the following differences:
-1. `R` works with regular functions, whereas`Python` uses methods instead.
-1. In order to work with dataframes in `Python`, `pandas` module has to be imported beforehand, whereas it is a base feature from `R`.
-2. Both commands have read the same file but, apparently, they display different data. We will need to explore further the imported data to make sure that both are what we expected and, therefore, the same.
 
+1.  `R` works with regular **functions**, whereas `python` uses **methods** instead.
+2.  In order to work with dataframes in `python`, `pandas` module has to be imported beforehand, whereas it is a base feature from `R`.
+3.  Both commands have read the same file but, apparently, they display different data. We will need to explore further the imported data to make sure that both are what we expected and, therefore, the same.
 
 ## Exploring a dataframe
 
-
+In this step we are going to evaluate what kind of object have we created, as well as a very basic data exploration.
 
 ### R
 
@@ -95,9 +109,11 @@ str(r_df)
 # Basic statistics
 summary(r_df)
 
+# Alternative statistics using tidyverse.
+tibble::glimpse(r_df)
 
 # Explore unique values within a variable.
-levels(r_df$date)
+levels(as.factor(r_df$date))
 ```
 
 ### Python
@@ -110,29 +126,32 @@ py_df.info()
 py_df.describe()
 
 # List unique values in the df['date'] column
-py_df['date'].unique()
+py_df['date'].unique() # I prefer using this notation to prevent problems with columns with a dot inside.
 
 ```
+
+There are no significant differences, nor in the syntax nor in the ouput.
+
 Note:
 
-We prefer to use this notation in order to prvent problems with columnws with a dot inside.
+We prefer to use this notation in order to prevent problems with columns with a dot inside.
 
 ## Sorting dataframe
 
 ```{r warning=FALSE}
 library(tidyverse)
 
-head(arrange(r_df, Country.Region))
+head(arrange(r_df, country))
 ```
 
 ```{python}
-py_df.sort_values(['Country.Region']).head()
+py_df.sort_values(['country']).head()
 
 ```
 
 ## Select and summarise
 
-Let's pretend that we want to have a table displaying the top 10 countries with the most number of confirmed cases until 10th May 2020.
+Let's pretend that we want to have a table displaying the top 10 countries with the most number of confirmed cases until today (`r Sys.Date()`).
 
 ### R
 
@@ -140,7 +159,7 @@ Let's pretend that we want to have a table displaying the top 10 countries with 
 r_df %>% 
   # select(Country.Region, cases, type) %>% 
   filter(type == "confirmed") %>% 
-  group_by(Country.Region) %>% 
+  group_by(country) %>% 
   summarise(total = sum(cases)) %>% 
   arrange(desc(total)) %>% 
   head(5)
@@ -148,7 +167,7 @@ r_df %>%
 # Or, even more succintly:
 r_df %>% 
   filter(type == "confirmed") %>% 
-  count(Country.Region, wt = cases, sort = TRUE, name = "total") %>% 
+  count(country, wt = cases, sort = TRUE, name = "total") %>% 
   head(5)
 
 
@@ -157,19 +176,19 @@ r_df %>%
 ### Python
 
 ```{python}
-py_df.loc[py_df['type'] == 'confirmed'].groupby('Country.Region').agg(
+py_df.loc[py_df['type'] == 'confirmed'].groupby('country').agg(
   {'cases':'sum'}
 ).rename(columns={'cases': 'total'}).sort_values(
   ['total'], ascending = False).head(5)
 
 ```
 
+This is something funny. `python` takes pride in stating that is an elegant and easy to read syntax due to its strict indentation syntax. On the other hand, I have met several `python` proponents mocking about `R`'s code to be quite obscure and difficult to memorise. While I often share the same views (especially when dealing with base `R`'s syntax), I particularly find `tidypverse`'s syntax far easier to read and memorise than `pandas`' . While the first makes use of the pipe operator ( `%>%`) to chain commands while preventing typing unnecessary data, the latter requires to concatenate up to six different methods in a single line, which becomes too long to read (and thus, not liked very much by [python's guidelines PEP8](https://www.python.org/dev/peps/pep-0008/#maximum-line-length))
+
 ## Joins and calculations
 
 But that's not fair, we are comparing countries with very different number of population! If we are to compare them, we need to use relative values. For example, we would need to create a ranking based on the total number of cases per 1000 habitants.
 
-```{r}
+```{r eval=FALSE, include=FALSE}
 countries
 ```
-
-
