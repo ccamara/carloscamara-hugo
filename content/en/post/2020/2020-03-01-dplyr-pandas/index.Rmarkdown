@@ -10,7 +10,8 @@ categories: ["Data Science"]
 date: 2020-02-08T17:46:34Z
 lastmod: 2020-02-01T17:46:34Z
 featured: false
-draft: true
+draft: false
+math: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -19,7 +20,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  placement: 1
+  placement: 2
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -46,15 +47,9 @@ The last step is to load some data about COVID-19 provided by `coronavirus` pack
 
 ```{r}
 library(reticulate)
+library(DT)
 use_condaenv('osm_imports_preparations', required = TRUE)
-# use_condaenv("osm_imports_preparations", conda = "~/anaconda3/condabin/conda", 
-#              required = TRUE)
-#              
-# conda_list()
 
-library(coronavirus)
-
-data("coronavirus")
 
 ```
 
@@ -72,7 +67,7 @@ csv_url = "https://raw.githubusercontent.com/RamiKrispin/coronavirus/master/csv/
 r_df <- read.csv(csv_url)
 
 # Explore the first on the dataframe.
-head(coronavirus, 12)
+head(r_df, 12)
 ```
 
 ### Python
@@ -108,9 +103,6 @@ str(r_df)
 
 # Basic statistics
 summary(r_df)
-
-# Alternative statistics using tidyverse.
-tibble::glimpse(r_df)
 
 # Explore unique values within a variable.
 levels(as.factor(r_df$date))
@@ -155,7 +147,7 @@ Let's pretend that we want to have a table displaying the top 10 countries with 
 
 ### R
 
-```{r}
+```{r message=FALSE, warning=FALSE}
 r_df %>% 
   # select(Country.Region, cases, type) %>% 
   filter(type == "confirmed") %>% 
@@ -189,6 +181,64 @@ This is something funny. `python` takes pride in stating that is an elegant and 
 
 But that's not fair, we are comparing countries with very different number of population! If we are to compare them, we need to use relative values. For example, we would need to create a ranking based on the total number of cases per 1000 habitants.
 
-```{r eval=FALSE, include=FALSE}
-countries
+In order to do so, we will need to do the following steps:
+
+1.  Load a dataframe with population data per each country
+2.  Add the population data by join our existing dataframes with the newly created one in the previous step (left join)
+3.  Calculate relative number of confirmed cases like this: $confirmed~rel = \frac{confirmed}{population}$
+
+### R
+
+```{r}
+
+# Load population data.
+countries19 <- read.csv("data/countries_pop19.csv")
+
+r_df %>% 
+  filter(type == "confirmed") %>% 
+  count(country, wt = cases, sort = TRUE, name = "confirmed") %>% 
+  # Add population column.
+  left_join(countries19, by = c("country" = "Location")) %>% 
+  # Calculate relative cases.
+  mutate(confirmed_rel = confirmed / PopTotal) %>% 
+  # Select certain columns only.
+  select(country, confirmed, confirmed_rel) %>% 
+  # Sort by confirmed_rel on descending order.
+  arrange(desc(confirmed_rel)) %>% 
+  # Display everything on a nice datatable.
+  head(10)
 ```
+
+### Python
+
+```{python}
+
+# Load population data.
+countries19 = pd.read_csv('data/countries_pop19.csv')
+
+py_confirmed_rel = py_df.loc[py_df['type'] == 'confirmed'].groupby('country').agg(
+  {'cases':'sum'}
+).rename(columns={'cases': 'confirmed'})
+
+# Join population information.
+py_confirmed_rel = py_confirmed_rel.join(countries19.set_index('Location'), on = 'country')
+
+# Calculate relative confirmed cases.
+py_confirmed_rel = py_confirmed_rel.assign(confirmed_rel = py_confirmed_rel['confirmed']/py_confirmed_rel['PopTotal'])
+
+py_confirmed_rel = py_confirmed_rel[['confirmed', 'confirmed_rel']]
+
+py_confirmed_rel.sort_values(['confirmed_rel'], ascending = False).head(10)
+```
+
+## Conclusion
+
+Before concluding, I have to admit that I have been using `tidyverse` for several years, and I am very used to its syntax. Therefore, it is no wonder that I feel much more comfortable with it than with `pandas`' . Being said that, I find the latter to be quite straightforward and relatively easy to use and memorise (I will need to check this post and [this page](https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_r.html) for reference). However, I have two main concerns about pandas:
+
+1.  Compared to `R`, which is more succinct, pandas requires to type many times the data frame's name. This makes it more prone-error and slow to type, but also more difficult to read. If you want to avoid typing it as much, you need to chain a number of methods that result in very long lines, which makes it difficult to comment and it is, again, more difficult to read.
+2.  I find it somewhat overwhelming that there are many ways to perform same task in `pandas`. I believe Ted Petrou's advice on learning the [minimum sufficient pandas' syntax](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428) is a good advice, as it makes things simpler.
+3.  I miss the magritte's pipe operator, but I guess I should change my mindset when using python.
+
+Regarding `reticulate`: I think it is very promising. While `jupyter notebooks` can be used with different kernels such as `Julia`, `python` or `R` (hence its name), there is no way to combine different kernels in the same notebook, at least that I am aware of. This means that only one language per notebook can be used. On the other hand, reticulate allows you to use different languages within the same document (a markdown file, which I prefer it over jupyter notebooks, by the way). Admittedly, I do not know if that is a common scenario, but it has proven to be very useful for a post like this one.
+
+Being said that, I admit that I expected that I could use one variable from `python` and use it in `R`, if that makes any sense at all. However, that's not possible, as both languages are isolated, which I assume is the logical way (I assume is not straightforward at all to convert from one `python` `list` to an `R` `vector`, for example).
