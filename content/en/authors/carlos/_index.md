@@ -21,6 +21,9 @@ bio = """Interested in the commodifications between cities, society and technolo
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "carlos@carloscamara.es"
 
+# Highlight the author in author lists? (true/false)
+highlight_name = true
+
 # List (academic) interests or hobbies
 interests = [
   "Cities",

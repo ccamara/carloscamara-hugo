@@ -22,6 +22,9 @@ I have a technical and social background and my multiple research interests are 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "carlos@carloscamara.es"
 
+# Highlight the author in author lists? (true/false)
+highlight_name = true
+
 # List (academic) interests or hobbies
 interests = [
   "Cities",
