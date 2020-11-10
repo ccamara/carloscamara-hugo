@@ -1,18 +1,37 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: "Ciudades, post-confinamiento y gatopardo: nada cambia, nada sigue igual. (versión extendida)"
-date: 2020-11-02
-math: true
-diagram: true
+subtitle: ""
+summary: "Transcurridos varios meses desde el final del primer confinamiento, las ciudades han cambiado poco en apariencia. Y sin embargo ha cambiado todo. ¿Pero a qué responden esos cambios profundos? ¿Cómo se relacionan con los debates existentes sobre modelos de ciudad?"
+authors: ["admin"]
+tags: ["covid", "ciudad"]
+categories: ["Arquitectura"]
+date: 2020-11-10T12:31:41+01:00
+lastmod: 2020-10-15T12:31:41+01:00
+featured: false
 draft: false
 
-categories: ["Arquitectura"]
-
-projects: ["blogarquia"]
-
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
+  caption: "Barcelona, julio 2020: Calles Pelai y Ronda Universitat (normalmente congestionadas) casi vacías y con ampliación provisional de aceras. Foto: Carlos Cámara"
   placement: 2
-  caption: ' Barcelona post-confinamiento mostrando las calles Pelai y Ronda Universitat (normalmente congestionadas) casi vacías y con ampliación provisional de aceras. Foto: Carlos Cámara'
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: ["blogarquia"]
 ---
+
+{{% callout note %}}
+Esta es la versión extendida de [este post](https://blogfundacion.arquia.es/en/2020/10/ciudades-post-confinamiento-y-gatopardo-nada-cambia-nada-sigue-igual/) escrito originalmente para el **Blog de la Fundación Arquia** que se escribió en julio de 2020.
+{{% /callout %}}
 
 Han transcurrido ya varios meses desde que el final del confinamiento nos dejase volver a disfrutar del aire libre, de las relaciones sociales presenciales, de nuestras ciudades... Y si bien no descubro nada nuevo si digo que, durante los primeros meses de pandemia se escribió mucho sobre la relación entre ciudad y COVID[^1], desde ópticas y temáticas tan variadas como <a href="https://blogfundacion.arquia.es/2020/04/covid19-y-movilidad/">movilidad</a>, espacio público, <a href="https://www.elperiodico.com/es/opinion/20200625/pacto-social-vivienda-articulo-eduardo-gonzalez-montserrat-pareja-eastaway-8014813">vivienda</a>, ODS, <a href="https://www.lavanguardia.com/natural/20200511/481086008891/supermanzana-covid-19-salvador-rueda-guim-costa.html">sostenibilidad</a>... **lo cierto es que las ciudades que hemos visto al salir de casa se parecen bastante a las de antes** (al menos en apariencia).
 
@@ -26,13 +45,8 @@ Es por ello que los cambios, que están y son profundos, hay que buscarlos en ot
 * **El propio modelo de vivir:** se ha producido un aumento de demanda de viviendas con jardín y en ciudades pequeñas o entornos "más rurales"[^4].
 
 Todos ellos tienen en común el hecho de ser medidas que, no solo no alteran en lo esencial las dinámicas anteriores que ya conocíamos, sino que las acentúan, favoreciendo el consumo y el individualismo como supuesta solución a los problemas de la pandemia. **El resultado es una falsa apariencia de normalidad que esconde cambios sutiles pero profundos que nada tienen que ver con los debates razonados sobre nuevos modelos de ciudad ni con datos empíricos, sino con una combinación de miedos, desconocimiento e intereses económicos y mirada obtusa que únicamente acarrean mayor desigualdad social y espacial. **Lejos quedan las voces de quienes afirmaban que las ciudades post-covid serían (o deberían ser) <a href="https://www.lavanguardia.com/local/barcelona/20200427/48740943226/barcelona-pandemia-coronavirus-covid-urbanismo-transformacion-arquitectos-urbanistas.html?facet=amp">más sostenibles</a>, <a href="https://theconversation.com/como-deben-ser-las-ciudades-sanas-y-resilientes-del-futuro-135801?utm_source=twitter&amp;utm_medium=bylinetwitterbutton">más resilientes</a>, <a href="https://www.escolasert.com/es/blog/casas-calles-barrios-y-ciudades-que-curan">más saludables</a> y tendrían <a href="https://www.eldiario.es/madrid/entrevista-ezquiaga_128_5956730.html">menos coches</a>, y <a href="https://elpais.com/elpais/2020/06/22/alterconsumismo/1592811834_935369.html?fbclid=IwAR38Aw5If7JBjOM6FrLU_hK60gFHzzIWEhndN0vvRLzinMitBqe-3MrjgGg">mejores condiciones de habitabilidad</a>.**
-**
 
 Es cierto que la gravedad de la situación nos lleva a querer demandar soluciones rápidas y que, sin embargo, las inercias de las ciudades son elevadas debido a que las dinámicas legales y técnicas del planeamiento son complejas y lentas. Es por ello que, **precisamente porque hay mucho en juego, no deberíamos caer en la tentación de supeditar cualquier decisión a la urgencia o al criterio único y engañoso de la salud y la seguridad, tirando por los suelos los avances producidos en los estudios urbanos sobre nuevos modelos de ciudad más sostenibles, más resilientes, más igualitarias, más vivibles.** Ahora, más que nunca, es el momento para tomar decisiones fundadas y replantear radicalmente las ciudades para abordar, de una vez por todas, las múltiples carencias que la COVID no ha hecho más que señalar con su dedo acusador.
-
-{{% callout note %}}
-Esta es la versión extendida de este post escrito originalmente para el [Blog de la Fundación Caja de Arquitectos](https://blogfundacion.arquia.es/2020/01/volver-12-anos-no-es-nada-o-si/)
-{{% /callout %}}
 
 [^1]: Ejemplo de ello podemos encontrarlo en [el blog de la Fundación Arquia](https://blogfundacion.arquia.es/?s=COVID&cat=&swp_category_limiter=0), donde ha habido varios post al respecto por varios corresponsales.
 [^2]: La Vanguardia: <a href="https://www.lavanguardia.com/economia/20200616/481807009010/gobierno-aprueba-ayuda-hasta-5500-euros-comprar-coche.html">El Gobierno aprueba ayudas de hasta 5.500 euros para comprar un coche </a>
