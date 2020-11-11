@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ciudades, post-confinamiento y gatopardo: nada cambia, nada sigue igual. (versión extendida)"
+title: "Ciudades, post-confinamiento y gatopardo: nada cambia, nada sigue igual (versión extendida)"
 subtitle: ""
 summary: "Transcurridos varios meses desde el final del primer confinamiento, las ciudades han cambiado poco en apariencia. Y sin embargo ha cambiado todo. ¿Pero a qué responden esos cambios profundos? ¿Cómo se relacionan con los debates existentes sobre modelos de ciudad?"
 authors: ["admin"]
@@ -30,7 +30,7 @@ projects: ["blogarquia"]
 ---
 
 {{% callout note %}}
-Esta es la versión extendida de [este post](https://blogfundacion.arquia.es/en/2020/10/ciudades-post-confinamiento-y-gatopardo-nada-cambia-nada-sigue-igual/) escrito originalmente para el **Blog de la Fundación Arquia** que se escribió en julio de 2020.
+Esta es la versión extendida de [este post](https://blogfundacion.arquia.es/2020/10/ciudades-post-confinamiento-y-gatopardo-nada-cambia-nada-sigue-igual/) escrito originalmente para el **Blog de la Fundación Arquia** que se escribió en julio de 2020.
 {{% /callout %}}
 
 Han transcurrido ya varios meses desde que el final del confinamiento nos dejase volver a disfrutar del aire libre, de las relaciones sociales presenciales, de nuestras ciudades... Y si bien no descubro nada nuevo si digo que, durante los primeros meses de pandemia se escribió mucho sobre la relación entre ciudad y COVID[^1], desde ópticas y temáticas tan variadas como <a href="https://blogfundacion.arquia.es/2020/04/covid19-y-movilidad/">movilidad</a>, espacio público, <a href="https://www.elperiodico.com/es/opinion/20200625/pacto-social-vivienda-articulo-eduardo-gonzalez-montserrat-pareja-eastaway-8014813">vivienda</a>, ODS, <a href="https://www.lavanguardia.com/natural/20200511/481086008891/supermanzana-covid-19-salvador-rueda-guim-costa.html">sostenibilidad</a>... **lo cierto es que las ciudades que hemos visto al salir de casa se parecen bastante a las de antes** (al menos en apariencia).
