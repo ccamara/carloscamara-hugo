@@ -142,7 +142,7 @@ But even when using relative values (eg: number of cases per inhabitant), there 
 
 So, the biggest problem here is that without taking into consideration those factors, comparisons may render plenty of biased conclusions that have nothing to do with reality, such as come countries may be dodging COVID-19 or are kind of immune, or that COVID-19 only affects countries with a bad health system, unorganized governments, or undeveloped countries. As a result, **there is a risk of developing a narrative of moral superiority[^narratives] based on totally wrong foundations** like what some politicians have started to do in their own self-interest[^netherlands].
 
-{{< figure src="img/repugnant-conclusions.jpg" title="Don't be like Wopke Hoekstra doing hasty comparison, or you risk reaching repugnant conclusions like him. Photo: [Teller Report](https://www.tellerreport.com/news/2020-03-31---hoekstra-guilty-after-criticism-italy---not-enough-empathetic--.ByGe3r0lP8.html)" numbered="true" lightbox="true" >}}
+{{< figure src="img/repugnant-conclusions.jpg" title="Don't be like Wopke Hoekstra doing hasty comparison, or you risk reaching repugnant conclusions like him. Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WopkeHoekstra2018.jpg)" numbered="true" lightbox="true" >}}
 
 
 ## 5. Take predictions even less seriously
