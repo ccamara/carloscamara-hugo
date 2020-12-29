@@ -77,3 +77,5 @@ El texto completo puede verse en los repositorios siguientes: [Tesis Doctorals e
 A continuación comparto la presentación de la defensa:
 
 <script async class="speakerdeck-embed" data-id="b62594fe9afc44fba4aa8518440bfd31" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+{{ tweeet 999321190236901376 }}
