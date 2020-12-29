@@ -1,5 +1,5 @@
 +++
-title = "The precariousness of urban commons in the face of European public law"
+title = "The Precariousness Of Urban Commons In The Face Of European Public Law"
 date = 2020-12-15T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
