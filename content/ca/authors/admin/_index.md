@@ -13,7 +13,11 @@ role = "Arquitecte. Doctor. Professor. Estudiant."
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Oxford Brookes University", url = "https://brookes.ac.uk/" }, { name = "Universitat Oberta de Catalunya", url = "http://uoc.edu"} ]
+organizations = [ 
+ { name = "University of Warwick", url = "https://warwick.ac.uk/fac/arts/schoolforcross-facultystudies/igsd/" }, 
+ { name = "Oxford Brookes University", url = "https://brookes.ac.uk/" }, 
+ { name = "Universitat Oberta de Catalunya", url = "http://uoc.edu"} 
+ ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = """Professor, investigador, aprenent.<br>
