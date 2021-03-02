@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["hugo", "web", "qgis", "maps", "CI"]
+tags = ["hugo", "web", "QGIS", "maps", "CI"]
 
 # Project summary to display on homepage.
 summary = "Website development and CI infrastructure for QGIS' Spanish Association"
@@ -25,7 +25,7 @@ highlight = true
 [image]
   placement = 3
   # Caption (optional)
-  caption = "Awarded work of the architecture category. Building of 131 protected homes in Mieres, by Bernardo Angelini and David Casino"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
