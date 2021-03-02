@@ -37,10 +37,10 @@ After participating in the workshops of the [two editions of Summerlab 2019](/en
 
 {{< gallery album="gallery" >}}
 
-As a member of [Montera 34](https://montera34.org), my participation in the project consisted of collaborating in the design of the process and developing the technological infrastructure to enable the creation of school routes that contribute to increasing the number of children walking alone (or accompanied by other schoolmates) to their schools. To this end, the process is divided into three stages: 
+As a member of [Montera 34](https://montera34.org), my participation in the project consisted of collaborating in the design of the process and developing the technological infrastructure to enable the creation of school routes that contribute to increasing the number of children walking alone (or accompanied by other schoolmates) to their schools. To this end, the process is divided into three stages:
 
-1. Data collection based on a questionnaire carried out in classrooms, 2) 
-2. Discussing the results obtained with the children to identify and co-design customised routes, 3) 
+1. Data collection based on a questionnaire carried out in classrooms,
+2. Discussing the results obtained with the children to identify and co-design customised routes,
 3. Testing the designed routes.
 
 Eskola BideApp is the application we have developed ad-hoc to automate the processing and visualisation of the data collected in the data mining sessions, both with the pupils (slides, interactive dashboard and paper maps) and with municipal technicians (reports).
