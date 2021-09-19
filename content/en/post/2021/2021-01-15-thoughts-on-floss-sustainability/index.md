@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Some R Packages I would love to explore (October 2020)"
+title: "Thoughts on FLOSS and sustainability"
 subtitle: "A useful note for my future self (and probably to others)"
 summary: ""
 authors: []
-tags: ["RStats"]
+tags: ["Floss"]
 categories: ["Data Science"]
 date: 2021-01-20T16:27:27+01:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
