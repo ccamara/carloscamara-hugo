@@ -3,7 +3,7 @@ title = "Sobre aceras, pasos, bordillos, sillas y bastones #zaccesibilidad: mape
 publishDate = 2019-06-13T16:00:06+02:00  # Schedule page publish date.
 draft = false
 
-author = ["admin", "miguel-sevilla"]
+authors = ["admin", "miguel-sevilla"]
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
