@@ -15,10 +15,10 @@ summary = ""
 
 # Name of event and optional event URL.
 event = "International Symposium on the Food-Water-Energy Nexus"
-event_url = "https://eveeno.com/297820766"
+event_url = "https://www.hft-stuttgart.com/smart-city-week/in-source"
 
 # Location of event.
-location = "Stuttgart"
+location = "HFT Stuttgart"
 
 # Is this a selected talk? (true/false)
 selected = false
