@@ -3,6 +3,8 @@ title = "Sobre sillas, sillitas, bordillos y semáforos sonoros. #zaccesibilidad
 publishDate = 2018-05-20T14:12:06+02:00  # Schedule page publish date.
 draft = false
 
+authors = ["admin", "miguel-sevilla"]
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date = 2018-05-14T19:30:00+02:00

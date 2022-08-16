@@ -15,10 +15,10 @@ summary = ""
 
 # Name of event and optional event URL.
 event = "International Symposium on the Food-Water-Energy Nexus"
-event_url = "https://eveeno.com/297820766"
+event_url = "https://www.hft-stuttgart.com/smart-city-week/in-source"
 
 # Location of event.
-location = "Stuttgart"
+location = "HFT Stuttgart"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -60,3 +60,7 @@ highlight = true
 +++
 
 In this talk we present how we have implemented a co-design process with our partners and stakeholders for the creation of "grounded" FEW nexus' visualisations that enforce decision making on FEW nexus.
+
+![](FEW symposium.png)
+
+![](FEW symposium2.png)

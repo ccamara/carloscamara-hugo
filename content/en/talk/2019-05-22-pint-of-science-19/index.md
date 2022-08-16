@@ -3,6 +3,8 @@ title = "On sidewalks, crossings, kerbs, wheelchairs and cranes. #Zaccesibilidad
 publishDate = 2019-06-13T16:00:06+02:00  # Schedule page publish date.
 draft = false
 
+authors = ["admin", "miguel-sevilla"]
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date = 2019-05-22T18:30:00+02:00
