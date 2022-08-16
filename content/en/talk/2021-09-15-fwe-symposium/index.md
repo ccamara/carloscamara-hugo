@@ -28,7 +28,7 @@ selected = false
 #   Simply enter the filename of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning.md"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["creating interfaces"]
+projects = ["creating-interfaces"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -61,6 +61,6 @@ highlight = true
 
 In this talk we present how we have implemented a co-design process with our partners and stakeholders for the creation of "grounded" FEW nexus' visualisations that enforce decision making on FEW nexus.
 
-![](FEW symposium.png)
+![](FEW_symposium.png)
 
-![](FEW symposium2.png)
+![](FEW_symposium2.png)
