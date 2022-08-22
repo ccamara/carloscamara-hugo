@@ -22,7 +22,7 @@ bio = """Professor Porto de Albuquerque (IGSD, University of Warwick) is a geogr
 email = "J.Porto@warwick.ac.uk"
 
 # List (academic) interests or hobbies
-interests = ["urban/rural sociology", "aesthetics", "history of art"]
+interests = [""]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
