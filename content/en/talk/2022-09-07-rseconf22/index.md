@@ -18,7 +18,7 @@ event = "RSECon 2022"
 event_url = "https://rsecon2022.society-rse.org/"
 
 # Location of event.
-location = "Sweden/Online"
+location = "Newcastle Upon Tyne (UK)"
 
 # Is this a selected talk? (true/false)
 selected = false
