@@ -22,7 +22,7 @@ bio = """My background is in Cognitive Science. I completed both a BSc(Hons) and
 email = "James.Tripp@warwick.ac.uk"
 
 # List (academic) interests or hobbies
-interests = ["GIScience", "critical GIS", "volunteered geographic information", "citizen science", "urban geography"]
+# interests = [""]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -30,8 +30,8 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 #[[education.courses]]
-#  course = "Lawyer"
-#  institution = "Universidad de Navarra"
+#  course = "Psychology"
+#  institution = "University of Warwick"
 #  year = 2016
 
 
