@@ -1,6 +1,6 @@
 +++
 title = "Quarto: a library to run them all? A collaborative exercise to use, learn and assess quarto for authoring reproducible documents in different scenarios"
-publishDate = 2022-09-01T13:00:06+00:00  # Schedule page publish date.
+publishDate = 2022-09-01T13:00:00+00:00  # Schedule page publish date.
 draft = false
 authors = ["admin", "james-tripp", "Cagatay Turkay"]
 
