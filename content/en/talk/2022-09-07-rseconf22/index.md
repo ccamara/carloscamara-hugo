@@ -7,7 +7,7 @@ authors = ["admin", "james-tripp", "Cagatay Turkay"]
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date = 2022-09-07T13:30:00+01:00
-date_end = 2022-09-07T16:30:00+01:00
+date_end = 2022-09-07T16:50:00+01:00
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -38,7 +38,7 @@ tags = ["data science", "R", "Python", "Quarto", "Open Science"]
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = ""
+url_code = "https://github.com/WarwickCIM/quarto-workshop"
 
 # Does the content use math formatting?
 math = false
