@@ -10,7 +10,7 @@ date = 2021-12-17T10:00:00+00:00
 #date_end = 2021-12-17T12:00:00+00:00
 
 # Abstract and optional shortened version.
-abstract = "In this first session of the WRUG reproducibility series, I introduce two methods to deal with library dependencies: {automagic} and {renv}"
+abstract = ""
 summary = ""
 
 # Name of event and optional event URL.

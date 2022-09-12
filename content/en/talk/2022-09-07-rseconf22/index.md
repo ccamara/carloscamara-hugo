@@ -36,7 +36,7 @@ tags = ["data science", "R", "Python", "Quarto", "Open Science"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://warwickcim.github.io/quarto-workshop/slides/slides.html"
 url_video = ""
 url_code = "https://github.com/WarwickCIM/quarto-workshop"
 
@@ -66,7 +66,7 @@ Quarto is a language-agnostic software based on Pandoc to render files combining
 This collaborative workshop will be structured as follows: 
 
 1. a brief theoretical introduction and instructions; 
-1. a task that participants may choose from the different use cases provided (i.e. generating a single document, migrating from Rmarkdown or Jupyter, creating a book or generatin1. interactive content); and 
+1. a task that participants may choose from the different use cases provided (i.e. generating a single document, migrating from Rmarkdown or Jupyter, creating a book or generating interactive content); and 
 1. a group discussion and conclusions.
 
 
