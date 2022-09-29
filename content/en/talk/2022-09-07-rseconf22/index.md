@@ -81,4 +81,4 @@ Participants in this workshop have fun while gaining enough depth of breath and 
 
 This workshop is targeted to anyone interested in reproducible publishing, especially if they are looking for a single solution to use regardless of their programming language and are willing to explore with others quarto's pros and cons, contributing to a group discussion.
 
-![Photo by Tyneshight](images/RSEConf-070922-79.jpg)
+![Photo by Tyneshight](/images/RSEConf-070922-79.jpg)
