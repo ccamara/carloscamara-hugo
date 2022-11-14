@@ -21,9 +21,9 @@ publication = "Github"
 publication_short = ""
 
 # Abstract.
-abstract = "An open source prototype for a visual interface to support research and Food-Water-Energy Nexus engagements, designed collaborativelly as part of Creating interfaces’ WP4, developed by the Institute for Global Sustainable Development at the University of Warwick, and aimed to identify and visualise a grounded nexus for three different study cases: Kindergartens in Slupsk (Poland), food waste in Wilmington (USA) and local producers in Tulcea (Romania). 
+abstract = """An open source prototype for a visual interface to support research and Food-Water-Energy Nexus engagements, designed collaborativelly as part of Creating interfaces’ WP4, developed by the Institute for Global Sustainable Development at the University of Warwick, and aimed to identify and visualise a grounded nexus for three different study cases: Kindergartens in Slupsk (Poland), food waste in Wilmington (USA) and local producers in Tulcea (Romania). 
 
-The expectation of this tool is to provide an interface to increase the understanding of how food, energy and water are interlinked in a specific context and, ultimately, to inform and support decision-making aimed to produce changes in behaviours that have positive impacts in terms of Food, Energy and Water."
+The expectation of this tool is to provide an interface to increase the understanding of how food, energy and water are interlinked in a specific context and, ultimately, to inform and support decision-making aimed to produce changes in behaviours that have positive impacts in terms of Food, Energy and Water."""
 
 # Summary. An optional shortened abstract.
 summary = ""
