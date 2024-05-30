@@ -42,7 +42,7 @@ tags = ["Food-Water-Energy nexus", "Co-creation", "data visualisation", "Methods
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["creating-interfaces"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
