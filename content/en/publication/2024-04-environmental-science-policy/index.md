@@ -3,7 +3,7 @@ title = "Co-designing grounded visualisations of the Food-Water-Energy nexus to 
 date = 2024-04-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "João Porto de Albuquerque", "Joanna Suchomska", "Grant Tregonning", "Greg McInerny"]
+authors = ["admin", "joao-porto", "Joanna Suchomska", "Grant Tregonning", "greg-mcinerny"]
 
 # Publication type.
 # Legend:
