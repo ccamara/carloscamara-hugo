@@ -9,7 +9,7 @@ authors = ["jorge-leon"]
 superuser = false
 
 # Role/position
-role = "Associate Lecturer. Phylosophy. Universidad de Zaragoza "
+role = "Associate Professor. School of Philosophy. Universidad de Zaragoza "
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -67,12 +67,12 @@ user_groups = []
 [[social]]
   icon = "orcid"
   icon_pack = "ai"
-  link = "http://orcid.org/0000-0002-9378-0549"
+  link = "https://orcid.org/0000-0002-3723-1123"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.es/citations?user=q-K14lIAAAAJ&hl=ca"
+  link = "https://scholar.google.es/citations?user=q-K14lIAAAAJ&hl"
 
 
 # Link to a PDF of your resume/CV from the About widget.
