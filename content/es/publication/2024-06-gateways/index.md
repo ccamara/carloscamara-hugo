@@ -1,6 +1,6 @@
 +++
 title = "Digital tools for knowledge exchange and sustainable public food procurement in community kindergartens: A case study in Słupsk, Poland"
-date = 2024-04-01T00:00:00
+date = 2024-06-30T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Joanna Suchomska", "Wojciech Goszczyński", "Pia Laborgne", "admin", "Andrea Pierce", "Michał Wróblewski", "joao-porto", "Simon Jirka"]
