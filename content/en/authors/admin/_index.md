@@ -72,10 +72,10 @@ user_groups = []
   name = "@ccamara@scholar.social"
   link = "https://scholar.social/@ccamara"
 
-<!-- [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/drccamara" -->
+# [[social]]
+#  icon = "twitter"
+#  icon_pack = "fab"
+# link = "https://twitter.com/drccamara"
 
 [[social]]
   icon = "orcid"
