@@ -114,7 +114,7 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "@carlescamara", link = "https://twitter.com/carlescamara"},
   {icon = "twitter", icon_pack = "fab", name = "@drccamara (academic)", link = "https://twitter.com/drccamara"},
-  {icon = "mastodon", icon_pack = "fab", name = "@ccamara", link = "https://scholar.social/@ccamara"},
+  {icon = "mastodon", icon_pack = "fab", name = "@ccamara@scholar.social", link = "https://scholar.social/@ccamara"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = ""},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
