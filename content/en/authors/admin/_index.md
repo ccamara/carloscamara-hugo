@@ -67,7 +67,7 @@ user_groups = []
 #   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
-  icon = "mastodon"
+  icon = "mastodon",
   icon_pack = "fab", 
   name = "@ccamara@scholar.social", 
   link = "https://scholar.social/@ccamara"
