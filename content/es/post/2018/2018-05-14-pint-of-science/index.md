@@ -36,22 +36,26 @@ Precisamente, para salvar esta desconexión entre sociedad y ciencia nació la i
 
 Nuestra charla fue una de las tres de la sesión titulada "[De retrones y satélites](http://pintofscience.es/event/de-retrones-y-satelites)" que tuvo lugar el lunes 14 de mayo en el [Harlem Rock Café](https://www.openstreetmap.org/node/5615228922) y en la que participaron también [Rafael Martínez Cebolla](http://twitter.com/galactero), del Colegio de Geógrafos de Aragón, y [Raúl Gay Navarro](http://www.twitter.com/viajeroaitaca_), Diputado Cortes de Aragón.
 
-{{< tweet 996111724569874432 >}}
+>     Lujazo de ponentes en el Harlem! #Pint18ES #pint18zgz #ParalaPoSteridad Y mañana más, a partir de las 19.00! pic.twitter.com/0n3Sve6GEo
+>    — Silvi 🤷🤦🏽‍♀️ (@sylviezgz) May 14, 2018
 
 Rafa habló del trabajo que hacen los geógrafos y de la importancia que tiene la geografía para comprender y explicar fenómenos de todo tipo y que tienen que ver con cómo percibimos y nos relacionamos con el mundo y su entorno físico, utilizando un sinfín de mapas curiosos.
 
-{{< tweet 996078350446858240 >}}
+>     Queréis saber para qué sirve la geografía en nuestro día a día? Pues pasaros por el Harlem, pero daros prisa, que ya ha empezado! #Pint18ES #pint18zgz #ParalaPoSteridad pic.twitter.com/YkdEx0zc8v
+>    — Silvi 🤷🤦🏽‍♀️ (@sylviezgz) May 14, 2018
 
 En su divertida charla titulada "Sin brazos y a lo loco", Raúl contó su experiencia personal para tomar consciencia de cómo puede ser la vida diaria de una persona con discapacidad pero, sobre todo, para romper tabús sobre la discapacidad. Todo ello con una mezcla de humor, crudeza y ternura.
 
-{{< tweet 996097794250362884 >}}
+>     En la segunda charla en el Harlem, @viajeroaitaca_ nos ha hablado sobre "discapacidad, quirófanos y demás cosas divertidas" #Pint18ES #pint18zgz #ParalaPoSteridad pic.twitter.com/15cS3OqbKH
+>    — Silvi 🤷🤦🏽‍♀️ (@sylviezgz) May 14, 2018
 
 Por último, Miguel y yo explicamos la necesidad de un mapa como el que estamos desarrollando sobre discapacidad y la oportunidad que supone hacerlo colaborativamente utilizando [OpenStreetMap](http://openstreetmap.org) no solo para denunciar, sino para corresponsabilizar a la ciudadanía y contribuir a mejorar a la autonomía de las personas con diversidad funcional.
 
 
 {{< tweet 996097770158219267 >}}
 
-{{< tweet 996099713387687938 >}}
+>     Buenas noticias! Todos podemos mapear! Nos lo cuentan @carlescamara y @msevilla00 de @MapColabora en el Harlem #Pint18ES #pint18zgz #ParalaPoSteridad pic.twitter.com/IEgtlYQYcb
+>    — Silvi 🤷🤦🏽‍♀️ (@sylviezgz) May 14, 2018
 
 La experiencia fue inmejorable, tanto por lo interesantes y complementarias que fueron las charlas anteriores, como por la organización del evento a través de la asociación que organiza *Pint of science* (gracias en particular a Carlos, Juan y Silvia por su trabajo), pero muy especialmente por el recibimiento del público, que se prestó a un interesante debate que se prolongó hasta la hora de cierre del bar.
 
