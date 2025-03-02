@@ -80,14 +80,17 @@ Tras las intervenciones de mis directores, el tribunal se dispuso a deliberar. M
 {{< tweet 958333900824170496 >}}
 {{< tweet 958370295433310208 >}}
 {{< tweet 958374832315555840 >}}
-{{< tweet 958606198256930817 >}}
+
+>     Ya me estáis felicitando a @carlescamara que es desde ayer DOCTOR ARQUITECTO. Enhorabuena amigo!
+>    — Jose Mª Echarte (@j_echarte) January 31, 2018
+
 {{< tweet 958339343256555520 >}}
 
 Y aunque el día continuó con una comida con directores y miembros del tribunal, un paseo de 3km con Laura, y una merienda cena con mi familia (ahora sí, casi al completo) en casa, eso me lo guardo para mí y solo añadiré lo que imagino que ya suponéis: fueron momentos muy felices, de besos y abrazos. Bueno, eso y que cuando nos quedamos solos en casa y me senté en el sofá a eso de las 21:00, me sobrevino de golpe un cansancio similar al de haber corrido una maratón del que todavía no he conseguido recuperarme del todo. Y así fue, *grosso modo*, mi día. Un día que espero recordar siempre como uno de los momentos más especiales de mi vida. Solo me queda agradecer a todas aquellas personas que habéis hecho posible que llegase este momento. Y es que, aunque esta tesis la firmo yo, es el resultado colectivo de muchas personas sin las cuales ni ella ni yo mismo estaríamos ahora donde estamos.
 
 {{< figure src="/img/post/doctorado/urban-commons-presentacio-agraïments.png" title="Diapositiva final de la defensa, con una versión reducida de los agradecimientos de la tesis a modo de tributo a quienes la han hecho posible." >}}
 
-**Addendum:**Y no podía terminar el post de otra forma, con un chiste propio para la ocasión ("El" chiste, como le llama Laura) y una nota mental o recordatorio a modo de cura de humildad en forma de tira cómica:
+**Addendum:** Y no podía terminar el post de otra forma, con un chiste propio para la ocasión ("El" chiste, como le llama Laura) y una nota mental o recordatorio a modo de cura de humildad en forma de tira cómica:
 
 {{< tweet 958754670553567232 >}}
 
