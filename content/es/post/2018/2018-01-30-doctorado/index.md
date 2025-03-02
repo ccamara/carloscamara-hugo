@@ -81,8 +81,8 @@ Tras las intervenciones de mis directores, el tribunal se dispuso a deliberar. M
 {{< tweet 958370295433310208 >}}
 {{< tweet 958374832315555840 >}}
 
->     Ya me estáis felicitando a @carlescamara que es desde ayer DOCTOR ARQUITECTO. Enhorabuena amigo!
->    — Jose Mª Echarte (@j_echarte) January 31, 2018
+> Ya me estáis felicitando a @carlescamara que es desde ayer DOCTOR ARQUITECTO. Enhorabuena amigo!
+> — Jose Mª Echarte (@j_echarte) January 31, 2018
 
 {{< tweet 958339343256555520 >}}
 
