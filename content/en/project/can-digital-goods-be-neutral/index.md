@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Research", "OpenStreetMap", "codesign", "data visualisations", "geochicas", "EDI", "feminism"]
+tags = ["research", "OpenStreetMap", "codesign", "data visualisations", "geochicas", "EDI", "feminism"]
 
 # Project summary to display on homepage.
 summary = "This research project promotes digital equity by empowering members from under-represented communities to co-produce data visualisations and tools that examine and challenge the impact of neutrality as a guiding principle in a particular and relevant case of digital good: OpenStreetMap [OSM]."
